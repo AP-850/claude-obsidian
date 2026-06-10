@@ -1,0 +1,107 @@
+---
+type: concept
+title: "Makhlab 1 Project"
+created: 2026-06-04
+updated: 2026-06-04
+tags:
+  - sbtdws
+  - adwc
+  - pg2030
+  - experimentation
+  - uxs
+  - fdc5
+status: active
+related:
+  - "[[PG 2030 Directive]]"
+  - "[[Three Development Thematics]]"
+  - "[[UxS CAPDEV Portfolio]]"
+  - "[[TEIW Standing Charter]]"
+  - "[[SBTDWS Key Relationships]]"
+  - "[[sbtdws/_index]]"
+---
+
+# Makhlab 1 Project
+
+Makhlab 1 is the first governed UxS tactical experimentation sprint under PG 2030 Task 5 and FDC 5. It is a Tactical Drones PoC led externally under J3 WDC governance, with SBTDWS in a supporting role.
+
+Navigation: [[sbtdws/_index]] | [[PG 2030 Directive]] | [[Three Development Thematics]] | [[UxS CAPDEV Portfolio]]
+
+> **Name note:** Source documents from April 2026 used the incorrect name "Nukhbah 1" for this project. The correct name is "Makhlab 1". The `.raw/` files retain the original incorrect name as the immutable source record.
+
+---
+
+## Directive Basis
+
+Directed under Task 5 of the PG 2030 Directive (Section 3.15):
+
+> "Launch the 'Makhlab 1' project to support activities that reinforce the Presidential Guard 2030 vision ('Excellence'), highlighting key elements in the transformation agenda of the Presidential Guard."
+
+Makhlab 1 is the practical execution of this task — the first sprint delivering a tangible transformation proof point under FDC 5.
+
+---
+
+## What Makhlab 1 Is
+
+| Parameter | Detail |
+|-----------|--------|
+| Type | Tactical experimentation sprint (PoC) |
+| Focus | UxS — Tactical Drones (FPV / ISR) |
+| FDC linkage | FDC 5 — Tactical Experimentation |
+| Governance | J3 WDC (external lead) |
+| SBTDWS role | Supporting — EXCON and evaluation |
+| Partner force | Falcons Brigade / SOF |
+| Output | First TTP publication under FDC 5 |
+| Target | Q1 2027 |
+
+---
+
+## Ownership and Governance
+
+Makhlab 1 is **not SBTDWS-owned**. J3 WDC carries the lead. A Memorandum of Agreement (MoA) between J3 WDC and SBTDWS is required before the sprint begins (target: Q1 27).
+
+SBTDWS contribution:
+- Provides the EXCON function and evaluation methodology
+- Runs the experiment against a defined hypothesis
+- Extracts TTP and doctrine outputs for FDC 5
+- Does not direct tactical employment development — that sits with J3 WDC and Falcons Brigade
+
+See [[TEIW Standing Charter]]: Makhlab 1 is classified as a supported external PoC and does not set the TEIW operating template.
+
+---
+
+## Partner Force — Falcons Brigade / SOF
+
+Falcons Brigade is the natural partner unit for Makhlab 1:
+- Provides operators and problem statements
+- SAG 9 partner for validation
+- UxS talent pipeline
+
+See [[SBTDWS Key Relationships]] Section 5.
+
+---
+
+## Relationship to Three Development Thematics
+
+Makhlab 1 is the execution node for **Thematic 1 — Experimentation to Adaptation**:
+
+- CAPDEV Cell is refocused as the Makhlab 1 / FDC 5 execution arm under J3 WDC governance
+- Sprint follows the 5-step capability development cycle: Problem Definition → Sprint Event → Prototype Trial → Doctrine Output → Handover
+
+See [[Three Development Thematics]].
+
+---
+
+## Status
+
+- No formal implementation plan yet drafted (June 2026).
+- MoA (J3 WDC / SBTDWS) required before sprint — target Q1 27.
+- D-02 (engagement direction) from Commandant required before SBTDWS can table the Force Generation Pipeline ToR to J3/J7 — see [[Commander Decisions Register]].
+- First sprint target: Q1 27 — see [[SBTDWS 2030 Timeline]].
+
+---
+
+## Source
+
+Correct name sourced from: `.raw/Develop SBTDWS transformation response template.md`, `.raw/Review SBTDWS context and development.md`
+
+Incorrect name "Nukhbah 1" used in earlier source: `.raw/ChatGPT-SBTDWS 2030 Transformation.md`

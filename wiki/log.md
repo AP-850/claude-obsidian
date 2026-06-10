@@ -25,6 +25,140 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-06] create | EXCON Pro Expert Feedback Programme
+- New domain: wiki/excon-pro/
+- Pages created: [[excon-pro/_index]], [[excon-pro/Outreach Framework]]
+- Context: colleague-built AI-powered exercise planning system; user supporting expert feedback outreach
+- Product: 21-agent QA pipeline, 24-document package (~30 min vs weeks), live intel integration, NATO doctrine throughout, GEOINT Mapper, Task Force Builder (38+ nations), Lessons Library
+- Outreach framework covers Group 1 (military exercise directors/J7) and Group 2 (defence commercial/SaaS veterans) — separate messages, conversation guides, objection handling, sequencing
+
+## [2026-06-05] autoresearch | Defense Innovation Governance Tools
+- Rounds: 3 | Searches: 9 | Fetches: 9 | Pages created: 10
+- Sources: [[atlantic-council-defense-innovation-adoption-2023]], [[army-pathway-for-innovation]], [[ctms-design-patterns]], [[innovation-management-platform-landscape]]
+- Concepts: [[Valley of Death Defense Innovation]], [[Output-First Product Design]], [[Jobs to Be Done Framework]]
+- Entities: [[Task Force 59]]
+- Synthesis: [[Research: Defense Innovation Governance Tools]]
+- Key finding: No purpose-built tool exists for small/medium defense organizations running tactical experiments; TACTIX market gap is confirmed and uncontested; redesign should reduce to 3 stages (Problem/Experiment/Decision), build output-first from the command decision brief, and adopt role-differentiated views (commander/analyst/observer)
+
+## [2026-06-04] correction | TACTIX vs EXCON Pro project boundary
+- Corrected mischaracterisation: EXCON Pro is NOT a TACTIX product
+- TACTIX: user-led CAPDEV / Innovation Trials and Evaluation application; GAP-X is the current prototype
+- EXCON Pro: separate project led by a colleague; user has supporting role only; source material and CLAUDE.md held by colleague, not in this vault
+- Future: TACTIX and EXCON Pro may merge as separate products under one company
+- Pages updated: [[tactix/_index]], [[EXCON Pro Application]], [[hot]]
+- EXCON Pro Application page reclassified: type changed from `concept` to `reference`
+
+## [2026-06-04] correction | Nukhbah 1 → Makhlab 1 (name correction + scope correction)
+- Incorrect name "Nukhbah 1" (used in `.raw/ChatGPT-SBTDWS 2030 Transformation.md`) corrected to "Makhlab 1" across all wiki files
+- Scope corrected: old page described a broad 6-work-area transformation umbrella; correct scope is UxS Tactical Drones PoC under PG 2030 Task 5 and FDC 5
+- Pages created: [[Makhlab 1 Project]] (new authoritative page)
+- Pages archived: [[Nukhbah 1 Project]] (converted to redirect stub)
+- Pages updated: [[PG 2030 Directive]], [[sbtdws/_index]], [[index]], [[hot]], [[sources/chatgpt-sbtdws-2030-transformation]]
+- Key fact: Makhlab 1 is J3 WDC-led; SBTDWS supporting role (EXCON and evaluation); Falcons Bde partner force; first TTP output under FDC 5; target Q1 27
+
+## [2026-06-02] create | Force Generation Pipeline ToR
+- Type: draft document — Terms of Reference for SBTDWS / J7 / J3 lane split
+- Location: wiki/sbtdws/Force Generation Pipeline ToR.md
+- Pages created: [[Force Generation Pipeline ToR]]
+- Status: DRAFT v0.1 — for Commandant review before tabling to J3/J7
+- Key content: lane split table (J7 owns programme direction / LVC / standards; SBTDWS owns execution / OT cadre / SAG 9-10 assessment); resource provisions; adverse assessment reporting chain; 5 TBD items flagged for Commandant before signature
+- Linked dependencies: D-02 (engagement direction), D-05 (validation authority), D-06 (standards ownership), D-07 (J-Staff support), D-08 (Hameem)
+
+## [2026-06-02] create | Commander Decisions Register
+- Type: reference page — pending command decisions
+- Location: wiki/sbtdws/Commander Decisions Register.md
+- Pages created: [[Commander Decisions Register]]
+- Pages updated: [[index]], [[sbtdws/_index]]
+- Key design: 11 decisions in 3 tiers. Tier 1 (D-01/02/03) are O6 CoC decisions, all PENDING, some overdue. D-04 (IW/UW boundary) blocks all SAG 9 curriculum work. D-03 (back the first adverse assessment) identified as the hardest O6 ask.
+
+## [2026-06-02] batch-ingest | ChatGPT 23-file Export Batch
+- Source: 23 files in `.raw/` (see [[chatgpt-batch-2026-06-02]] for full list)
+- Summary: [[chatgpt-batch-2026-06-02]]
+- Pages created: [[SBTDWS CTC Architecture]], [[SBTDWS Barriers and Blockers]], [[ADWC Naming Analysis]], [[UxS CAPDEV Portfolio]], [[OPFOR and Red Force Concept]], [[PG 2030 Three Themes]], [[Unconventional Warfare and Resilience]], [[Three-Horizon Innovation Model]], [[Marakeb Technologies]], [[ADF Personnel Recovery Framework]]
+- Pages updated: [[SAG 9 and SAG 10]] (SAG 10 corrected to Resilience and Capacity Building)
+- Key insights: SAG 10 name corrected; naming risk confirmed across 3 independent sources; barriers paper surfaces consistently; UxS and ADF are the two primary reference threads.
+
+## [2026-06-02] ingest | ChatGPT SBTDWS 2030 Transformation
+- Source: `.raw/ChatGPT-SBTDWS 2030 Transformation.md`
+- Summary: [[chatgpt-sbtdws-2030-transformation]]
+- Pages created: [[PG 2030 Directive]], [[Hameem Mission Rehearsal Concept]], [[Nukhbah 1 Project]], [[SAG 9 and SAG 10]], [[ADWC FIC Analysis]]
+- Pages updated: [[sbtdws/_index]], [[index]]
+- Key insight: Formal directive language (9 guiding tasks) now on record; FIC analysis surfaces single-point-of-failure risk — SAG 9/10 + UW + FDC5 + Hameem all sit on SBTDWS without sufficient resource.
+
+## [2026-05-27] save | TEIW Standing Charter
+- Type: concept (operational charter, draft)
+- Location: wiki/sbtdws/TEIW Standing Charter.md
+- Version: v0.2
+- Key design: 5 functions; 3-question entry criteria (gap / test / what will we do with the result); 2-tier authority; interim vs target governance states
+- Governance split: FDC 5/PGIC/ATI-Hub are paper concepts — charter runs under Commandant authority now, transitions when structures mature
+- Makhlab 1: SBTDWS is supporting role in external Tactical Drones PoC — not TEIW-owned, not the template
+- FPV Drones: Priority 1 first owned TEIW experiment; hypothesis left open pending named exercise observation
+- CAPDEV classified into 4 categories: Supported PoCs / TEIW Tier 1 / CTVMR-owned / Tier 2 escalations / Out of scope
+- Index updated: total pages 63 → 64
+
+## [2026-05-27] ingest | Organize Workstreams + EXCON Pro Claude Prompt
+- Sources: `.raw/Organize two projects into separate workstreams.md`, `.raw/Create Claude prompt for concept brief.md`
+- Domain created: `wiki/tactix/` (new)
+- Pages created (4): `tactix/_index`, `EXCON Pro Application`, `sources/organize-workstreams`, `sources/excon-pro-claude-prompt`
+- Index updated: total pages 59 → 63, sources 5 → 7
+- Key fact: TACTIX and PG 2030 are now formally separated workstreams; foundation CLAUDE.md files exist for both
+- Key fact: EXCON Pro concept brief v1.7 defines 20 doc types, 12 tabs, 6 agents, SI-leakage guardrail
+- Key fact: 19 DMTs and 4 MRCs mentioned in PG 2030 master document — not yet in wiki; worth capturing if raw data available
+- CLAUDE.md at `Documents\Claude\Projects\EXCON Pro\CLAUDE.md`; transcript at `CLAUDE_md_chat_transcript.md`
+
+## [2026-05-27] save | ADWC Command Brief (5-Slide)
+- Type: concept (command brief)
+- Location: wiki/sbtdws/ADWC Command Brief (5-Slide).md
+- From: ADWC Design Synthesis → commander-ready brief for O6 CoC at SBTDWS
+- Audience: O6 CoC at SBTDWS; purpose: endorse three-wing design, sequencing, and three specific command decisions
+- Structure: 5 slides — Context (mission change), Design Principle (credibility before ambition), Three Wings (diagram), Sequence (4 actions), Ask (3 decisions)
+- Key asks: (1) Endorse three-wing design; (2) Direct Force Gen Pipeline ToR with J3/J7; (3) Commit to backing first adverse assessment
+- Decision 3 is the hardest and most important: O6 must visibly back OT cadre authority to fail when a unit challenges
+- Index updated: total pages 58 → 59
+
+## [2026-05-27] save | OC/T Cadre Development Plan
+- Type: concept (planning document)
+- Location: wiki/sbtdws/OC-T Cadre Development Plan.md
+- From: conversation developing a concrete cadre pipeline from the ADWC Design Synthesis recommendation
+- Key: 4-phase pipeline (Selection → Foundation → Supervised Practice → Accreditation); IOC = 8 Level 2 OTs + authority to fail writ + first serial; SAT Cell is the critical path bottleneck; 13-month pipeline with zero slack to Q2 27
+
+## [2026-05-27] autoresearch | Global ADWC Equivalents
+- Rounds: 2 | Searches: 11 | Pages created: 7
+- Entities: [[National Training Center (NTC)]], [[JRTC]], [[NATO JWC]], [[NADWC]], [[USAFWC]], [[JMRC]]
+- Concepts: [[Combat Training Centre Model]]
+- Synthesis: [[Research: Global ADWC Equivalents]]
+- Key finding: No desert CTC equivalent exists in the GCC/Middle East for multi-domain collective training of regional partner forces — this is ADWC's unique strategic gap
+
+## [2026-05-26] save | ADWC Design Synthesis
+- Type: concept
+- Location: wiki/concepts/ADWC Design Synthesis.md
+- From: conversation synthesizing all 4 ingested SBTDWS sources into a unified design concept
+- Key argument: ADWC is a readiness certification authority (not a training school); CTVMR is the main effort; first validated formation is the proof of concept
+
+## [2026-05-26] ingest | Build Military Capability Gap Experimentation Platform
+- Source: `.raw/Build military capability gap experimentation platform.md` — session summary
+- Pages created (1): `Capability Gap Experimentation Platform`
+- Source summary: `wiki/sources/build-capability-gap-platform.md`
+- Index updated: total pages 48 → 49, sources 4 → 5
+- Deliverable: `gap-x-prototype.html` at `Documents\Claude\Projects\EXCON Pro\`
+- Key: 7-stage workflow maps directly to ATI-Hub 7-phase pipeline; 3 demo cases (C-UAS, AI-ISR, Autonomous UGV); EXCON Pro ID scheme
+
+## [2026-05-26] ingest | Research CTC-L and JTW Australia
+- Source: `.raw/Research CTC-L and JTW Australia.md` — session summary (underlying PDF: CTC-L_and_JTW_Research_Report.pdf)
+- Pages created (2): `CTC-L JTW Reference Model`, `ADWC Three Wing Structure`
+- Source summary: `wiki/sources/research-ctc-l-jtw-australia.md`
+- Index updated: total pages 46 → 48, sources 3 → 4
+- Key finding: OC/T cadre development has longest lead time and determines CTVMR quality — most important near-term decision
+- Key structure: DWW (JTW analog, feeder) + CTVMR Wing (CTC-L analog, main effort) + TEIW (novel, no Australian equivalent)
+
+## [2026-05-26] ingest | SBTDWS Historical Context and Future Development Concepts
+- Source: 4 `.raw/` files — ChatGPT transfer (912 KB raw transcript) + 3 structured session summaries
+- Domain created: `wiki/sbtdws/` (new)
+- Pages created (12): `sbtdws/_index`, `SBTDWS Overview`, `ADWC Transformation Concept`, `SBTDWS 9 Directed Tasks`, `SBTDWS 2030 Timeline`, `Three Development Thematics`, `SBTDWS CAPDEV Projects`, `SBTDWS Key Relationships`, `ATI-Hub Concept`, `PGIC Concept`, `SBTDWS PM Framework`, `Rapid Innovation FPV Pilot`
+- Source summary: `wiki/sources/sbtdws-chatgpt-transfer.md`
+- Index updated: total pages 34 → 46, sources ingested 2 → 3
+- Subject: SBTDWS (Saeed Bin Tahnoun Desert Warfare School) transformation into PG All Domain Warfare Centre (ADWC) by 2030
+
 ## [2026-04-24] save | v1.6.0 public release notes (Teams, Karpathy-style)
 - Type: release doc + visual assets
 - Locations (new): `docs/releases/v1.6.0.md` (346 lines, 6 sections, Karpathy-style prose), `wiki/meta/dragonscale-mechanism-overview.svg` (4-mechanism diagram with shared .vault-meta/ gate), `wiki/meta/dragonscale-6-test-flow.svg` (validation timeline), `wiki/meta/dragonscale-frontier-graph.svg` (M4 candidate + 3 filed pages)

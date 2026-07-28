@@ -242,6 +242,9 @@ This ToR is reviewed annually by the FGPC. Amendments require signature from all
 - Brief J3 so the ToR engagement has J3 support before it reaches J7
 - Decide whether to table this draft as a working document or use it to scope a J3/J7/SBTDWS working group session
 
+> [!note] Consolidated into RFI-9
+> J7/J3's willingness to engage and J7's capacity to actually deliver the §5 resource provisions is now framed as RFI-9 in [[RFI to PG HQ]] — a genuine open question for J7/J3, distinct from D-02 (which is the Commandant's own action to direct the engagement in the first place).
+
 ---
 
 ## Version History

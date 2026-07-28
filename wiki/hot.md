@@ -72,6 +72,7 @@ Earlier today: ingested the SBTDWS to ADWC Implementation Plan working note + ma
 
 | Page | Core content |
 |------|-------------|
+| [[RFI to PG HQ]] | Consolidated 12-item RFI, P1/P2/P3, for the new PG 2030 advisor; excludes SBTDWS's own O6 CoC actions (appendix) |
 | [[MDWC Six-Domain Study]] | J7 study; Land/Air/Maritime/Space/Cyber/EMS positioning; 20-gap register; states ADWC superseded by MDWC (unresolved) |
 | [[ADWC Implementation Plan (5-LOE Slide)]] | 5-LOE x 4-Phase J3/EMAD brief; third taxonomy; dependencies; decisions needed by Q4 26 |
 | [[J3 Action Plan — SBTDWS Transformation (Combined)]] | All 3 objectives in one J3-format document; surfaced lessons-mechanism duplication (Obj 2 vs Obj 3) |

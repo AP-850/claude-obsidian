@@ -229,7 +229,7 @@
         "wiki/hot.md",
         "wiki/log.md"
       ],
-      "note": "J7-authored, dated same day as the Implementation Plan ingest above. States ADWC superseded by 'MDWC' as a working title — flagged as an unresolved naming contradiction, not adopted vault-wide. DragonScale addressing skipped again; flock still unavailable."
+      "note": "J7-authored, dated same day as the Implementation Plan ingest above. States ADWC superseded by 'MDWC' as a working title — flagged as an unresolved naming contradiction, not adopted vault-wide. DragonScale addressing backfilled 2026-07-28 (see address_map) after flock was installed."
     }
   },
   "address_map": {

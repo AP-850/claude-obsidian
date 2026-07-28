@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "Tactical Adaptation Platform"
+address: c-000014
 aliases:
   - ORABATV
 created: 2026-07-28

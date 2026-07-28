@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "6GW — Sixth-Generation Warfare"
+address: c-000013
 aliases:
   - Sixth-generation Warfare
   - Sixth Generation Warfare

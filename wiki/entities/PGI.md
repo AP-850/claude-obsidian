@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "PGI"
+address: c-000018
 aliases:
   - Presidential Guard Institute
   - IWTC

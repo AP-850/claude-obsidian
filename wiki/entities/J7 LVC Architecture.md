@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "J7 LVC Architecture"
+address: c-000017
 aliases:
   - J7 Live Virtual Constructive Architecture
 created: 2026-07-28

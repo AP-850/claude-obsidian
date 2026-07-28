@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "J3 WDC"
+address: c-000015
 aliases:
   - Warfare Development Centre
   - PG Warfare Development Centre

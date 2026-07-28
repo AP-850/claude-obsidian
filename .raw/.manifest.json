@@ -203,7 +203,7 @@
         "wiki/hot.md",
         "wiki/log.md"
       ],
-      "note": "DragonScale addressing skipped this ingest; flock unavailable in this environment. New pages have no address: frontmatter."
+      "note": "DragonScale addressing backfilled 2026-07-28 (see address_map) after flock was installed."
     },
     ".raw/PG 2030/SBTDWS_ADWC_Implementation_Plan.pptx": {
       "hash": "c9860895e74bcda5d456f62e9ae0c809",

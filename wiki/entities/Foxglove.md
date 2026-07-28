@@ -3,13 +3,13 @@ type: entity
 title: "Foxglove"
 address: c-000005
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-07-28
 tags:
   - entity
   - contractor
   - pg-2030
   - force-design
-status: developing
+status: benched
 related:
   - "[[PG 2030 Force Design Concepts]]"
   - "[[sources/sbtdws-emad-fg-review-2026-05-04]]"

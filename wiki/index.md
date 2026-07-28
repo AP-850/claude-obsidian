@@ -173,6 +173,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[sources/sbtdws-to-adwc-implementation-plan]] — source summary for the working note + matching pptx slide; translation notes, open questions (status: ingested)
 - [[MDWC Six-Domain Study]] — J7-authored study: Land/Air/Maritime/Space/Cyber/EMS positioning, 20-item gap register, 4 HQ decisions; states ADWC superseded by "MDWC" — unresolved naming contradiction with same-day SBTDWS product (status: draft-for-hq-socialisation)
 - [[sources/mdwc-six-domain-study-vault-context]] — source summary; key terminology, spelling variance note, cross-references to domain-scope decisions (status: ingested)
+- [[RFI to PG HQ]] — consolidated 12-item RFI for the new PG 2030 advisor, built from every open decision gap on record; prioritised P1/P2/P3, excludes SBTDWS's own internal actions (status: draft-for-advisor-review)
 
 ## EXCON Pro — Expert Feedback Programme
 

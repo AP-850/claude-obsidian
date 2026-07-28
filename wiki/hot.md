@@ -123,6 +123,7 @@ Earlier today: ingested the SBTDWS to ADWC Implementation Plan working note + ma
 
 ## Active Threads
 
+- **[[RFI to PG HQ]] ready for submission:** 12 items, prioritised. Next step is the new advisor's own — review, adapt into whatever format PG HQ expects, and send. Nothing further needed from this side unless asked.
 - **ADWC vs MDWC naming, unresolved:** J7's [[MDWC Six-Domain Study]] uses MDWC and says ADWC is superseded; SBTDWS's own same-day product uses ADWC. D-10 still PENDING. Do not standardise on either name in new pages until this resolves — check [[ADWC Naming Analysis]] first.
 - **6 HQ decisions from the Six-Domain Study have no register ID:** maritime UXS T&E role, space/cyber ownership, EMS planning authorisation, Tactical Adaptation Platform advancement — none map to existing D-01 to D-11. Combined with the 3 from the 5-LOE slide, that's 6+ decision items needing a Commandant/O6 CoC triage pass on whether they become D-12 onward.
 - **5-LOE slide taxonomy unreconciled:** [[ADWC Implementation Plan (5-LOE Slide)]] vs [[SBTDWS Action Plan]]'s 3-Objective structure — different audiences, boundaries don't map 1:1, nothing forces reconciliation yet but flagged on both pages.

@@ -131,7 +131,7 @@ Earlier today: ingested the SBTDWS to ADWC Implementation Plan working note + ma
 - Makhlab 1 MoA (J3 WDC / SBTDWS) and implementation plan — not yet drafted
 - ADWC naming decision — pending command authority (D-10)
 - v1.6.0 push to GitHub still pending
-- **DragonScale addressing / wiki-lock non-functional in this shell:** `flock` binary missing from this Git Bash install (verified — not in PATH, not under Git's usr/bin). Both `scripts/allocate-address.sh` and `scripts/wiki-lock.sh`'s meta-lock depend on it. Pages from this ingest have no `address:` frontmatter and were written without lock protection. Not a race risk in a single-writer session, but worth a real fix (install util-linux flock, or add a flock-less single-writer fallback) before the next multi-agent batch ingest.
+- ~~DragonScale addressing / wiki-lock non-functional in this shell~~ — **fixed 2026-07-28.** `flock` installed to `C:\Users\andre\bin\flock.exe`; `scripts/wiki-lock.sh` symlink-check bug (broken `python3` alias stub) also fixed. All 10 pages from today's ingests backfilled with addresses. Both scripts verified working; safe to rely on for future multi-agent batch ingests.
 
 ## Style Preferences
 

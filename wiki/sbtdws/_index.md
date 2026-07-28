@@ -101,5 +101,6 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 
 - **Session context:** Multiple sessions (ChatGPT transfer + 3 structured follow-on sessions)
 - **Current phase:** PREP / Q2 2026 — completing task mapping, submitting gap requirements
-- **Critical near-term:** Force Generation Pipeline ToR (J3/J7/SBTDWS) — Q2 26
+- **Critical near-term:** Force Generation Pipeline ToR (J3/J7/SBTDWS) — Q2 26; [[RFI to PG HQ]] ready for the new advisor to submit upward
 - **Key risk:** O5 mid-management resistance at the structural reorganisation inflection point
+- **Project leadership (2026-07-28):** New PG 2030 project lead/advisor now in place. [[Foxglove]] (external Force Design contractor) benched for now, may rejoin later — not a termination.

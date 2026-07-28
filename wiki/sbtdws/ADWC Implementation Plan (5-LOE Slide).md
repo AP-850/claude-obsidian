@@ -166,7 +166,7 @@ The core resourcing argument. Most of the critical path sits outside SBTDWS cont
 - *Who settles PGI disputes?* — related to D-04 but distinct
 - *Is the ADWC name final?* — maps to D-10
 
-See [[Commander Decisions Register]] for the full tiered register and the gap note on the three items above with no existing decision ID.
+See [[Commander Decisions Register]] for the full tiered register and the gap note on the three items above with no existing decision ID. All three, plus the domain-scope questions below, are now consolidated into [[RFI to PG HQ]] for submission.
 
 > [!note] Maritime/cyber/EMS/space partially answered by a same-day J7 study
 > [[MDWC Six-Domain Study]] (J7, 2026-07-28) gives an assessed position on the maritime and cyber/EMS/space questions above — maritime conditional pending PG HQ, space/cyber external to the institution (owner TBC), EMS a near-term MDWC/PG HQ responsibility. Not a formal HQ decision, but the first substantive answer either question has received. That study also uses "MDWC" rather than "ADWC" throughout — see [[ADWC Naming Analysis]] for the naming contradiction this raises.

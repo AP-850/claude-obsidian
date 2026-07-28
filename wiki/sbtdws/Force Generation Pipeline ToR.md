@@ -20,6 +20,7 @@ related:
   - "[[OC-T Cadre Development Plan]]"
   - "[[SBTDWS CTC Architecture]]"
   - "[[Hameem Mission Rehearsal Concept]]"
+  - "[[RFI to PG HQ]]"
   - "[[sbtdws/_index]]"
 ---
 

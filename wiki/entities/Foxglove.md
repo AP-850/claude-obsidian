@@ -38,6 +38,9 @@ Navigation: [[entities/_index]] | [[PG 2030 Force Design Concepts]]
 > [!gap] Identity and scope unconfirmed
 > "Foxglove" could be a project codename, a consultancy brand, or an internal programme name — no other wiki source names it. The full 68-page document is not held in `.raw/`. If the source document or a fuller exhibit set becomes available, re-ingest and confirm: (1) whether Foxglove is the same external party referenced generically in [[SBTDWS Barriers and Blockers]] as "contractor dependency", and (2) the missing Force Design Concepts 5 and 13.
 
+> [!note] Benched (2026-07-28)
+> A new PG 2030 project lead/advisor is now in place. Foxglove is benched for the time being — not engaged on current work — but may rejoin at a later date. Not a termination; treat as paused pending the new lead's direction. This does not change any of the open identity/scope questions above.
+
 ---
 
 ## Relevance

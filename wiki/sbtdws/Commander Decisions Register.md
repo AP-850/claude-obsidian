@@ -32,6 +32,9 @@ Navigation: [[sbtdws/_index]] | [[ADWC Command Brief (5-Slide)]] | [[ADWC FIC An
 > [!key-insight] Read this register in tiers
 > Tier 1 decisions unblock Year 1 and are either overdue or due Q2 26. Tier 2 decisions gate the IOC (Q1 29). Tier 3 decisions gate FOC (Q3 30). Decisions in Tier 1 cascade — a delay here is a direct delay to every downstream milestone.
 
+> [!note] Consolidated for submission: [[RFI to PG HQ]] (2026-07-28)
+> The Tier 2/3 decisions here that are genuinely PG HQ/Higher HQ questions (D-04 through D-11) — plus the untracked items from the 5-LOE slide and MDWC Six-Domain Study — have been consolidated into a single prioritised RFI document for the new PG 2030 advisor to submit upward. Tier 1 (D-01/02/03) is excluded there since those are SBTDWS's own O6 CoC actions, not PG HQ questions.
+
 ---
 
 ## Decision Status Key

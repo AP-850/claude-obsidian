@@ -25,6 +25,15 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-28] synthesis | RFI to PG HQ (new advisor request)
+- Trigger: user reported a new PG 2030 project lead/advisor is now in place; Foxglove (external Force Design contractor) is benched but may rejoin. The new advisor asked for a consolidated "help me help you" list of questions/RFIs for PG HQ — what's needed to understand the current gaps and start planning/implementing.
+- Page created: [[RFI to PG HQ]] (address c-000023) — 12 prioritised (P1/P2/P3) RFI items across four themes (Institutional Identity & Scope; Authority & Standards; Structure & Resourcing; Governance & Relationships), plus a summary table, a for-awareness note on the transformation-timeline-vs-institutional-floor tension, and an appendix listing SBTDWS's own O6 CoC actions (D-01/02/03) that were deliberately excluded since they aren't PG HQ questions.
+- Synthesis sources (no new .raw ingest — built entirely from existing wiki content): [[Commander Decisions Register]], [[ADWC Implementation Plan (5-LOE Slide)]], [[MDWC Six-Domain Study]], [[ADWC FIC Analysis]], [[Force Generation Pipeline ToR]], [[SBTDWS Barriers and Blockers]].
+- Pages updated: [[Commander Decisions Register]], [[ADWC Implementation Plan (5-LOE Slide)]], [[MDWC Six-Domain Study]], [[Force Generation Pipeline ToR]] (cross-reference pointers), [[Foxglove]] (status → benched), [[sbtdws/_index]], [[index]], [[hot]].
+- Key judgment call: excluded Tier 1 register items (D-01, D-02, D-03) from the RFI proper since they're SBTDWS's own Commandant-level actions, not questions for PG HQ — kept them in an appendix instead so the advisor still has the full picture without conflating "what we must ask" with "what we must just do."
+- Memory: saved project memory on the new advisor / Foxglove-benched context (`project_pg2030_new_advisor.md`) since it's cross-session context not derivable from the wiki structure alone.
+- Environment: address assigned via the now-working `allocate-address.sh` + `wiki-lock.sh` (see the flock-install entry immediately below).
+
 ## [2026-07-28] maintenance | flock installed; DragonScale address backfill
 - Trigger: `scripts/allocate-address.sh` and `scripts/wiki-lock.sh` had been silently degraded all session — `flock` was missing from this Git Bash install, so both today's ingests (SBTDWS-ADWC Implementation Plan; MDWC Six-Domain Study) skipped addressing and lock protection.
 - Fix: installed `flock.exe` at `C:\Users\andre\bin\flock.exe`, sourced from the official MSYS2 `util-linux` package (`repo.msys2.org`), decompressed with the official `zstd` Windows binary (`facebook/zstd` GitHub release, since this system had no `zstd` CLI either — only the DLL). `C:\Users\andre\bin` was already on PATH.

@@ -68,6 +68,7 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 | [[ADWC Implementation Plan (5-LOE Slide)]] | One-page J3/EMAD Committee brief: 5 LOEs x 4 Phases, dependencies, decisions needed; third taxonomy for the 9 tasks alongside the 3-Objective Action Plan |
 | [[MDWC Six-Domain Study]] | J7-authored study: Land/Air/Maritime/Space/Cyber/EMS positioning, 20-item gap register, 4 HQ decisions; uses "MDWC" — see naming contradiction |
 | [[Tactical Adaptation Platform]] | Concept (not yet built): ORABATV lesson-capture cycle for Land domain; possible third instance of the lessons-mechanism duplication |
+| [[RFI to PG HQ]] | Consolidated 12-item RFI for the new PG 2030 advisor; prioritised P1/P2/P3; excludes SBTDWS's own O6 CoC actions |
 
 ---
 

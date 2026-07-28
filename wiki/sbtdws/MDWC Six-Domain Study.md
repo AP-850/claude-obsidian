@@ -149,7 +149,7 @@ Compare against [[ADWC FIC Analysis]]'s 10 gaps — that analysis is organised b
 | 4 | Approve advancement of the Tactical Adaptation Platform concept to implementation. | Land domain lesson capture and TTP codification depend on this. No alternative mechanism exists. | MDWC / J7 |
 
 > [!gap] Not yet reconciled with Commander Decisions Register
-> None of these four map to an existing ID in [[Commander Decisions Register]]. Decisions 1 and 2 overlap with the "is maritime in scope?" / "who owns cyber, EMS and space?" items already flagged there as untracked from the [[ADWC Implementation Plan (5-LOE Slide)|5-LOE slide]] — this study gives J7's own framing of the same open questions, from a different, HQ-socialisation-track document. Decisions 3 and 4 are new. See [[Commander Decisions Register]] for the consolidated note.
+> None of these four map to an existing ID in [[Commander Decisions Register]]. Decisions 1 and 2 overlap with the "is maritime in scope?" / "who owns cyber, EMS and space?" items already flagged there as untracked from the [[ADWC Implementation Plan (5-LOE Slide)|5-LOE slide]] — this study gives J7's own framing of the same open questions, from a different, HQ-socialisation-track document. Decisions 3 and 4 are new. See [[Commander Decisions Register]] for the consolidated note, and [[RFI to PG HQ]] (RFI-2) for the submission-ready version of decisions 1–3.
 
 ---
 

@@ -25,6 +25,15 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-28] maintenance | flock installed; DragonScale address backfill
+- Trigger: `scripts/allocate-address.sh` and `scripts/wiki-lock.sh` had been silently degraded all session — `flock` was missing from this Git Bash install, so both today's ingests (SBTDWS-ADWC Implementation Plan; MDWC Six-Domain Study) skipped addressing and lock protection.
+- Fix: installed `flock.exe` at `C:\Users\andre\bin\flock.exe`, sourced from the official MSYS2 `util-linux` package (`repo.msys2.org`), decompressed with the official `zstd` Windows binary (`facebook/zstd` GitHub release, since this system had no `zstd` CLI either — only the DLL). `C:\Users\andre\bin` was already on PATH.
+- Second bug found during verification: `scripts/wiki-lock.sh`'s symlink-safety check shells out to `python3`; on this machine `python3` resolves to a non-functional Windows Store "app execution alias" stub that exits with an error instead of running or failing silently, which aborted the whole script under `set -e`. Fixed with a one-line fallback (`|| resolved=""`) at `scripts/wiki-lock.sh` ~line 137.
+- Verified: `flock` smoke test, `wiki-lock.sh acquire/peek/list/release` full lifecycle, `allocate-address.sh` real allocation — all pass.
+- Backfill: assigned addresses c-000013 through c-000022 to the 10 pages created in today's two ingests, using proper lock acquire/release per page. Recorded in `address_map` in `.raw/.manifest.json`. One test allocation during verification (c-000012) was never assigned to a page — permanent unused gap, harmless by design.
+- Pages updated: [[hot]], [[log]] (this entry). Manifest updated: `.raw/.manifest.json` (`address_map` + per-source notes).
+- Scripts modified: `scripts/wiki-lock.sh` (not yet committed to git as of this log entry — flag for review before commit).
+
 ## [2026-07-28] ingest | MDWC Six-Domain Study (vault context)
 - Source: `.raw/PG 2030/MDWC_Six_Domain_Study_VAULT_CONTEXT.md`
 - Summary: [[sources/mdwc-six-domain-study-vault-context]]

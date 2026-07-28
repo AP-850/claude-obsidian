@@ -14,6 +14,8 @@ related:
   - "[[SBTDWS Key Relationships]]"
   - "[[SBTDWS 9 Directed Tasks]]"
   - "[[SBTDWS PM Framework]]"
+  - "[[sources/sbtdws-emad-fg-review-2026-05-04]]"
+  - "[[ADWC Implementation Plan (5-LOE Slide)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -70,6 +72,9 @@ Structural reorganisation cannot begin until the 6GW training review is complete
 
 **Phase 1 logic:** Fix structures and authorities first. Stand up OT cadre. Run first Makhlab 1 sprint. Endorse Hameem plan before spending on it.
 
+> [!gap] MLOC date flagged as an assumption (2026-07-28)
+> The [[ADWC Implementation Plan (5-LOE Slide)|5-LOE implementation slide]] uses Q4 27 as the MLOC gate but marks it ⚠️ *working assumption* — the EMAD deck implies the first below-Brigade validation serial (Q2 27, already listed above) might be the actual MLOC milestone rather than Q4 27. The slide's reasoning: its own Phase 2 gate requires trained OTs, Makhlab 1 launched, *and* contractor HOTO (NLT Q4 27) — so Q4 27 is the latest of several converging requirements, not necessarily the single defining MLOC event. Not yet resolved; one-cell change if J3 has already been briefed Q2 27. See [[sources/sbtdws-to-adwc-implementation-plan]].
+
 ---
 
 ## Phase 2 — Scale to IOC (Q4 2027 — Q1 2029) | Gate: IOC
@@ -78,11 +83,15 @@ Structural reorganisation cannot begin until the 6GW training review is complete
 
 | Timing | Milestone |
 |--------|-----------|
+| **NLT Q4 27** | **Contractor HOTO** (hand-over-take-over) — gating date for transitioning core military skill delivery from contractor to military instructors |
 | 2028 | Thematic exercise year: Experimentation to Adaptation, UxS Tactical Employment, IW/UW |
 | 2028 | PGI/IWTC pipeline formalised |
 | 2028 | Military instructor ownership achieved (replacing contractor delivery for core military skills) |
 | Q4 28 | Hameem mission rehearsal IOC |
 | 2029 (approaching) | ADWC functions approaching FOC |
+
+> [!key-insight] Contractor HOTO date
+> Confirmed in [[sources/sbtdws-emad-fg-review-2026-05-04]] (2026-05-04) — "Contractor HOTO* — NLT Q4 27" — the explicit gating date that precedes "Military instructor ownership achieved (2028)" above. Not previously dated this precisely elsewhere in the wiki.
 
 **Phase 2 logic:** Prove the concept in public-facing exercises. Build Hameem. Achieve military instructor self-sufficiency. Deliver first validation serials at scale.
 
@@ -134,3 +143,5 @@ The [[SBTDWS PM Framework]] tracks all milestones across 6 Lines of Effort (LOEs
 ## Source
 
 Ingested from: [[sbtdws-chatgpt-transfer]] | `.raw/Review SBTDWS context and development.md`, `.raw/SBTDWS Historical Context and Future Development.md`
+
+Confirmed and supplemented (Contractor HOTO milestone) by the earlier-dated [[sources/sbtdws-emad-fg-review-2026-05-04]] (2026-05-04), which framed the same roadmap as 4 LOEs (Foundations/Structure/Validate & Raise/Experiment & Rehearse) against a year-by-stage band rather than the PREP/Phase 1/2/3 by-quarter structure used above. No conflicting dates found — the LOE/year view is the earlier framing; this page's Phase/quarter structure supersedes it for working-level planning.

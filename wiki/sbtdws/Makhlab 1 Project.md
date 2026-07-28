@@ -17,6 +17,8 @@ related:
   - "[[UxS CAPDEV Portfolio]]"
   - "[[TEIW Standing Charter]]"
   - "[[SBTDWS Key Relationships]]"
+  - "[[PG 2030 Force Design Concepts]]"
+  - "[[Falcons Brigade]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -25,6 +27,9 @@ related:
 Makhlab 1 is the first governed UxS tactical experimentation sprint under PG 2030 Task 5 and FDC 5. It is a Tactical Drones PoC led externally under J3 WDC governance, with SBTDWS in a supporting role.
 
 Navigation: [[sbtdws/_index]] | [[PG 2030 Directive]] | [[Three Development Thematics]] | [[UxS CAPDEV Portfolio]]
+
+> [!key-insight] Parent programme confirmed
+> [[PG 2030 Force Design Concepts]] (Force Design Concept 8 — "Uncrewed Systems & Lethality Concept") names "Programme MAKHLAB" directly as a PG-level uncrewed systems/lethality programme. Makhlab 1 is the first proof-of-concept serial within that named PG-wide programme, not a standalone SBTDWS/J3 WDC arrangement.
 
 > **Name note:** Source documents from April 2026 used the incorrect name "Nukhbah 1" for this project. The correct name is "Makhlab 1". The `.raw/` files retain the original incorrect name as the immutable source record.
 
@@ -76,7 +81,7 @@ Falcons Brigade is the natural partner unit for Makhlab 1:
 - SAG 9 partner for validation
 - UxS talent pipeline
 
-See [[SBTDWS Key Relationships]] Section 5.
+See [[Falcons Brigade]] for the full entity profile, including their own J3 Action Plan (Specialized Technical Skills qualification and unmanned systems transition) — the worked example J3 uses to teach the [[J3 Action Plan Template]] format. See also [[SBTDWS Key Relationships]] Section 5.
 
 ---
 

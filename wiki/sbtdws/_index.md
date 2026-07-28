@@ -1,7 +1,7 @@
 ---
 type: domain-index
 title: "SBTDWS — All Domain Warfare Centre Transformation"
-updated: 2026-05-26
+updated: 2026-06-23
 tags:
   - sbtdws
   - adwc
@@ -59,6 +59,15 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 | [[OPFOR and Red Force Concept]] | Desert warfare OPFOR design; role players; evaluation function |
 | [[Commander Decisions Register]] | 11 pending decisions in 3 tiers; D-01/02/03 are O6 CoC; decision priority matrix |
 | [[Force Generation Pipeline ToR]] | Draft v0.1 ToR — J7 / SBTDWS / J3 lane split; resource provisions; reporting chain |
+| [[PG 2030 Force Design Concepts]] | PG-wide Force Design Concepts framework; 20-unit role mapping; Unit Tactical Concepts detail; confirms Programme MAKHLAB |
+| [[J3 Action Plan Template]] | J3-required Action Plan structure: Phases of Implementation → Phased Objectives → Requirements; worked example is Falcons Brigade's real Action Plan |
+| [[J3 Action Plan — Collective Training, Validation and Mission Rehearsal]] | J3-format Action Plan for Objective 1 (Main Effort); PENDING decisions flagged inline |
+| [[J3 Action Plan — Tactical Experimentation]] | J3-format Action Plan for Objective 2 (Main Effort); PENDING decisions flagged inline |
+| [[J3 Action Plan — Training and Course Management]] | J3-format Action Plan for Objective 3 (Supporting Effort); PENDING decisions flagged inline |
+| [[J3 Action Plan — SBTDWS Transformation (Combined)]] | All three objectives combined into one J3-format document; surfaced a lessons-mechanism duplication between Objectives 2 and 3 |
+| [[ADWC Implementation Plan (5-LOE Slide)]] | One-page J3/EMAD Committee brief: 5 LOEs x 4 Phases, dependencies, decisions needed; third taxonomy for the 9 tasks alongside the 3-Objective Action Plan |
+| [[MDWC Six-Domain Study]] | J7-authored study: Land/Air/Maritime/Space/Cyber/EMS positioning, 20-item gap register, 4 HQ decisions; uses "MDWC" — see naming contradiction |
+| [[Tactical Adaptation Platform]] | Concept (not yet built): ORABATV lesson-capture cycle for Land domain; possible third instance of the lessons-mechanism duplication |
 
 ---
 

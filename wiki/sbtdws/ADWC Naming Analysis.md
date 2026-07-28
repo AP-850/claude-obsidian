@@ -13,6 +13,8 @@ related:
   - "[[ADWC Transformation Concept]]"
   - "[[ADWC FIC Analysis]]"
   - "[[PG 2030 Directive]]"
+  - "[[MDWC Six-Domain Study]]"
+  - "[[Commander Decisions Register]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -79,6 +81,13 @@ The central insight: **desert warfare remains the context; all-domain warfare be
 ## Status
 
 This analysis was developed but no formal naming decision has been recorded. The directive uses "All Domain Warfare Centre" as the 2030 end-state label. Any change to the name requires command authority above SBTDWS.
+
+> [!contradiction] The name is already shifting in practice — "MDWC" (2026-07-28)
+> [[MDWC Six-Domain Study]], a J7-authored study dated 2026-07-28, states outright: "ADWC (All Domain Warfare Centre) superseded by MDWC — Multi Domain Warfare Centre (Working Title)." This is not a formal D-10 decision — the study itself marks MDWC as a Working Title and is DRAFT, for HQ socialisation — but it is the first evidence of the name moving in an HQ-track document, from J7, above SBTDWS's own authority.
+>
+> The same day, [[sources/sbtdws-to-adwc-implementation-plan|SBTDWS's own Implementation Plan]] used "ADWC" throughout with no mention of MDWC. Two contemporaneous documents from two different authorities, using two different names — genuinely unresolved, not something to silently pick a side on.
+>
+> Worth noting: "Multi Domain" rather than "All Domain" is itself a partial, independent validation of this page's core critique — MDWC's Six-Domain Study explicitly scopes space and cyber **out** of the institution's remit, addressing the same overpromising risk this analysis raised, but via a different fix than the "keep Desert Warfare, drop domain language" recommendation above. See [[Commander Decisions Register]] D-10 for the decision-register cross-reference.
 
 ---
 

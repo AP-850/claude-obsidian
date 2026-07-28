@@ -18,6 +18,8 @@ related:
   - "[[OC-T Cadre Development Plan]]"
   - "[[Hameem Mission Rehearsal Concept]]"
   - "[[ADWC Naming Analysis]]"
+  - "[[ADWC Implementation Plan (5-LOE Slide)]]"
+  - "[[MDWC Six-Domain Study]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -284,7 +286,10 @@ Accept or amend the "All Domain Warfare Centre" label. Options:
 **What happens if not decided:**
 ADWC label is used by default. Expectation gap grows as partners and units expect capabilities SBTDWS cannot independently deliver. Naming risk becomes a credibility risk.
 
-**Source:** [[ADWC Naming Analysis]]; [[ADWC FIC Analysis]] Key Issue 2
+> [!contradiction] "MDWC" now in use by J7, unresolved (2026-07-28)
+> [[MDWC Six-Domain Study]] (J7-authored, DRAFT, for HQ socialisation) states ADWC is "superseded by MDWC — Multi Domain Warfare Centre (Working Title)." The same day, SBTDWS's own [[ADWC Implementation Plan (5-LOE Slide)]] used ADWC throughout. This makes D-10 more urgent, not less — two authorities are now using two different names in parallel HQ-facing products. Status remains PENDING; this is not a resolution, just new evidence the delay has a cost.
+
+**Source:** [[ADWC Naming Analysis]]; [[ADWC FIC Analysis]] Key Issue 2; [[MDWC Six-Domain Study]] (2026-07-28)
 
 ---
 
@@ -357,3 +362,13 @@ Everything else requires PG HQ or Higher HQ, and SBTDWS must surface these throu
 | Version | Date | Change |
 |---------|------|--------|
 | v1.0 | 2026-06-02 | Initial — consolidated from O6 Command Brief, FIC Analysis, SAG 9/10, Naming Analysis, transformation workstream |
+
+---
+
+> [!gap] Three decision items surfaced without a formal ID (2026-07-28)
+> Building the [[ADWC Implementation Plan (5-LOE Slide)|5-LOE J3/EMAD implementation slide]] surfaced a "Decisions needed from PG HQ by Q4 26" box with six items. Three map cleanly to existing entries (J-Staff → D-07, ADWC name → D-10, reporting chain → related to D-05). Three do not yet have a decision ID here:
+> - **Is maritime in scope?** — domain-scope question raised in [[SBTDWS Action Plan]] framing guidance ("land and air" priority, maritime/space/cyber/EMS progressive) but never formalised as a register entry with an owner and required-by date. **Update (same day):** [[MDWC Six-Domain Study]] gives this the same open status — "no standing maritime training requirement... FDC5 *may* create a maritime UXS T&E requirement... cannot be determined at MDWC level" — its own HQ Decision #1, worded almost identically. Two independent SBTDWS-track documents converging on the same unanswered question the same day is a stronger signal this needs a register entry now.
+> - **Who owns cyber, EMS and space?** — directly ties to the [[J6 Digital Backbone]] and [[6GW]] dependencies; no owner currently assigned. **Update (same day):** [[MDWC Six-Domain Study]] partially answers this from J7's side: space and cyber are "External — not an MDWC requirement," owned by a TBC organisation (HQ Decision #2, requires PG HQ to confirm which organisation); EMS is scoped as an MDWC/PG HQ near-term integration requirement, not full EMS warfare capability, and explicitly "cannot be deferred" (HQ Decision #3).
+> - **Who settles PGI disputes?** — distinct from D-04 (IW/UW boundary); this is a dispute-resolution mechanism between SBTDWS and [[PGI]], not a scope definition. No update from the Six-Domain Study.
+>
+> Not yet added as D-12/13/14 — flagging here for the Commandant/O6 CoC to decide whether these warrant full register entries or fold into existing D-04/D-07/D-10. [[MDWC Six-Domain Study]] adds two more HQ decisions of its own (EMS capability planning authorisation; Tactical Adaptation Platform advancement) that also have no register ID yet. See [[sources/sbtdws-to-adwc-implementation-plan]] and [[sources/mdwc-six-domain-study-vault-context]] for full context.

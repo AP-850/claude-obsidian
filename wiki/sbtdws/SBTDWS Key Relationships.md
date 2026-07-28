@@ -14,6 +14,7 @@ related:
   - "[[ADWC Transformation Concept]]"
   - "[[SBTDWS 2030 Timeline]]"
   - "[[PGIC Concept]]"
+  - "[[Falcons Brigade]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -120,7 +121,7 @@ Operational Units ───────── Validation customers; requirement 
 
 ## 5. Falcons Brigade / SOF — Makhlab 1 PoC and SAG 9/10
 
-**Why critical:** Falcons Bde is the natural partner unit for the first Makhlab 1 experimentation sprint. They provide the operational unit perspective, the SAG 9 partner for validation, and the UxS talent pipeline.
+**Why critical:** Falcons Bde is the natural partner unit for the first Makhlab 1 experimentation sprint. They provide the operational unit perspective, the SAG 9 partner for validation, and the UxS talent pipeline. See [[Falcons Brigade]] for the full entity profile, including their own J3-tabled Action Plan.
 
 **Makhlab 1 PoC:**
 - First FPV/UxS tactical experimentation sprint

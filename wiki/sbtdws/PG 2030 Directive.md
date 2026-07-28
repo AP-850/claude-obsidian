@@ -17,6 +17,7 @@ related:
   - "[[Makhlab 1 Project]]"
   - "[[Hameem Mission Rehearsal Concept]]"
   - "[[SAG 9 and SAG 10]]"
+  - "[[ADWC Implementation Plan (5-LOE Slide)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -71,6 +72,9 @@ Develop the capability, knowledge, and expertise to fulfill the responsibility o
 ### Task 8 — SAG 10: Vital Capabilities Development
 Develop the capability, knowledge, and expertise to fulfill the responsibility of "higher command" within the Presidential Guard, ensuring units can execute tasks related to Study and Evaluation Group No. 10 "Vital Capabilities Development" by 2030. See [[SAG 9 and SAG 10]].
 
+> [!contradiction] SAG 10 label is stale
+> This page's directive text still reads "Vital Capabilities Development." [[SAG 9 and SAG 10]] corrects SAG 10 to **"Resilience and Capacity Building"** — confirmed independently by the [[ADWC Implementation Plan (5-LOE Slide)|5-LOE implementation slide]] (2026-07-28, sourced from a separate PG 2030 para 3.15 extract), which uses the corrected label throughout. Retaining the original directive wording here for source fidelity; treat [[SAG 9 and SAG 10]] as authoritative on the current name.
+
 ### Task 9 — Recruit suitable personnel into irregular warfare courses
 Ensure the recruitment of suitable personnel into irregular warfare training courses conducted by the Presidential Guard Training Authority, enabling them to qualify as deployment-ready cadres capable of executing special, joint, or partnered operations.
 
@@ -104,6 +108,16 @@ The directive was initially interpreted broadly. A corrected reading confirmed:
 **Commander's summary line:** "SBTDWS will become the Presidential Guard's centre of excellence for desert-based multi-domain warfare, responsible for preparing, validating, and evolving forces for joint operations across the six domains through training, experimentation, innovation, and mission simulation."
 
 ---
+
+## Independent confirmations
+
+The same 9 tasks have now been transcribed from three separate source artifacts, with consistent substance across all three:
+
+1. This page — from the ChatGPT transfer, [[chatgpt-sbtdws-2030-transformation]]
+2. [[PG 2030 Force Design Concepts]] — from the 68-page Foxglove PG-wide Force Design document
+3. [[ADWC Implementation Plan (5-LOE Slide)|The 5-LOE implementation slide]] — from a direct PG 2030 para 3.15 extract (`103619.jpg`), phrased as plain-English "Indicative Tasks" for translation purposes
+
+No substantive conflicts found across the three beyond terminology already tracked (Khaimah → Hameem; SAG 10 naming above).
 
 ## Source
 

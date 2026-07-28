@@ -14,6 +14,7 @@ related:
   - "[[ADWC Transformation Concept]]"
   - "[[SBTDWS CAPDEV Projects]]"
   - "[[SBTDWS 2030 Timeline]]"
+  - "[[Falcons Brigade]]"
   - "[[sbtdws/_index]]"
 ---
 

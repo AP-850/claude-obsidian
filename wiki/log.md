@@ -25,6 +25,88 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-28] ingest | MDWC Six-Domain Study (vault context)
+- Source: `.raw/PG 2030/MDWC_Six_Domain_Study_VAULT_CONTEXT.md`
+- Summary: [[sources/mdwc-six-domain-study-vault-context]]
+- Pages created: [[MDWC Six-Domain Study]], [[Tactical Adaptation Platform]], [[sources/mdwc-six-domain-study-vault-context]]
+- Pages updated: [[ADWC Naming Analysis]] (naming contradiction flagged), [[Commander Decisions Register]] (D-10 cross-reference; gap note updated with domain-scope answers), [[ADWC Implementation Plan (5-LOE Slide)]] (cross-reference note), [[sbtdws/_index]], [[index]], [[hot]]
+- **Headline finding — flagged, not resolved:** this J7-authored document (DRAFT, for HQ socialisation, dated 2026-07-28) states "ADWC (All Domain Warfare Centre) superseded by MDWC — Multi Domain Warfare Centre (Working Title)." The same day, SBTDWS's own [[ADWC Implementation Plan (5-LOE Slide)]] used ADWC throughout with no mention of MDWC. Two authorities, two names, same day, neither a formal PG HQ decision. Flagged prominently on [[ADWC Naming Analysis]] and [[Commander Decisions Register]] D-10; deliberately did not rename anything else in the wiki.
+- Key insight: the study's domain positioning (Land+Air = MDWC core; Maritime = conditional/PG HQ; Space+Cyber = external/TBC owner; EMS = near-term MDWC/PG HQ) gives the first substantive answer to two of the three untracked decision items flagged in this morning's ingest ("is maritime in scope?", "who owns cyber/EMS/space?") — cross-referenced into the Commander Decisions Register gap note rather than treated as a formal resolution.
+- Gap found and flagged: [[Tactical Adaptation Platform]] (ORABATV lesson-capture cycle) may be a third instance of the lessons-mechanism duplication already flagged between Objectives 2 and 3 of [[J3 Action Plan — SBTDWS Transformation (Combined)]] — not reconciled, flagged for whoever owns the eventual lessons-architecture decision.
+- Gap found and flagged: new 20-item domain gap register (G-LD/G-AD/G-MAR/G-EMS prefixes) has not been cross-checked against the existing 10-gap [[ADWC FIC Analysis]] register for overlap.
+- Minor note: a third spelling of the institution founder's name found across sources (this doc: "Tahnoon"; [[sbtdws/_index]]: "Tahnoun"; [[PG 2030 Directive]]: "bin Huzn") — cosmetic, unresolved.
+- Environment note: DragonScale addressing and wiki-lock again skipped — `flock` still unavailable.
+
+## [2026-07-28] ingest | SBTDWS to ADWC — Implementation Plan (working note + slide)
+- Sources: `.raw/PG 2030/SBTDWS to ADWC - Implementation Plan.md`, `.raw/PG 2030/SBTDWS_ADWC_Implementation_Plan.pptx`
+- Summary: [[sources/sbtdws-to-adwc-implementation-plan]]
+- Pages created: [[ADWC Implementation Plan (5-LOE Slide)]], [[J3 WDC]], [[PGI]], [[6GW]], [[J7 LVC Architecture]], [[J6 Digital Backbone]], [[sources/sbtdws-to-adwc-implementation-plan]]
+- Pages updated: [[Commander Decisions Register]] (gap note: 3 decision items not yet tracked), [[SBTDWS 2030 Timeline]] (MLOC date flagged as assumption), [[SBTDWS Action Plan]] (taxonomy cross-reference), [[PG 2030 Directive]] (stale SAG 10 label flagged; third-source confirmation of 9 tasks noted), [[sbtdws/_index]], [[index]], [[hot]]
+- Key insight: the pptx was verified by direct text extraction to match §7 of the working note (condensed). The document introduces a fifth-LOE reorganisation of the 9 tasks that is now the third taxonomy in the wiki for the same task set (EMAD 4-LOE [superseded], SBTDWS Action Plan's 3-Objective structure [still current], this document's 5-LOE [built for the J3/EMAD one-page brief]) — boundaries do not map 1:1 and nothing forces reconciliation, flagged on both affected pages rather than silently merged.
+- Contradiction found and flagged: [[PG 2030 Directive]] still carries the pre-correction SAG 10 label "Vital Capabilities Development"; the new source independently confirms the corrected "Resilience and Capacity Building" already recorded on [[SAG 9 and SAG 10]].
+- Gap found and flagged: the new source's "Decisions needed from PG HQ by Q4 26" box surfaces 3 items with no existing entry in [[Commander Decisions Register]] — cyber/EMS/space ownership, PGI dispute resolution, maritime scope.
+- Environment note: DragonScale address allocation (`scripts/allocate-address.sh`) and `wiki-lock.sh`'s meta-lock both depend on `flock`, which is not present in this Git Bash install. Both were skipped this ingest — new pages have no `address:` frontmatter and were written without lock protection. Single-writer session, so no actual race occurred, but this needs a real fix before a multi-agent batch ingest is attempted in this environment.
+
+## [2026-06-23] draft | Three J3-format Action Plans combined into one document
+- User direction: combine the three separate J3-format Action Plans into one document now.
+- Page created: [[J3 Action Plan — SBTDWS Transformation (Combined)]]
+- Structure: phases defined once (Section 1) since all three objectives share the same calendar; Section 2 organised by Phase One/Two/Three with each objective as a sub-section, preserving original objective numbering as N.M (e.g. 1.1, 2.3, 3.5); Section 3 adds a new "Cross-cutting" sub-list (drawn from the detailed plan's WG1/WG2/WG8) ahead of the three per-objective requirement lists.
+- Key insight: combining surfaced a duplication invisible in the separate documents — Objective 2's "lessons exploitation mechanism" and Objective 3's "lessons integration cycle" are the same machinery described twice. Flagged inline; recommend one shared lessons cycle.
+- Pages updated: [[SBTDWS Action Plan]], [[J3 Action Plan Template]], [[sbtdws/_index]], [[index]], [[hot]]
+- Both formats (3 separate documents and the combined document) are retained — neither supersedes the other.
+
+## [2026-06-23] draft | Three J3-format Action Plans produced from SBTDWS Action Plan
+- Scoping decision (user): produce three separate J3-format Action Plans (one per objective), matching the template's single-capability-line grain, then later combine into one document.
+- Pending-decision handling (user): flag every objective dependent on a still-PENDING Commander decision with an explicit inline callout, rather than assuming the decision.
+- Pages created: [[J3 Action Plan — Collective Training, Validation and Mission Rehearsal]], [[J3 Action Plan — Tactical Experimentation]], [[J3 Action Plan — Training and Course Management]]
+- Pages updated: [[SBTDWS Action Plan]] (formatting-standard note now points to the three new documents), [[J3 Action Plan Template]] ("Relevance to SBTDWS" section updated to show the template applied), [[sbtdws/_index]], [[index]], [[hot]]
+- Phase mapping used: each objective's PREP + Phase 1 (detailed plan) compressed into J3 "Phase One"; Phase 2 → "Phase Two"; Phase 3 → "Phase Three" — tied to capability gates (MLOC/IOC/FOC-equivalent) to match the Falcons Brigade worked example's logic.
+- Decisions flagged inline: D-01, D-03, D-05, D-06, D-07, D-08 (Objective 1); D-09, D-11 (Objective 2); D-04 (Objective 3).
+- Next step (agreed, not yet done): combine the three documents into one, same template structure, objectives as sub-sections.
+
+## [2026-06-23] correction | J3 Action Plan Template — example content was misattributed
+- User-flagged correction to the same-day ingest below.
+- Original error: described the "Specialized Technical Skills" / unmanned systems transition content in [[J3 Action Plan Template]] as a generic, illustrative placeholder.
+- Correction: that content is [[Falcons Brigade]]'s real, J3-submitted Action Plan. The three numbered headings (Phases of Implementation / Defining Phased Objectives / Identifying Requirements for Achieving Objectives) are the template; J3 uses Falcons Brigade's real plan as the worked example to teach other units the format.
+- Pages created: [[Falcons Brigade]] (entity)
+- Pages updated: [[J3 Action Plan Template]] (corrected framing, contradiction callout), [[Makhlab 1 Project]], [[PG 2030 Force Design Concepts]], [[SBTDWS Key Relationships]], [[Three Development Thematics]] (cross-links to [[Falcons Brigade]])
+- Key insight: Falcons Brigade's UxS/FPV development line (already established via Makhlab 1 and SAG 9/10 partnership) is corroborated by their own formally tabled J3 Action Plan — this is a real, currently-in-progress unit submission, not a hypothetical training example.
+
+## [2026-06-23] ingest | SBTDWS EMAD Committee FG Review + J3 Action Plan Template
+- Sources: `.raw/PG 2030/20260504 EMAD COMMITTEE_SBTDWS_FG Review.pptx`, `.raw/PG 2030/J3 Template Example_Action Plans.jpg`
+- Summary: [[sources/sbtdws-emad-fg-review-2026-05-04]]
+- Pages created: [[PG 2030 Force Design Concepts]], [[Foxglove]], [[J3 Action Plan Template]]
+- Pages updated: [[SBTDWS 2030 Timeline]] (Contractor HOTO NLT Q4 27 added), [[Makhlab 1 Project]] (Programme MAKHLAB parent confirmed), [[SBTDWS Action Plan]] (template cross-reference)
+- Key insight: PPTX exhibit slides reveal SBTDWS sits inside a PG-wide, externally-authored ("Foxglove") 68-page Force Design programme covering all 20 PG units — Makhlab 1 is a serial within a named PG-level "Programme MAKHLAB", not an SBTDWS-only initiative. J3 template confirms the required 3-part Action Plan structure (Phases of Implementation → Phased Objectives → Requirements) that existing draft Action Plan/ToR have not yet adopted.
+
+## [2026-06-12] ingest | Capability Planning Tool Project
+- Source: `.raw/Capability-Planning-Tool-Project.md`
+- New domain: wiki/capability-planning-tool/ (5 pages + _index)
+- Pages: [[CPT Overview]], [[CPT Framework Research]], [[CPT Architecture]], [[CPT Reference Frameworks]], [[CPT Outputs and Design]]
+- Index updated; source record: [[sources/capability-planning-tool-project]]
+
+## [2026-06-10] ingest | SBT PG 2030 FIC Analysis Excel
+- Source: `.raw/PG 2030/SBT PG 2030 - FIC analysis_CH_updated.xlsx`
+- All 7 sheets ingested: FIC Matrix (72 entries), Work Groupings (WG1–WG8), Tasks, FIC Inputs, Change Log
+- [[ADWC FIC Analysis]] fully updated with Work Groupings and detailed observations
+- Source record: [[sources/fic-analysis-excel]]
+
+## [2026-06-10] update | SBTDWS Action Plan — full implementation plan
+- [[sbtdws/SBTDWS Action Plan]] rewritten as detailed implementation plan (draft v0.1)
+- 3 objectives: current state, end state, phased actions, personnel requirements, system requirements, authority requirements, risks
+- Draws from: OC-T Cadre Development Plan, SBTDWS CTC Architecture, Hameem Concept, Barriers and Blockers, ADWC FIC Analysis, SBTDWS 2030 Timeline
+- Domain correction: land and air (full development of both)
+
+## [2026-06-10] create | Paper 2 Excerpts
+- Source record filed: [[sources/paper-2-excerpts]]
+- 4 screenshots ingested: sections 3.15 (SBTDWS tasks), 3.16 (Innovation Command), 4 (R&D Hub), 5 (Tactical Experimentation)
+- Full Paper 2 not yet available
+
+## [2026-06-10] create | WG 2 Back Brief PG J3 2026-06-10
+- Page created: [[sbtdws/WG 2 Back Brief PG J3 2026-06-10]]
+- First entry in meetings register
+- Key points: domain scope reduced to land + partial air; MDWC naming (informal); MOD body link is advice only; collective training elevated to main effort
+
 ## [2026-06-06] create | EXCON Pro Expert Feedback Programme
 - New domain: wiki/excon-pro/
 - Pages created: [[excon-pro/_index]], [[excon-pro/Outreach Framework]]

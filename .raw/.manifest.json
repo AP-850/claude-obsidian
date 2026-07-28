@@ -157,9 +157,91 @@
       "ingested_at": "2026-06-02",
       "pages_created": [],
       "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+    },
+    ".raw/PG 2030/20260504 EMAD COMMITTEE_SBTDWS_FG Review.pptx": {
+      "hash": "0d303179b5ec0a2b5dde5d2e785fde87",
+      "ingested_at": "2026-06-23",
+      "pages_created": [
+        "wiki/sources/sbtdws-emad-fg-review-2026-05-04.md",
+        "wiki/sbtdws/PG 2030 Force Design Concepts.md",
+        "wiki/entities/Foxglove.md"
+      ],
+      "pages_updated": ["wiki/sbtdws/SBTDWS 2030 Timeline.md", "wiki/sbtdws/Makhlab 1 Project.md"]
+    },
+    ".raw/PG 2030/J3 Template Example_Action Plans.jpg": {
+      "hash": "b4b603618c385a12ece50c184bc2bc4d",
+      "ingested_at": "2026-06-23",
+      "pages_created": ["wiki/sbtdws/J3 Action Plan Template.md", "wiki/entities/Falcons Brigade.md"],
+      "pages_updated": [
+        "wiki/sbtdws/SBTDWS Action Plan.md",
+        "wiki/sbtdws/Makhlab 1 Project.md",
+        "wiki/sbtdws/PG 2030 Force Design Concepts.md",
+        "wiki/sbtdws/SBTDWS Key Relationships.md",
+        "wiki/sbtdws/Three Development Thematics.md"
+      ],
+      "correction_2026-06-23": "Initial ingest mischaracterised the example content as a generic placeholder; corrected to reflect it is Falcons Brigade's real J3-submitted Action Plan."
+    },
+    ".raw/PG 2030/SBTDWS to ADWC - Implementation Plan.md": {
+      "hash": "320764f7a8026a985af5a58767e3fe6c",
+      "ingested_at": "2026-07-28",
+      "pages_created": [
+        "wiki/sources/sbtdws-to-adwc-implementation-plan.md",
+        "wiki/sbtdws/ADWC Implementation Plan (5-LOE Slide).md",
+        "wiki/entities/J3 WDC.md",
+        "wiki/entities/PGI.md",
+        "wiki/concepts/6GW.md",
+        "wiki/entities/J7 LVC Architecture.md",
+        "wiki/entities/J6 Digital Backbone.md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/sbtdws/SBTDWS 2030 Timeline.md",
+        "wiki/sbtdws/SBTDWS Action Plan.md",
+        "wiki/sbtdws/PG 2030 Directive.md",
+        "wiki/sbtdws/_index.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "DragonScale addressing skipped this ingest; flock unavailable in this environment. New pages have no address: frontmatter."
+    },
+    ".raw/PG 2030/SBTDWS_ADWC_Implementation_Plan.pptx": {
+      "hash": "c9860895e74bcda5d456f62e9ae0c809",
+      "ingested_at": "2026-07-28",
+      "pages_created": [],
+      "pages_updated": ["wiki/sources/sbtdws-to-adwc-implementation-plan.md"],
+      "note": "Companion slide to the .md working note above; verified by direct text extraction to match its §7 content (condensed). No separate wiki page — documented within the shared source summary and domain page."
+    },
+    ".raw/PG 2030/MDWC_Six_Domain_Study_VAULT_CONTEXT.md": {
+      "hash": "52b26149d1355d8f23c97d7725bc50a8",
+      "ingested_at": "2026-07-28",
+      "pages_created": [
+        "wiki/sources/mdwc-six-domain-study-vault-context.md",
+        "wiki/sbtdws/MDWC Six-Domain Study.md",
+        "wiki/concepts/Tactical Adaptation Platform.md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/ADWC Naming Analysis.md",
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/sbtdws/ADWC Implementation Plan (5-LOE Slide).md",
+        "wiki/sbtdws/_index.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "J7-authored, dated same day as the Implementation Plan ingest above. States ADWC superseded by 'MDWC' as a working title — flagged as an unresolved naming contradiction, not adopted vault-wide. DragonScale addressing skipped again; flock still unavailable."
     }
   },
   "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
+    "wiki/concepts/DragonScale Memory.md": "c-000001",
+    "wiki/sources/sbtdws-emad-fg-review-2026-05-04.md": "c-000003",
+    "wiki/sbtdws/PG 2030 Force Design Concepts.md": "c-000004",
+    "wiki/entities/Falcons Brigade.md": "c-000007",
+    "wiki/entities/Foxglove.md": "c-000005",
+    "wiki/sbtdws/J3 Action Plan Template.md": "c-000006",
+    "wiki/sbtdws/J3 Action Plan — Collective Training, Validation and Mission Rehearsal.md": "c-000008",
+    "wiki/sbtdws/J3 Action Plan — Tactical Experimentation.md": "c-000009",
+    "wiki/sbtdws/J3 Action Plan — Training and Course Management.md": "c-000010",
+    "wiki/sbtdws/J3 Action Plan — SBTDWS Transformation (Combined).md": "c-000011"
   }
 }

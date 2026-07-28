@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-02 | Total pages: 84 | Sources ingested: 9
+Last updated: 2026-06-23 | Total pages: 94 | Sources ingested: 10
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -52,6 +52,18 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Persistent Wiki Artifact]]: durable Markdown page as the LLM's memory object, distinct from ephemeral chat turns (status: developing)
 - [[Source-First Synthesis]]: provenance discipline; raw sources stay immutable while the wiki layer is synthesized and cited (status: developing)
 - [[Query-Time Retrieval]]: wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
+- [[6GW]] — Sixth-generation Warfare; doctrinal target state behind the ADWC transformation; six-domain synchronised effects (status: active)
+- [[Tactical Adaptation Platform]] — ORABATV lesson-capture concept for Land domain, not yet built; possible third instance of the lessons-mechanism duplication (status: concept)
+
+---
+
+## Capability Planning Tool
+
+- [[CPT Overview]] — organisation-agnostic capability planning tool; enforces mission → capability → structure → support → action plan sequence (status: v1 built)
+- [[CPT Framework Research]] — 6 frameworks synthesised (CBP, DOTMLPF, JCIDS/CBA, NATO NDPP, TOGAF, McKinsey 7S); 5 critical gaps identified (status: complete)
+- [[CPT Architecture]] — 7 modules, gating logic, data model, user flow; React application (status: complete)
+- [[CPT Reference Frameworks]] — DOTMLPF 8 dimensions, solution type decision tree, maturity and severity scales (status: evergreen)
+- [[CPT Outputs and Design]] — outputs, design decisions, future extensions (Force Design Review, Sync Matrix, Export) (status: active)
 
 ---
 
@@ -80,6 +92,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
 - [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
 - [[Claude SEO]] — Tier 4 Claude Code skill for SEO analysis; 23 skills, 17 agents, 30 scripts at v1.9.0 (status: evergreen)
+- [[Foxglove]] — external party authoring a 68-page PG-wide Force Design document; identity unconfirmed (status: developing)
+- [[Falcons Brigade]] — PG manoeuvre brigade, primary UxS/FPV talent pipeline; Makhlab 1 partner force; SAG 9/10 validation customer (status: active)
+- [[J3 WDC]] — PG Warfare Development Centre; owns tactical experimentation governance; D-11 relationship with SBTDWS unresolved (status: active)
+- [[PGI]] — Presidential Guard Institute / IWTC; individual IW training; split with SBTDWS collective validation not yet formalised (status: active)
+- [[J7 LVC Architecture]] — PG-wide Live/Virtual/Constructive training architecture; SBTDWS OT/HICON/EXCON/Hameem must nest within it (status: active)
+- [[J6 Digital Backbone]] — J6-owned secure comms/C4I/data infrastructure; cyber/EMS/space overlays and Hameem LVC connectivity depend on it (status: active)
 
 ---
 
@@ -138,11 +156,23 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Commander Decisions Register]] — 11 pending command decisions in 3 tiers; Tier 1 (D-01 to D-03) O6 CoC; Tier 2 gates IOC; Tier 3 gates FOC (status: active)
 - [[Force Generation Pipeline ToR]] — Draft v0.1 ToR; J7/SBTDWS/J3 lane split; resource provisions; adverse assessment reporting chain; 5 TBD items flagged (status: draft)
 - [[ADWC FIC Analysis]] — 10 gaps, 10 dependencies, 12 key relationships; single-point-of-failure risk; Key Issues for Command Direction (status: active)
+- [[Gap and Issue Triage Register]] — consolidated ranked triage of all gaps/issues for J3/Commander brief; Paper 2 vs WG2 verbal direction discrepancies flagged before OPORD release (status: active)
 - [[SBTDWS CTC Architecture]] — 19 DMTs / 4 MRCs framework; J-functions; EXCON/OPFOR/OT design; current vs required gaps (status: active)
 - [[SBTDWS Barriers and Blockers]] — 8 institutional barriers; inflated pass rates; O5 resistance; contractor dependency; command-safe language guide (status: active)
 - [[ADWC Naming Analysis]] — expectation gap with ADWC label; alternatives preserving Desert Warfare identity (status: active)
 - [[UxS CAPDEV Portfolio]] — autonomous combat, VTOL, resupply drones, FPV program, simulation requirements (status: active)
 - [[OPFOR and Red Force Concept]] — OPFOR design; role player sourcing; evaluation function; current status gap (status: active)
+- [[PG 2030 Force Design Concepts]] — PG-wide Force Design Concepts framework; 20-unit/branch role mapping; confirms Programme MAKHLAB as parent of Makhlab 1 (status: active)
+- [[J3 Action Plan Template]] — J3-required Action Plan structure: Phases of Implementation → Phased Objectives → Requirements; worked example is Falcons Brigade's real Action Plan, not a generic placeholder (status: evergreen)
+- [[J3 Action Plan — Collective Training, Validation and Mission Rehearsal]] — Objective 1 (Main Effort) compressed to J3 format; PENDING decisions flagged inline (status: draft)
+- [[J3 Action Plan — Tactical Experimentation]] — Objective 2 (Main Effort) compressed to J3 format; PENDING decisions flagged inline (status: draft)
+- [[J3 Action Plan — Training and Course Management]] — Objective 3 (Supporting Effort) compressed to J3 format; PENDING decisions flagged inline (status: draft)
+- [[J3 Action Plan — SBTDWS Transformation (Combined)]] — all three objectives combined into one J3-format document; surfaced a lessons-mechanism duplication between Objectives 2 and 3 (status: draft)
+- [[Foxglove]] — external party authoring the PG-wide 68-page Force Design document; identity unconfirmed (status: developing)
+- [[ADWC Implementation Plan (5-LOE Slide)]] — one-page J3/EMAD Committee brief: 5 LOEs x 4 phases, dependencies, decisions needed by Q4 26; third taxonomy for the 9 tasks (status: draft-for-J3)
+- [[sources/sbtdws-to-adwc-implementation-plan]] — source summary for the working note + matching pptx slide; translation notes, open questions (status: ingested)
+- [[MDWC Six-Domain Study]] — J7-authored study: Land/Air/Maritime/Space/Cyber/EMS positioning, 20-item gap register, 4 HQ decisions; states ADWC superseded by "MDWC" — unresolved naming contradiction with same-day SBTDWS product (status: draft-for-hq-socialisation)
+- [[sources/mdwc-six-domain-study-vault-context]] — source summary; key terminology, spelling variance note, cross-references to domain-scope decisions (status: ingested)
 
 ## EXCON Pro — Expert Feedback Programme
 
@@ -163,6 +193,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[innovation-management-platform-landscape]] — 2026-06-05 | commercial platform comparison; market gap confirmed
 - [[organize-workstreams]] — 2026-05-27 | PG 2030 / TACTIX project separation; foundation CLAUDE.md files | 2 wiki pages created
 - [[excon-pro-claude-prompt]] — 2026-05-27 | EXCON Pro CLAUDE.md from concept brief v1.7 | 2 wiki pages created
+- [[sources/sbtdws-emad-fg-review-2026-05-04]] — 2026-06-23 | EMAD Committee FG review pptx (2026-05-04) + J3 Action Plan template image | 4 wiki pages created, 2 updated
 
 ## TACTIX — Exercise Control Application
 

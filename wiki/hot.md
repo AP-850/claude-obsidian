@@ -32,7 +32,7 @@ Earlier today: ingested the SBTDWS to ADWC Implementation Plan working note + ma
 ## Active Projects (Two Separate Workstreams)
 
 ### PG 2030 / SBTDWS → ADWC
-- Domain: `wiki/sbtdws/` (41 pages)
+- Domain: `wiki/sbtdws/` (43 pages)
 - Foundation file: `Documents\PG FDR 2030\pg-2030\CLAUDE.md`
 - Goal: SBTDWS → PG All Domain Warfare Centre (ADWC) by 2030
 

@@ -46,6 +46,7 @@ Earlier today: ingested the SBTDWS to ADWC Implementation Plan working note + ma
 
 ## Key Recent Facts — SBTDWS (updated 2026-07-28)
 
+- **New PG 2030 advisor + RFI ready:** [[RFI to PG HQ]] is drafted and ready for the new advisor to submit. 12 items, P1/P2/P3 prioritised, summary table at the top for quick scan.
 - **⚠ ADWC naming may already be shifting to MDWC — unresolved.** [[MDWC Six-Domain Study]] (J7, 2026-07-28, DRAFT) states ADWC is superseded by "MDWC — Multi Domain Warfare Centre (Working Title)." Same-day SBTDWS product still uses ADWC. Not a formal D-10 decision. Check [[ADWC Naming Analysis]] before assuming either name in new work.
 - **6-domain positioning given by J7:** Land + Air = MDWC core/immediate. Maritime = conditional, PG HQ decision pending. Space + Cyber = external, owner TBC. EMS = near-term MDWC/PG HQ, cannot be deferred. See [[MDWC Six-Domain Study]].
 - **5-LOE implementation slide filed:** [[ADWC Implementation Plan (5-LOE Slide)]] — one-page J3/EMAD brief, 5 LOEs x 4 phases, third taxonomy for the same 9 tasks. See [[sources/sbtdws-to-adwc-implementation-plan]] for the full working note (translation notes, decisions taken, open questions).

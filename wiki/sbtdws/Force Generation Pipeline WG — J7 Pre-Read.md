@@ -52,8 +52,7 @@ For discussion, not as a fixed position:
 1. **Resourcing** — realistically, what can J7 make available to SBTDWS-led validation events (OPFOR, instrumentation, LVC simulation access, a liaison officer), and on what notice?
 2. **LVC architecture** — we'd like to start early on how SBTDWS's OT/HICON/EXCON and the future Hameem mission rehearsal site nest inside J7's existing LVC architecture, rather than building anything in parallel.
 3. **SAG 9/10 standards** — there are a few options for who drafts and endorses these validation standards. We'd value your view on what role J7 would want to play.
-4. **Terminology** — we've seen "MDWC" used in some J7 material alongside our own use of "ADWC." Keen to align on which term to use going forward, whichever way that lands.
-5. **Working group mechanics** — proposing a standing forum (working title: Force Generation Planning Cell) to meet regularly, deconflict scheduling, and review progress. Open to J7's preference on frequency and format.
+4. **Working group mechanics** — proposing a standing forum to meet regularly, deconflict scheduling, and review progress. Open to J7's preference on frequency and format.
 
 ## 4. Items that will likely need a decision above this room
 

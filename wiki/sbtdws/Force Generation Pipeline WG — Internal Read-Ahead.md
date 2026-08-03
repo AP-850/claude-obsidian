@@ -24,9 +24,9 @@ related:
 
 # Force Generation Pipeline WG — Internal Read-Ahead
 
-**For:** PG 2030 Lead (LTCOL) — agenda review ahead of Wednesday's working group
+**For:** PG 2030 Lead (LTCOL) — agenda review ahead of the working group
 **Prepared:** 2026-08-03
-**Meeting:** Wednesday [date TBC], chaired by PG J3, SBTDWS and PG J7 attending
+**Meeting:** Chaired by PG J3, SBTDWS and PG J7 attending (date subject to change)
 
 Navigation: [[sbtdws/_index]] | [[Force Generation Pipeline ToR]] | [[Commander Decisions Register]]
 

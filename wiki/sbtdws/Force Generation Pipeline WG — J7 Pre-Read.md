@@ -19,7 +19,7 @@ related:
 
 # Force Generation Pipeline Working Group — Pre-Read for J7
 
-**Purpose:** Read-ahead for PG J7 ahead of Wednesday's working group, chaired by PG J3, covering integration of collective training, validation and mission rehearsal functions between SBTDWS and J7.
+**Purpose:** Read-ahead for PG J7 ahead of the working group, chaired by PG J3, covering integration of collective training, validation and mission rehearsal functions between SBTDWS and J7.
 
 Navigation: [[sbtdws/_index]] | [[Force Generation Pipeline ToR]]
 

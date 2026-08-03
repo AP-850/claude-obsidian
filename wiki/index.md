@@ -174,6 +174,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[MDWC Six-Domain Study]] — J7-authored study: Land/Air/Maritime/Space/Cyber/EMS positioning, 20-item gap register, 4 HQ decisions; states ADWC superseded by "MDWC" — unresolved naming contradiction with same-day SBTDWS product (status: draft-for-hq-socialisation)
 - [[sources/mdwc-six-domain-study-vault-context]] — source summary; key terminology, spelling variance note, cross-references to domain-scope decisions (status: ingested)
 - [[RFI to PG HQ]] — consolidated 12-item RFI for the new PG 2030 advisor, built from every open decision gap on record; prioritised P1/P2/P3, excludes SBTDWS's own internal actions (status: draft-for-advisor-review)
+- [[Force Generation Pipeline WG — Internal Read-Ahead]] — prep for first-ever J3-chaired SBTDWS/J7 WG (2026-08-05); ACT/SHAPE/ESCALATE tagged item list; agenda agreement closes D-02 (status: draft)
+- [[Force Generation Pipeline WG — J7 Pre-Read]] — command-safe companion pre-read for external circulation to J7 ahead of the same WG (status: draft)
 
 ## EXCON Pro — Expert Feedback Programme
 

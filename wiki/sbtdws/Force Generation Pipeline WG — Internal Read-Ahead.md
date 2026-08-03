@@ -39,7 +39,7 @@ This is the first working group of its kind — chaired by J3, bringing SBTDWS a
 > [!key-insight] Agreeing this agenda closes D-02
 > Agreeing the approach below effectively satisfies [[Commander Decisions Register]] **D-02** — the Commandant's decision to direct SBTDWS's formal engagement with J3 and J7 on the Force Generation Pipeline ToR. This isn't a separate signature step later; sign-off here, acting for the Commandant, is the act that closes it.
 
-The [[Force Generation Pipeline ToR]] (v0.1, drafted 2026-06-02) is the working document behind this discussion. It is still a draft — present it Wednesday as a document to shape jointly with J3/J7, not one tabled for signature. Expect it to change after this discussion.
+The [[Force Generation Pipeline ToR]] (v0.1, drafted 2026-06-02) is the working document behind this discussion. It is still a draft — present it as a document to shape jointly with J3/J7, not one tabled for signature. Expect it to change after this discussion.
 
 ---
 

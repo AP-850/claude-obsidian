@@ -30,7 +30,7 @@ Navigation: [[sbtdws/_index]] | [[Force Generation Pipeline ToR]]
 
 ## Suggested covering note (copy/adapt for email)
 
-> Ahead of Wednesday's working group, we wanted to share a short pre-read so the discussion can be as productive as possible. This is the first time SBTDWS and J7 have sat down together on this specific topic under J3's chair, so we've kept this deliberately exploratory — a starting point for discussion, not a position we're asking you to accept as-is. Happy to talk through any of it beforehand if useful.
+> Ahead of the upcoming working group, we wanted to share a short pre-read so the discussion can be as productive as possible. This is the first time SBTDWS and J7 have sat down together on this specific topic under J3's chair, so we've kept this deliberately exploratory — a starting point for discussion, not a position we're asking you to accept as-is. Happy to talk through any of it beforehand if useful.
 
 ---
 

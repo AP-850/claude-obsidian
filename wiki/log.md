@@ -25,6 +25,13 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-03] synthesis | Force Generation Pipeline WG read-aheads (first J3-chaired SBTDWS/J7 WG)
+- Trigger: user revealed the Force Generation Pipeline ToR discussion has never left SBTDWS — Wednesday 2026-08-05 is the first-ever working group of this kind, chaired by PG J3, with SBTDWS and PG J7 attending. The PG 2030 lead (Emirati LTCOL) agreeing the agenda on 2026-08-04 effectively closes [[Commander Decisions Register]] D-02. User wanted the full landscape raised for awareness (not pre-trimmed), tagged by priority, plus a version to send to J7 ahead of time.
+- Pages created: [[Force Generation Pipeline WG — Internal Read-Ahead]] (for the LTCOL, full detail, D-number references, ACT/SHAPE/ESCALATE tagged item list); [[Force Generation Pipeline WG — J7 Pre-Read]] (external, command-safe companion — no internal decision-register exposure, no internal barriers content).
+- Synthesis sources: [[Force Generation Pipeline ToR]], [[Commander Decisions Register]], [[RFI to PG HQ]], [[SBTDWS Key Relationships]], [[J7 LVC Architecture]].
+- Key judgment call: split into two documents rather than one, since the internal version needed the full decision-register/D-number detail and internal caution notes (barriers, D-01/D-03 exclusions) that are inappropriate for external circulation to J7.
+- Memory: saved project memory on the first-WG mechanics and D-02 closure (`project_pg2030_j3_j7_wg_first_meeting.md`), updated `project_pg2030_new_advisor.md` with LTCOL detail, and saved a feedback memory (`feedback_meeting_prep_raise_everything.md`) on the user's preference for comprehensive tagged lists over pre-trimmed agendas.
+
 ## [2026-07-28] synthesis | RFI to PG HQ (new advisor request)
 - Trigger: user reported a new PG 2030 project lead/advisor is now in place; Foxglove (external Force Design contractor) is benched but may rejoin. The new advisor asked for a consolidated "help me help you" list of questions/RFIs for PG HQ — what's needed to understand the current gaps and start planning/implementing.
 - Page created: [[RFI to PG HQ]] (address c-000023) — 12 prioritised (P1/P2/P3) RFI items across four themes (Institutional Identity & Scope; Authority & Standards; Structure & Resourcing; Governance & Relationships), plus a summary table, a for-awareness note on the transformation-timeline-vs-institutional-floor tension, and an appendix listing SBTDWS's own O6 CoC actions (D-01/02/03) that were deliberately excluded since they aren't PG HQ questions.

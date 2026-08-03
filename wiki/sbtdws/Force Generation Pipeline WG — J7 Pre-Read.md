@@ -24,7 +24,7 @@ related:
 Navigation: [[sbtdws/_index]] | [[Force Generation Pipeline ToR]]
 
 > [!note] External-facing document
-> Written for circulation to J7 ahead of Wednesday. Deliberately excludes internal SBTDWS planning detail (decision register IDs, internal institutional issues) — command-safe framing only. See [[Force Generation Pipeline WG — Internal Read-Ahead]] for the full internal version.
+> Written for circulation to J7 ahead of the meeting. Deliberately excludes internal SBTDWS planning detail (decision register IDs, internal institutional issues) — command-safe framing only. Also deliberately excludes the ADWC/MDWC naming question and any new forum-naming proposals (e.g. "FGPC") — held for live conversation, not put in writing. See [[Force Generation Pipeline WG — Internal Read-Ahead]] for the full internal version.
 
 ---
 

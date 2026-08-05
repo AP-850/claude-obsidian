@@ -98,6 +98,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[PGI]] — Presidential Guard Institute / IWTC; individual IW training; split with SBTDWS collective validation not yet formalised (status: active)
 - [[J7 LVC Architecture]] — PG-wide Live/Virtual/Constructive training architecture; SBTDWS OT/HICON/EXCON/Hameem must nest within it (status: active)
 - [[J6 Digital Backbone]] — J6-owned secure comms/C4I/data infrastructure; cyber/EMS/space overlays and Hameem LVC connectivity depend on it (status: active)
+- [[Al Forsan]] — PG manoeuvre unit; SAGs 6/14/16; deployable 1-star JTF HQ; MAKHLAB 2 partner with HBE (status: active)
+- [[Hamid Bin Essa]] — PG unit converting to Airborne/Air Assault (FOC Dec 27); SAG 15; MAKHLAB 2 partner with Al Forsan (status: active)
+- [[Special Operations Command (SOC)]] — PG command, 8 SAGs, 4 SOGs (61/66/71/76); MAKHLAB 3; distinct from NCTJC C2 HQ (status: active)
+- [[Presidential Special Guard (PSG)]] — VVIP/critical infrastructure protection; SAGs 4/5/21; MAKHLAB 3; likely same entity as "SG" (status: active)
+- [[Specialist Reserve Brigade (SRB)]] — Reserve component; UxS National Resistance pivot; MAKHLAB 4; MRC 3 reinforcement to Falcons Bde (status: active)
+- [[NCTJC]] — National Counter Terrorism Joint Command HQ; 24/7/365 PG C2 + Multi-Domain Targeting; likely renamed successor to "PG J3/NCTC/HQ" (status: active)
 
 ---
 
@@ -176,6 +182,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[RFI to PG HQ]] — consolidated 12-item RFI for the new PG 2030 advisor, built from every open decision gap on record; prioritised P1/P2/P3, excludes SBTDWS's own internal actions (status: draft-for-advisor-review)
 - [[Force Generation Pipeline WG — Internal Read-Ahead]] — prep for first-ever J3-chaired SBTDWS/J7 WG (2026-08-05); ACT/SHAPE/ESCALATE tagged item list; agenda agreement closes D-02 (status: draft)
 - [[Force Generation Pipeline WG — J7 Pre-Read]] — command-safe companion pre-read for external circulation to J7 ahead of the same WG (status: draft)
+- [[sources/updated-pg-2030-tasks-aug-2026]] — PG-HQ-wide task register: J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units; reveals numbered MAKHLAB family, third naming candidate, formal PGIC handoff task (status: ingested)
+- [[Programme MAKHLAB]] — numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; MAKHLAB 1 ownership contradiction with [[Makhlab 1 Project]] (status: active)
 
 ## EXCON Pro — Expert Feedback Programme
 
@@ -197,6 +205,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[organize-workstreams]] — 2026-05-27 | PG 2030 / TACTIX project separation; foundation CLAUDE.md files | 2 wiki pages created
 - [[excon-pro-claude-prompt]] — 2026-05-27 | EXCON Pro CLAUDE.md from concept brief v1.7 | 2 wiki pages created
 - [[sources/sbtdws-emad-fg-review-2026-05-04]] — 2026-06-23 | EMAD Committee FG review pptx (2026-05-04) + J3 Action Plan template image | 4 wiki pages created, 2 updated
+- [[sources/updated-pg-2030-tasks-aug-2026]] — 2026-08-05 | PG-HQ-wide task register PDF (16pp, bilingual) | 8 wiki pages created, 8 updated
 
 ## TACTIX — Exercise Control Application
 

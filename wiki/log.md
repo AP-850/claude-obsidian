@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-05] ingest | Updated PG 2030 Tasks (Aug 2026)
+- Source: `.raw/PG 2030 New/Updated PG 2030 Tasks_Aug 2026.pdf` (16pp, bilingual EN/AR, per-branch task register)
+- Summary: [[sources/updated-pg-2030-tasks-aug-2026]]
+- Pages created: [[sources/updated-pg-2030-tasks-aug-2026]], [[Programme MAKHLAB]], [[Al Forsan]], [[Hamid Bin Essa]], [[Special Operations Command (SOC)]], [[Presidential Special Guard (PSG)]], [[Specialist Reserve Brigade (SRB)]], [[NCTJC]]
+- Pages updated: [[PG 2030 Directive]], [[PGIC Concept]], [[Makhlab 1 Project]], [[Falcons Brigade]], [[PGI]], [[ADWC Naming Analysis]], [[Commander Decisions Register]], [[sbtdws/_index]], [[index]]
+- Key insight: First PG-HQ-wide task register in one document. Reveals Programme MAKHLAB is a numbered family (1/2/3/4/8) spanning at least five units/branches, not a single project; surfaces a MAKHLAB 1 ownership contradiction (J3 WDC/SBTDWS per earlier sources vs. direct Falcons Brigade tasking here); adds a third naming candidate ("Multi-Domain Training Center") to the ADWC/MDWC naming contradiction (D-10); and states the SBTDWS CAPDEV-cell-to-PGIC handoff as a formal task line for the first time.
+
 # Operation Log
 
 Navigation: [[index]] | [[hot]] | [[overview]]

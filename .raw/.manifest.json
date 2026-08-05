@@ -230,6 +230,34 @@
         "wiki/log.md"
       ],
       "note": "J7-authored, dated same day as the Implementation Plan ingest above. States ADWC superseded by 'MDWC' as a working title — flagged as an unresolved naming contradiction, not adopted vault-wide. DragonScale addressing backfilled 2026-07-28 (see address_map) after flock was installed."
+    },
+    ".raw/PG 2030 New/Updated PG 2030 Tasks_Aug 2026.pdf": {
+      "hash": "7261c4b267b7a7aa32143c892e10908a",
+      "ingested_at": "2026-08-05",
+      "pages_created": [
+        "wiki/sources/updated-pg-2030-tasks-aug-2026.md",
+        "wiki/concepts/Programme MAKHLAB.md",
+        "wiki/entities/Al Forsan.md",
+        "wiki/entities/Hamid Bin Essa.md",
+        "wiki/entities/Special Operations Command (SOC).md",
+        "wiki/entities/Presidential Special Guard (PSG).md",
+        "wiki/entities/Specialist Reserve Brigade (SRB).md",
+        "wiki/entities/NCTJC.md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/PG 2030 Directive.md",
+        "wiki/sbtdws/PGIC Concept.md",
+        "wiki/sbtdws/Makhlab 1 Project.md",
+        "wiki/entities/Falcons Brigade.md",
+        "wiki/entities/PGI.md",
+        "wiki/sbtdws/ADWC Naming Analysis.md",
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/sbtdws/_index.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "16-page bilingual EN/AR PG-HQ-wide task register (CamScanner PDF). Revealed Programme MAKHLAB as a numbered family (1/2/3/4/8) across 5+ units; surfaced a MAKHLAB 1 ownership contradiction with Makhlab 1 Project; added a third naming candidate ('Multi-Domain Training Center') to the D-10 naming contradiction; confirmed the SBTDWS-to-PGIC CAPDEV handoff as a formal task line for the first time."
     }
   },
   "address_map": {

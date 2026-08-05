@@ -1,7 +1,7 @@
 ---
 type: domain-index
 title: "SBTDWS — All Domain Warfare Centre Transformation"
-updated: 2026-06-23
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -69,6 +69,8 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 | [[MDWC Six-Domain Study]] | J7-authored study: Land/Air/Maritime/Space/Cyber/EMS positioning, 20-item gap register, 4 HQ decisions; uses "MDWC" — see naming contradiction |
 | [[Tactical Adaptation Platform]] | Concept (not yet built): ORABATV lesson-capture cycle for Land domain; possible third instance of the lessons-mechanism duplication |
 | [[RFI to PG HQ]] | Consolidated 12-item RFI for the new PG 2030 advisor; prioritised P1/P2/P3; excludes SBTDWS's own O6 CoC actions |
+| [[sources/updated-pg-2030-tasks-aug-2026]] | PG-HQ-wide task register (J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units); reveals numbered MAKHLAB family; new "Multi-Domain Training Center" naming candidate; PGIC handoff now a formal task |
+| [[Programme MAKHLAB]] | Numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; MAKHLAB 1 ownership contradiction with [[Makhlab 1 Project]] |
 
 ---
 

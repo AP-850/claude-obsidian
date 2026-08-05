@@ -2,7 +2,7 @@
 type: analysis
 title: "ADWC Naming Analysis"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -15,6 +15,7 @@ related:
   - "[[PG 2030 Directive]]"
   - "[[MDWC Six-Domain Study]]"
   - "[[Commander Decisions Register]]"
+  - "[[sources/updated-pg-2030-tasks-aug-2026]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -91,6 +92,14 @@ This analysis was developed but no formal naming decision has been recorded. The
 
 ---
 
+> [!contradiction] A third name candidate — "Multi-Domain Training Center" (2026-08-05)
+> [[sources/updated-pg-2030-tasks-aug-2026]], a PG-HQ-wide task register dated Aug 2026, restructures SBTDWS's own Task 1 under the heading **"Develop and run the Multi-Domain Training Center"** — a label distinct from both "All Domain Warfare Centre" (ADWC, this directive's formal name) and "Multi Domain Warfare Centre" (MDWC, the J7 study's working title). A handwritten "Multi" correction visible on the source scan (inserted above "Domain") suggests this label was itself being edited/debated at the point of capture, not settled. It is unclear whether "Multi-Domain Training Center" denotes a proposed institution name or a specific facility/programme within SBTDWS — the task's own sub-items (A–D) describe the institution's full remit (train/validate, SAG 9, SAG 10, OPS development), which leans toward "institution name" rather than "facility."
+>
+> This is now a three-way naming split across three independent, contemporaneous-ish sources (Jun–Aug 2026), each from a different vantage point: SBTDWS's own product (ADWC), a J7-authored HQ-track study (MDWC), and a PG-HQ-wide task register (MDTC / "Multi-Domain Training Center"). Still no formal D-10 decision recorded. See [[Commander Decisions Register]] D-10.
+
+---
+
 ## Source
 
 Ingested from: [[chatgpt-batch-2026-06-02]] | `.raw/SBTDWS_PG2030_ADWC_Chat_Export.md`
+Naming update: [[sources/updated-pg-2030-tasks-aug-2026]] | `.raw/PG 2030 New/Updated PG 2030 Tasks_Aug 2026.pdf`

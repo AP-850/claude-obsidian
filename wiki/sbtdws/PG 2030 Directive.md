@@ -2,7 +2,7 @@
 type: reference
 title: "PG 2030 Directive — SBTDWS Guiding Tasks"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -18,6 +18,7 @@ related:
   - "[[Hameem Mission Rehearsal Concept]]"
   - "[[SAG 9 and SAG 10]]"
   - "[[ADWC Implementation Plan (5-LOE Slide)]]"
+  - "[[sources/updated-pg-2030-tasks-aug-2026]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -118,6 +119,20 @@ The same 9 tasks have now been transcribed from three separate source artifacts,
 3. [[ADWC Implementation Plan (5-LOE Slide)|The 5-LOE implementation slide]] — from a direct PG 2030 para 3.15 extract (`103619.jpg`), phrased as plain-English "Indicative Tasks" for translation purposes
 
 No substantive conflicts found across the three beyond terminology already tracked (Khaimah → Hameem; SAG 10 naming above).
+
+---
+
+## Aug 2026 restructuring — [[sources/updated-pg-2030-tasks-aug-2026]]
+
+A PG-HQ-wide task register dated Aug 2026 restructures SBTDWS's task list under two headline tasks rather than nine flat ones:
+
+1. **"Develop and run the Multi-Domain Training Center"** — folds Task 1 (train/validate), Task 7 (SAG 9), and Task 8 (SAG 10) underneath it as lettered sub-tasks, plus a new explicit sub-task: develop Operational Performance Standards (OPS) per SAG, get J3 approval, pass to J7 for training implementation.
+2. **"Testing, Transformation, and Experimentation Support"** — folds Task 2 (CAPDEV→innovation), Task 3 (experimental authority), Task 5 (Makhlab 1), and Task 6 (Hameem) underneath it, and for the first time states **"Hand off existing capability development cell to the PG Innovation Command"** as a direct, numbered task line rather than an inferred/planned handoff.
+
+> [!key-insight] Naming: a third label enters the mix
+> "Multi-Domain Training Center" (MDTC) is a third distinct name candidate alongside "All Domain Warfare Centre" (ADWC, this directive's formal name) and "Multi Domain Warfare Centre" (MDWC, the J7 study's working title). See [[ADWC Naming Analysis]] for the full three-way naming thread — still unresolved, no formal D-10 decision recorded.
+
+Tasks 4 (lessons integration) and 9 (IW recruitment) are not explicitly re-stated in the Aug 2026 SBTDWS section — likely absorbed into the two headline tasks rather than dropped, but not confirmed.
 
 ## Source
 

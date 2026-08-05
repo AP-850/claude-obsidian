@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PGIC Concept"
-updated: 2026-05-26
+updated: 2026-08-05
 tags:
   - sbtdws
   - pgic
@@ -12,6 +12,8 @@ related:
   - "[[ATI-Hub Concept]]"
   - "[[ADWC Transformation Concept]]"
   - "[[SBTDWS Key Relationships]]"
+  - "[[Programme MAKHLAB]]"
+  - "[[sources/updated-pg-2030-tasks-aug-2026]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -113,6 +115,30 @@ PGIC is the long-term home for the CAPDEV Cell's portfolio. However, timing matt
 - CAPDEV Cell should NOT hand over until Makhlab 1 PoC is complete and PGIC is stood up with governance
 - Interim: CAPDEV Cell refocuses toward FDC 5 (Q1 27) under J3 WDC governance
 - PGIC handover protocol to be defined early to avoid duplication and capability gap
+
+> [!key-insight] Handoff now a formal task line (Aug 2026)
+> [[sources/updated-pg-2030-tasks-aug-2026]] gives SBTDWS Task 2D as "Hand off existing capability development cell to the PG Innovation Command" — the first time this appears as a directly tasked, numbered item rather than an inferred/planned handoff from the ChatGPT-transfer executive summary this page was originally built from. The same source's Task 2A sequencing ("Starting with MAKHLAB 1, support PG 2030 / AL EMAD proof of concept events...") is consistent with this page's existing guidance that the CAPDEV Cell should not hand over until the Makhlab 1 PoC is complete.
+
+---
+
+## Innovation Command Task List (Aug 2026)
+
+[[sources/updated-pg-2030-tasks-aug-2026]] is the first source giving Innovation Command's own numbered tasks (previously only known via this page's executive-summary framing):
+
+1. **Design, deliver and maintain the PG Rapid Innovation Cell (RIC)** to enable development of battle-winning technologies
+   - A. Integrate the SBTDWS capability development cell
+   - B. Construct a world-class RIC **at the SBTDWS site** to enable discreet technology development and testing
+2. **Gain and Maintain Expertise**
+   - A. Recruit & retain civilian expertise
+   - B. Leverage SRB personnel with SQEP in specialist project areas
+   - C. Maintain a database of SQEP Brigade personnel who can be surged in to support specific projects
+3. **Operationalize the PG "Develop-Operate-Iterate" cycle** to enable rapid technology fielding
+   - A. Develop and maintain a dedicated PG data capture facility to collect and archive real-world data from live training and operations, to train AI algorithms and inform future cycles
+4. Ensure appropriate personnel attend IW training courses delivered by PGI
+
+This confirms the RIC is physically sited at SBTDWS, confirms the SBTDWS capability development cell as the direct integration target, and adds two details new to the wiki: a named "Develop-Operate-Iterate" cycle (possibly a shorthand for this page's existing "Ideation → rapid prototyping → tactical evaluation → transition gate → organic pilot production → handover" pipeline — not confirmed as the same thing) and a dedicated AI training-data capture facility.
+
+See [[Programme MAKHLAB]] for how Innovation Command relates to the numbered MAKHLAB serials (it appears to be the enterprise governance layer above them, not itself a MAKHLAB owner).
 
 ---
 

@@ -293,7 +293,10 @@ ADWC label is used by default. Expectation gap grows as partners and units expec
 > [!contradiction] "MDWC" now in use by J7, unresolved (2026-07-28)
 > [[MDWC Six-Domain Study]] (J7-authored, DRAFT, for HQ socialisation) states ADWC is "superseded by MDWC — Multi Domain Warfare Centre (Working Title)." The same day, SBTDWS's own [[ADWC Implementation Plan (5-LOE Slide)]] used ADWC throughout. This makes D-10 more urgent, not less — two authorities are now using two different names in parallel HQ-facing products. Status remains PENDING; this is not a resolution, just new evidence the delay has a cost.
 
-**Source:** [[ADWC Naming Analysis]]; [[ADWC FIC Analysis]] Key Issue 2; [[MDWC Six-Domain Study]] (2026-07-28)
+> [!contradiction] A third name — "Multi-Domain Training Center", PG-HQ task register (2026-08-05)
+> [[sources/updated-pg-2030-tasks-aug-2026]] restructures SBTDWS's own Task 1 under "Develop and run the Multi-Domain Training Center" — a third distinct label. See [[ADWC Naming Analysis]] for the full three-way naming thread. D-10 remains PENDING; the longer it stays open, the more independently-drifting names accumulate across HQ-track products.
+
+**Source:** [[ADWC Naming Analysis]]; [[ADWC FIC Analysis]] Key Issue 2; [[MDWC Six-Domain Study]] (2026-07-28); [[sources/updated-pg-2030-tasks-aug-2026]] (2026-08-05)
 
 ---
 

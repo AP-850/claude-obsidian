@@ -7,7 +7,7 @@ aliases:
   - IWTC
   - Irregular Warfare Training Centre
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -20,6 +20,8 @@ related:
   - "[[Unconventional Warfare and Resilience]]"
   - "[[Commander Decisions Register]]"
   - "[[PG 2030 Directive]]"
+  - "[[Falcons Brigade]]"
+  - "[[sources/updated-pg-2030-tasks-aug-2026]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -47,6 +49,12 @@ This split is not yet formalised — see D-04 and D-09 dependencies below.
 - The [[SBTDWS Action Plan]] (Objective 3, Phase 1) targets initiating PGI engagement Q1 27, with a formal MoU-equivalent pipeline agreement targeted for 2028.
 - The 5-LOE slide adds a decision item not yet in the formal register: **who settles PGI disputes?** — distinct from D-04, currently untracked.
 
+## Joint Fires and ISTAR school (Aug 2026 register)
+
+[[sources/updated-pg-2030-tasks-aug-2026]] adds a new, concrete PGI deliverable: **establish and resource the new Joint Fires and ISTAR school — incorporating UxS training courses — to allow [[Falcons Brigade]] to deliver Special Reconnaissance Strike Capability.** This directly enables Falcons Brigade's Force Design Concept 8 role. The same source also gives PGI's other current tasks: continue as Training Delivery Authority (TDA) for all PG iTrg courses; deliver a new PG entry pathway program; introduce an effective screening process to the PG Basic Course; deliver the PG Irregular Warfare (IW) individual training program to all PG personnel, linked with SBTDWS's validation of UW/IW Force Elements; professionalise the Emirati instructor cadre (SQEP-only delivery); ensure the instructor cadre itself completes IW training to be force-generated for partnered/combined special forces operations.
+
+Nearly every PG unit (Al Forsan, HBE, Falcons Brigade, SOC, PSG) names its own unit as Training Requirements Authority (TRA) for training PGI delivers — a consistent, near-universal split: units set requirements, PGI delivers.
+
 ## Related
 
-[[SAG 9 and SAG 10]] · [[Unconventional Warfare and Resilience]] · [[Commander Decisions Register]] · [[PG 2030 Directive]] · [[SBTDWS Action Plan]] · [[ADWC Implementation Plan (5-LOE Slide)]]
+[[SAG 9 and SAG 10]] · [[Unconventional Warfare and Resilience]] · [[Commander Decisions Register]] · [[PG 2030 Directive]] · [[SBTDWS Action Plan]] · [[ADWC Implementation Plan (5-LOE Slide)]] · [[Falcons Brigade]] · [[sources/updated-pg-2030-tasks-aug-2026]]

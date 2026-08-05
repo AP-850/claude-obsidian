@@ -294,6 +294,25 @@
         "wiki/log.md"
       ],
       "note": "4-page bilingual, heavily OCR-garbled brief establishing 8 formal PG 2030 Working Groups with Task Lead/Endstate/Members. Falcons Brigade confirmed as cross-unit MAKHLAB coordination lead (WG5). WG7 names J7 as lead for developing the PG Warfare Development Center with a 'J3 Lead' sub-note, raising a build-vs-run question against the existing J3 WDC entity page, not resolved."
+    },
+    ".raw/PG 2030 New/J7 Readiness Flow and Deliverables Register_Briefed to J3 05 Aug_Endorsed.pdf": {
+      "hash": "050e293bb7e114e40fd549f3f8fa004d",
+      "ingested_at": "2026-08-05",
+      "pages_created": [
+        "wiki/sbtdws/J7 Readiness Flow and Deliverables Register.md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/sbtdws/Gap and Issue Triage Register.md",
+        "wiki/sbtdws/OC-T Cadre Development Plan.md",
+        "wiki/sbtdws/Hameem Mission Rehearsal Concept.md",
+        "wiki/sbtdws/RFI to PG HQ.md",
+        "wiki/sbtdws/_index.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "3-page document (Readiness Flow diagram + ~60-item J7 Deliverables Register), briefed to J3 and ENDORSED 2026-08-05 — highest-authority PG 2030 artifact ingested to date. Makes SBT's readiness-pipeline role explicit. Flags D-05 as J7's own 'largest single risk' with a conflicting Q4-27 vs Q4-26 target date. Introduces HAMRA and OMD 25 (undefined). Confirms 'SBT' as a third abbreviation alias."
     }
   },
   "address_map": {

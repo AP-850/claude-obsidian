@@ -2,7 +2,7 @@
 type: concept
 title: "OC-T Cadre Development Plan"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -21,6 +21,7 @@ related:
   - "[[Combat Training Centre Model]]"
   - "[[National Training Center (NTC)]]"
   - "[[JRTC]]"
+  - "[[J7 Readiness Flow and Deliverables Register]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -277,6 +278,8 @@ published  v0.1               (supervised (board)
 **E&E Wing transition:** The OT cadre IS the E&E Wing's new identity. FST is phased out; E&E Wing staff become the OT cadre. This must be communicated as a role elevation, not a replacement.
 
 **J3 WDC:** SAG 9/10 standards authority. OT training on SAG 9/10 must be agreed with J3 WDC to ensure the standards being trained are current. Force Generation Pipeline ToR (Q2 26) should include OT accreditation alignment.
+
+**J7 (endorsed 2026-08-05):** [[J7 Readiness Flow and Deliverables Register]] C2 — "Observer Trainer Accreditation Standard," target Q4-26, owned by COMD J7 — is the formal instrument this whole plan's accreditation-standard dependency has been waiting on. The register states plainly: "SBT cannot train and grow an OT cadre without it." Same register's Readiness Flow also confirms SBT (this plan's home) as the party that "trains the OTC cadre to the J7 standard" — J7 sets the standard, SBT delivers the training.
 
 **PGI/IWTC:** Disagreement arbitration. When OTs and PGI disagree on a competency call (individual vs collective), the arbitration process must be defined in the authority to fail writ before IOC.
 

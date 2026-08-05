@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-05T00:00:04
+updated: 2026-08-05T00:00:05
 tags:
   - meta
   - hot-cache
@@ -18,6 +18,17 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-08-05 (fifth update). Ingested [[J7 Readiness Flow and Deliverables Register]] — **the highest-authority PG 2030 artifact in the wiki so far**: J7's own brief, briefed to J3 and ENDORSED today at the first-ever J3/SBTDWS/J7 working group. Two parts: (1) The Readiness Flow — an 8-stage model (Individual → Cadre and Standards → Unit Collective → Formation and CPX → Validation vs SAG → JTF C2 Certified → Declared Ready → Mission Rehearsal) with SBT's role now made explicit and endorsed: **trains the OT cadre to J7's standard, supports collective training, runs EXCON/HICON and OPFOR, holds the certify/fail/remediate validation function, executes mission rehearsal at Hameem** — plus 8 named "NOT IN PLACE" gaps. (2) A ~60-item J7 Deliverables Register (A1–J9) giving concrete instruments, approval owners, and target dates for things previously tracked only as open decisions.
+
+Key changes to existing tracking:
+- **D-05 (Validation Authority) is now explicitly named "Stage 5, largest single risk"** by J7's own register — B3/J4, approval PG HQ, target **Q4-27** (a year later than the Q4-26 this register and the Gap and Issue Triage Register currently carry — flagged, not yet reconciled).
+- **D-02 (Force Gen Pipeline ToR)** now has instrument B1, target Q3-26.
+- **D-06 (SAG 9/10 standards)** now has instrument B6: J7 endorses SBT's own drafted standard, target Q4-27.
+- **D-08 (Hameem)** — new capital items **HAMRA** and **OMD 25** named alongside Hameem for the first time (I2), not otherwise defined yet.
+- **"Paper 2" gap independently reconfirmed:** "J7 as collective TRA not stated in Paper 2" — matches the existing [[Gap and Issue Triage Register]] Paper 2/OPORD discrepancy tracking.
+- **SBT** confirmed as a third abbreviation alias (alongside SBTDWS/SBTS) — logged.
+- One item (J9 — reconciling SBT's ToR vs 19 DMTs against 21 SAGs) appears struck through in the source; status uncertain, flagged not treated as live.
 
 2026-08-05 (fourth update). Ingested [[PG 2030 Working Groups]] — a 4-page bilingual brief "suggested from J3 advisor" establishing 8 formal PG 2030 Working Groups (Multi-Domain Targeting/J2, ORC/J3, C2 Models/J3, J4 Concept of Support/J4, MAKHLAB coordination/**Falcons Brigade**, Digital Spine/J6, Warfare Development Center/**J7**, Simulation Program/J7), each with a Task Lead, Endstate, and defined membership. Two things worth flagging: (1) **Falcons Brigade leads cross-unit coordination of the whole Programme MAKHLAB family**, not just its own MAKHLAB 1 serial — this helps explain why Falcons Brigade's MAKHLAB tasking reads so broadly elsewhere. (2) **WG7 names J7, not J3, as lead for "Development of the PG Warfare Development Center"** (with a sub-note "Includes PG Warfare Development Center (J3 Lead)") — most likely a build-(J7)-vs-run-(J3) split rather than a reversal of [[J3 WDC]]'s governance role, but not confirmed. Source quality note: heavily scanned/OCR'd, several Endstate paragraphs garbled — Task Leads and Member lists transcribed with high confidence, Endstates paraphrased.
 
@@ -60,6 +71,8 @@ New entity pages: [[Al Forsan]], [[Hamid Bin Essa]], [[Special Operations Comman
 
 - **D-10 naming still PENDING:** MDTC ("Multi Domain Training Centre" — confirmed spelling) confirmed as current working terminology (2026-08-05), but the formal naming decision awaits a separate PG Comd brief — not yet ingested. Do not standardise on ADWC/MDWC/MDTC as "final" until that lands. See [[ADWC Naming Analysis]], [[Commander Decisions Register]].
 - **D-12 (new, 2026-08-05): SBTDWS Core Focus / course-portfolio COA, PENDING.** PG Comd must choose Retain-and-Add / Progressive Pivot / Hybrid (assessed most likely) for how much of the desert-warfare course programme survives as MDTC develops. COA 1 needs manpower/budget uplift by Q4 26. See [[SBTDWS Core Focus — COA Decision]].
+- **D-05 date conflict, unreconciled:** existing register/triage say Q4-26; J7's own endorsed register (B3/J4) says Q4-27. Same item, two dates. See [[J7 Readiness Flow and Deliverables Register]].
+- **HAMRA and OMD 25** — new, undefined capital items named alongside Hameem in D-08 (I2). Ask about these next time Hameem comes up.
 - **SBTDWS Innovation Command support model — meeting week of 2026-08-11:** SBTDWS keeps FDC 5; open question is how it supports the wider RIC/PGIC piece. See [[Programme MAKHLAB]], [[PGIC Concept]].
 - **RFI ready for advisor submission** — [[RFI to PG HQ]], nothing further needed from this side unless asked.
 - **First J3/J7 WG today (2026-08-05)** — [[Force Generation Pipeline WG — Internal Read-Ahead]]; agenda agreement closes D-02.

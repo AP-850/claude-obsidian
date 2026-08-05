@@ -2,7 +2,7 @@
 type: reference
 title: "Gap and Issue Triage Register"
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-05
 tags:
   - sbtdws
   - pg-2030
@@ -23,6 +23,7 @@ related:
   - "[[WG 2 Back Brief PG J3 2026-06-10]]"
   - "[[SBTDWS Action Plan]]"
   - "[[sources/paper-2-excerpts]]"
+  - "[[J7 Readiness Flow and Deliverables Register]]"
   - "[[ADWC Naming Analysis]]"
   - "[[sbtdws/_index]]"
 ---
@@ -35,6 +36,9 @@ Navigation: [[sbtdws/_index]] | [[Commander Decisions Register]] | [[SBTDWS Acti
 
 > [!key-insight] How to read this register
 > Items are triaged by **who can act** and **how urgent**, not by which source document they came from. Tier 0 is the Paper 2/OPORD timing risk — act before the OPORD is issued, not after. Tiers 1–4 mirror escalation level. Each item cites every source it's drawn from so nothing here is invented — it's all consolidation.
+
+> [!key-insight] Independent confirmation of a Paper 2 gap, from J7's own endorsed register (2026-08-05)
+> [[J7 Readiness Flow and Deliverables Register]] — briefed to J3 and endorsed today — separately flags "J7 as collective TRA not stated in Paper 2" as one of only 8 "NOT IN PLACE" gaps in its Readiness Flow model, and tables **A6 — J7 as Collective Training Requirements Authority** as a staff paper going to PG HQ (target Q4-26) specifically because "Paper 2 names a TRA for individual training only." This is a second, independent source landing on the same Paper 2 gap this register already tracks — not new territory, but real corroboration the same day.
 
 ---
 

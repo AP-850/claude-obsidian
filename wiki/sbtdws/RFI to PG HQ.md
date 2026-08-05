@@ -20,6 +20,7 @@ related:
   - "[[Force Generation Pipeline ToR]]"
   - "[[SBTDWS Barriers and Blockers]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
+  - "[[J7 Readiness Flow and Deliverables Register]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -90,6 +91,9 @@ Navigation: [[sbtdws/_index]] | [[Commander Decisions Register]] | [[MDWC Six-Do
 ---
 
 ## B. Authority & Standards
+
+> [!key-insight] J7's own register calls this the largest single risk (2026-08-05)
+> [[J7 Readiness Flow and Deliverables Register]] B3/J4 tracks this exact question — "SBT validation authority (certify/fail/remediate)" — as **"Stage 5, largest single risk"** in J7's own endorsed register, approval owner PG HQ, target Q4-27.
 
 ### RFI-3 — Validation authority
 

@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-05] ingest | J7 Readiness Flow and Deliverables Register
+- Source: `.raw/PG 2030 New/J7 Readiness Flow and Deliverables Register_Briefed to J3 05 Aug_Endorsed.pdf` (3-page: 1-page Readiness Flow diagram + 2-page Deliverables Register; briefed to J3 and ENDORSED today)
+- Summary: [[J7 Readiness Flow and Deliverables Register]]
+- Pages created: [[J7 Readiness Flow and Deliverables Register]]
+- Pages updated: [[Commander Decisions Register]] (D-02/05/06/08), [[Gap and Issue Triage Register]], [[OC-T Cadre Development Plan]], [[Hameem Mission Rehearsal Concept]], [[RFI to PG HQ]], [[sbtdws/_index]], [[index]]
+- Key insight: Highest-authority PG 2030 document ingested to date — J7's own endorsed brief. Makes SBT's role across the readiness pipeline explicit (OT cadre training, EXCON/HICON/OPFOR, certify/fail/remediate validation, Hameem execution). Names D-05 (validation authority) as J7's own "largest single risk," with a Q4-27 target that conflicts with the existing Q4-26 tracked elsewhere — flagged, not reconciled. Introduces HAMRA and OMD 25 as new, undefined capital items linked to Hameem. Confirms "SBT" as a third abbreviation alias.
+
 ## [2026-08-05] ingest | PG 2030 Working Groups
 - Source: `.raw/PG 2030 New/PG 2030 Working Groups_suggested from J3 advisor.pdf` (4-page bilingual brief, "suggested from J3 advisor")
 - Summary: [[PG 2030 Working Groups]]

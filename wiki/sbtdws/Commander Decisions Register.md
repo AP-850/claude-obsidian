@@ -22,6 +22,7 @@ related:
   - "[[MDWC Six-Domain Study]]"
   - "[[RFI to PG HQ]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
+  - "[[J7 Readiness Flow and Deliverables Register]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -96,7 +97,10 @@ SBTDWS operates outside the formal training architecture. J7 has no obligation t
 **Hard ask:**
 The Commandant must direct the J3 and J7 engagement — SBTDWS cannot self-initiate this at sufficient authority.
 
-**Source:** [[ADWC Command Brief (5-Slide)]] Slide 4 and 5; [[SBTDWS 9 Directed Tasks]] Task 6
+> [!key-insight] Concrete instrument and date, endorsed 2026-08-05
+> [[J7 Readiness Flow and Deliverables Register]] gives this a specific instrument: **B1 — Force Generation Pipeline ToR signature**, target **Q3-26**, approval chain COMD PG/J7/COMD SBT, enabling B2–B6 and LoE1. This is J7's own endorsed tracking of the same ToR signature this decision gates.
+
+**Source:** [[ADWC Command Brief (5-Slide)]] Slide 4 and 5; [[SBTDWS 9 Directed Tasks]] Task 6; [[J7 Readiness Flow and Deliverables Register]] B1
 
 ---
 
@@ -172,7 +176,10 @@ Define the formal authority SBTDWS holds in readiness validation:
 **What happens if not decided:**
 Default is advisory. OTs cannot fail units. Assessment results are recommendations, not verdicts. The entire validation architecture produces reports that commanders can ignore.
 
-**Source:** [[ADWC FIC Analysis]] Gap 2; [[SAG 9 and SAG 10]]; [[ADWC Command Brief (5-Slide)]] Slide 5
+> [!key-insight] J7's own register calls this the single largest risk in the readiness flow (2026-08-05)
+> [[J7 Readiness Flow and Deliverables Register]] tracks this as **B3/J4 — SBT validation authority (certify/fail/remediate)**, requested at B3, approval owner PG HQ, and explicitly labelled **"Stage 5, largest single risk"** in J7's own endorsed register. Target date given is **Q4-27** — a full year later than the Q4-26 date this register and [[Gap and Issue Triage Register]] currently carry. Not yet reconciled: treat Q4-27 as J7's own working estimate, not a formal re-baseline of this entry, until confirmed.
+
+**Source:** [[ADWC FIC Analysis]] Gap 2; [[SAG 9 and SAG 10]]; [[ADWC Command Brief (5-Slide)]] Slide 5; [[J7 Readiness Flow and Deliverables Register]] B3/J4
 
 ---
 
@@ -195,7 +202,10 @@ Confirm who owns, writes, and endorses the validation standards for SAG 9 (Combi
 **What happens if not decided:**
 SAT Cell writes to assumed standards. Standards may not survive command review. All curriculum work from Q3 26 onward is at risk of being redone.
 
-**Source:** [[SAG 9 and SAG 10]]; [[OC-T Cadre Development Plan]]
+> [!key-insight] Concrete instrument, endorsed 2026-08-05
+> [[J7 Readiness Flow and Deliverables Register]] B6 — "SBT SAG9 and SAG 10 assessment standard" — target **Q4-27**, approval COMD J7. Note this is framed as J7 *endorsing SBT's own standard* (SBT drafts, J7 reviews/endorses against J3's issued OPS) rather than PG HQ authoring the standard from scratch — one of the three options this decision names.
+
+**Source:** [[SAG 9 and SAG 10]]; [[OC-T Cadre Development Plan]]; [[J7 Readiness Flow and Deliverables Register]] B6
 
 ---
 
@@ -245,7 +255,10 @@ Structural design is incomplete. EXCON cannot be fully planned. Validation event
 **What happens if not decided:**
 Hameem remains a conventional training site. Formation-level validation must use existing ground (feasible for IOC; not sufficient for FOC). The ADWC mission rehearsal function cannot mature.
 
-**Source:** [[Hameem Mission Rehearsal Concept]]; [[SBTDWS 9 Directed Tasks]] Task 3; [[ADWC FIC Analysis]] Gap 7
+> [!key-insight] HAMRA and OMD 25 named alongside Hameem for the first time (2026-08-05)
+> [[J7 Readiness Flow and Deliverables Register]] I2 — "Hameem Mission-Rehearsal Development Case" — names **HAMRA** and **OMD 25** as linked sites/programmes in the same capital case, target Q3-27, explicitly flagged "long lead time, cannot be recovered if started late." Neither HAMRA nor OMD 25 is otherwise defined in the wiki yet — flag for follow-up.
+
+**Source:** [[Hameem Mission Rehearsal Concept]]; [[SBTDWS 9 Directed Tasks]] Task 3; [[ADWC FIC Analysis]] Gap 7; [[J7 Readiness Flow and Deliverables Register]] I2
 
 ---
 
@@ -404,6 +417,7 @@ Everything else requires PG HQ or Higher HQ, and SBTDWS must surface these throu
 |---------|------|--------|
 | v1.0 | 2026-06-02 | Initial — consolidated from O6 Command Brief, FIC Analysis, SAG 9/10, Naming Analysis, transformation workstream |
 | v1.1 | 2026-08-05 | Added D-12 (Core Focus — course portfolio COA), sourced from [[SBTDWS Core Focus — COA Decision]] |
+| v1.2 | 2026-08-05 | D-02/D-05/D-06/D-08 given concrete instrument references, approval chains, and target dates from the J3-endorsed [[J7 Readiness Flow and Deliverables Register]]; D-05 target date discrepancy (Q4-26 vs Q4-27) flagged, not yet reconciled |
 
 ---
 

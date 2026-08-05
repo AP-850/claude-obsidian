@@ -21,7 +21,7 @@ related:
 Saeed Bin Tahnoun Desert Warfare School (SBTDWS) transformation into the Presidential Guard's next-generation multi-domain warfare institution by 2030.
 
 > [!note] Naming
-> **SBTDWS is sometimes written "SBTS"** in other documents — same unit, alias only. Do not treat as a separate entity.
+> **SBTDWS is sometimes written "SBTS" or "SBT"** in other documents — same unit, alias only. Do not treat as a separate entity.
 > The institution's own end-state name is still unresolved: "All Domain Warfare Centre" (ADWC, formal directive), "Multi Domain Warfare Centre" (MDWC, J7 working title), and **"Multi Domain Training Centre" (MDTC) — confirmed 2026-08-05 as the current working terminology and spelling**, pending a PG Comd decision on overall direction (D-10, still PENDING). A separate PG Comd decision on SBTDWS's course-portfolio scope (D-12) has now been tabled — see [[SBTDWS Core Focus — COA Decision]]. See [[ADWC Naming Analysis]] and [[Commander Decisions Register]].
 
 Navigation: [[index]] | [[SBTDWS Overview]] | [[ADWC Transformation Concept]] | [[SBTDWS 2030 Timeline]]
@@ -77,6 +77,7 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 | [[Programme MAKHLAB]] | Numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; MAKHLAB 1 ownership contradiction with [[Makhlab 1 Project]] |
 | [[SBTDWS Core Focus — COA Decision]] | J3/J7 combined meeting follow-up: 3 COAs for SBTDWS's course-portfolio scope as MDTC develops; confirms MDTC spelling; added as D-12 |
 | [[PG 2030 Working Groups]] | 8 formal Working Groups (task/endstate/members) covering Multi-Domain Targeting, ORC, C2 Models, J4 Support, MAKHLAB coordination (Falcons Bde lead), Digital Spine, Warfare Development Center, Simulation Program |
+| [[J7 Readiness Flow and Deliverables Register]] | **Endorsed 2026-08-05.** Readiness Flow model (8 stages, 8 "NOT IN PLACE" gaps) + ~60-item J7 Deliverables Register (A-J); SBT's role across the flow made explicit; concrete instruments/dates for D-02/05/06/08 |
 
 ---
 

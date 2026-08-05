@@ -2,7 +2,7 @@
 type: concept
 title: "Hameem Mission Rehearsal Concept"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -15,6 +15,7 @@ related:
   - "[[PG 2030 Directive]]"
   - "[[SBTDWS 9 Directed Tasks]]"
   - "[[ADWC FIC Analysis]]"
+  - "[[J7 Readiness Flow and Deliverables Register]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -26,6 +27,9 @@ Navigation: [[sbtdws/_index]] | [[ADWC Transformation Concept]] | [[ADWC FIC Ana
 
 > [!key-insight] Strategic infrastructure, not facility upgrade
 > The directive mandates a world-class mission simulation facility. This means Hameem must be designed around use cases — discrete pre-deployment rehearsal — not around conventional range infrastructure logic.
+
+> [!gap] HAMRA and OMD 25 named alongside Hameem for the first time (2026-08-05)
+> [[J7 Readiness Flow and Deliverables Register]] I2 — "Hameem Mission-Rehearsal Development Case" — names **HAMRA** and **OMD 25** in the same capital case as Hameem, target Q3-27, explicitly flagged "long lead time, cannot be recovered if started late." This directly corresponds to [[Commander Decisions Register]] D-08 (Hameem Concept of Use and Capital Commitment). Neither HAMRA nor OMD 25 is otherwise defined yet — likely related sites, ranges, or linked capital programmes. Flag for a follow-up question or future ingest.
 
 ---
 

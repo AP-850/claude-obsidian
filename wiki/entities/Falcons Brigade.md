@@ -81,12 +81,12 @@ Falcons Brigade is the natural partner unit for SBTDWS's first tactical experime
 
 [[sources/updated-pg-2030-tasks-aug-2026]] tasks Falcons Brigade directly with **MAKHLAB 1**: "close the sensor-shooter gap by integrating AI enabled Unmanned Systems (UxS) which can FIND and STRIKE targets" — plus linking with MOD's UxS Unmanned Force Command (UFC) to integrate a conventional Joint Fires Control Group (JFCG), fusing all Brigade sensors and shooters into a single "targeting web" to speed up the PG Kill Chain.
 
-> [!contradiction] MAKHLAB 1 ownership — see [[Makhlab 1 Project]]
-> This direct tasking to Falcons Brigade, with no mention of J3 WDC governance or SBTDWS's EXCON/evaluation role, sits in tension with [[Makhlab 1 Project]]'s existing framing (J3 WDC lead, SBTDWS support, Falcons Brigade as partner force). See [[Makhlab 1 Project]] and [[Programme MAKHLAB]] for the full reconciliation note — not resolved.
+> [!key-insight] Not a contradiction — see [[Makhlab 1 Project]]
+> Clarified by the user (2026-08-05): SBTDWS retains FDC 5 (tactical experimentation) ownership unchanged; this direct tasking describes the operational/fielded capability Falcons Brigade runs, not a transfer of the experimentation lead. See [[Makhlab 1 Project]] and [[Programme MAKHLAB]] for the full note.
 
 [[PGI]] is tasked (same source) to "establish and resource the new Joint Fires and ISTAR school — incorporating UxS training courses — to allow Falcon Brigade to deliver Special Reconnaissance Strike Capability," directly enabling Falcons Brigade's Force Design Concept 8 role. Falcons Brigade also acts as Training Requirements Authority (TRA) for its own training courses delivered by PGI, and is tasked to prosecute targets allocated by PGI's Multi-Domain Targeting Cell.
 
-*Note: the Aug 2026 source lists Falcons Brigade UxS tasking under two different SAG numbers (SAG 11 and SAG 18) in two separate passes — likely the same capability described twice rather than two distinct units; unresolved.*
+*Note: the Aug 2026 source lists Falcons Brigade UxS tasking under two different SAG numbers (SAG 11 and SAG 18) in two separate passes. Per the user, SAGs are each distinct but a single unit can hold responsibility for multiple SAGs — so this is plausibly Falcons Brigade genuinely holding both SAG 11 and SAG 18, not a duplicate description of one capability. Exact scope of each SAG not yet confirmed.*
 
 ---
 

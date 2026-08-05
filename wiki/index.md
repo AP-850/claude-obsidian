@@ -101,7 +101,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Al Forsan]] — PG manoeuvre unit; SAGs 6/14/16; deployable 1-star JTF HQ; MAKHLAB 2 partner with HBE (status: active)
 - [[Hamid Bin Essa]] — PG unit converting to Airborne/Air Assault (FOC Dec 27); SAG 15; MAKHLAB 2 partner with Al Forsan (status: active)
 - [[Special Operations Command (SOC)]] — PG command, 8 SAGs, 4 SOGs (61/66/71/76); MAKHLAB 3; distinct from NCTJC C2 HQ (status: active)
-- [[Presidential Special Guard (PSG)]] — VVIP/critical infrastructure protection; SAGs 4/5/21; MAKHLAB 3; likely same entity as "SG" (status: active)
+- [[Presidential Special Guard (PSG)]] — VVIP/critical infrastructure protection; SAGs 4/5/21; MAKHLAB 3; confirmed same entity as "SG" (status: active)
 - [[Specialist Reserve Brigade (SRB)]] — Reserve component; UxS National Resistance pivot; MAKHLAB 4; MRC 3 reinforcement to Falcons Bde (status: active)
 - [[NCTJC]] — National Counter Terrorism Joint Command HQ; 24/7/365 PG C2 + Multi-Domain Targeting; likely renamed successor to "PG J3/NCTC/HQ" (status: active)
 
@@ -183,7 +183,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Force Generation Pipeline WG — Internal Read-Ahead]] — prep for first-ever J3-chaired SBTDWS/J7 WG (2026-08-05); ACT/SHAPE/ESCALATE tagged item list; agenda agreement closes D-02 (status: draft)
 - [[Force Generation Pipeline WG — J7 Pre-Read]] — command-safe companion pre-read for external circulation to J7 ahead of the same WG (status: draft)
 - [[sources/updated-pg-2030-tasks-aug-2026]] — PG-HQ-wide task register: J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units; reveals numbered MAKHLAB family, third naming candidate, formal PGIC handoff task (status: ingested)
-- [[Programme MAKHLAB]] — numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; MAKHLAB 1 ownership contradiction with [[Makhlab 1 Project]] (status: active)
+- [[Programme MAKHLAB]] — numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; SBTDWS retains FDC 5, Innovation Cmd support model pending decision week of 2026-08-11 (status: active)
 
 ## EXCON Pro — Expert Feedback Programme
 

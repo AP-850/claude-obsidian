@@ -48,10 +48,10 @@ Navigation: [[sbtdws/_index]] | [[Makhlab 1 Project]] | [[PG 2030 Force Design C
 
 ## Relationship to Makhlab 1 Project
 
-[[Makhlab 1 Project]] (ingested June 2026, from earlier ChatGPT-transfer sources) describes MAKHLAB 1 as a **Tactical Drones PoC governed by J3 WDC**, with SBTDWS running EXCON/evaluation and Falcons Brigade as a supporting "partner force." The August 2026 task register instead tasks Falcons Brigade directly with MAKHLAB 1 ("close the sensor-shooter gap... FIND and STRIKE targets"), with no mention of J3 WDC or SBTDWS governance in that task line.
+[[Makhlab 1 Project]] (ingested June 2026, from earlier ChatGPT-transfer sources) describes MAKHLAB 1 as a **Tactical Drones PoC governed by J3 WDC**, with SBTDWS running EXCON/evaluation and Falcons Brigade as a supporting "partner force." The August 2026 task register also tasks Falcons Brigade directly with MAKHLAB 1 ("close the sensor-shooter gap... FIND and STRIKE targets").
 
-> [!contradiction] Two framings of MAKHLAB 1 ownership
-> Reconciling possibilities: (a) J3 WDC governs the experimentation/PoC phase while Falcons Brigade owns the resulting fielded capability — both descriptions could be simultaneously true at different points in the PoC → fielding lifecycle; (b) ownership has genuinely shifted from J3 WDC/SBTDWS toward Falcons Brigade between June and August 2026; (c) "MAKHLAB 1" now denotes two related but distinct things — the SBTDWS/J3 WDC-governed experimentation serial, and a Falcons Brigade-owned operational capability it feeds. Not resolved — flag for the next PG 2030 WG or advisor conversation. See [[Makhlab 1 Project]] for the original framing and [[sources/updated-pg-2030-tasks-aug-2026]] for the new one.
+> [!key-insight] Clarified 2026-08-05: not a contradiction — SBTDWS retains FDC 5, Falcons Brigade runs the fielded capability
+> Per the user directly: SBTDWS's ownership of FDC 5 (tactical experimentation) is confirmed correct and unchanged. Falcons Brigade's direct MAKHLAB 1 tasking describes the operational/fielded capability, not a transfer of the experimentation lead. What remains genuinely open is **how SBTDWS supports the wider Innovation Command piece** (RIC / PGIC integration) — a meeting is scheduled for the week of 2026-08-11 to decide this. See [[Makhlab 1 Project]] for the full note and [[PGIC Concept]] for the Innovation Command side.
 
 ---
 

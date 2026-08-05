@@ -18,7 +18,11 @@ related:
 
 # SBTDWS Domain
 
-Saeed Bin Tahnoun Desert Warfare School (SBTDWS) transformation into the Presidential Guard All Domain Warfare Centre (ADWC) by 2030.
+Saeed Bin Tahnoun Desert Warfare School (SBTDWS) transformation into the Presidential Guard's next-generation multi-domain warfare institution by 2030.
+
+> [!note] Naming
+> **SBTDWS is sometimes written "SBTS"** in other documents — same unit, alias only. Do not treat as a separate entity.
+> The institution's own end-state name is still unresolved: "All Domain Warfare Centre" (ADWC, formal directive), "Multi Domain Warfare Centre" (MDWC, J7 working title), and **"Multi-Domain Training Center" (MDTC) — confirmed 2026-08-05 as the current working terminology**, pending a PG Comd decision on overall direction. See [[ADWC Naming Analysis]] and [[Commander Decisions Register]] D-10.
 
 Navigation: [[index]] | [[SBTDWS Overview]] | [[ADWC Transformation Concept]] | [[SBTDWS 2030 Timeline]]
 

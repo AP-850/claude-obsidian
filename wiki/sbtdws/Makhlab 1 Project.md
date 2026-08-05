@@ -98,10 +98,14 @@ See [[Three Development Thematics]].
 
 ---
 
-## Ownership — contradiction with Aug 2026 task register
+## Ownership — clarified 2026-08-05
 
-> [!contradiction] Falcons Brigade tasked directly with MAKHLAB 1, no J3 WDC/SBTDWS mention
-> [[sources/updated-pg-2030-tasks-aug-2026]] tasks Falcons Brigade directly: "MAKHLAB 1 to close the sensor-shooter gap by integrating AI enabled Unmanned Systems (UxS) which can FIND and STRIKE targets" — with no mention of J3 WDC governance or SBTDWS EXCON/evaluation support in that task line, contrasting with this page's framing (J3 WDC lead, SBTDWS supporting, Falcons Brigade as partner force only). Possible reconciliations: J3 WDC governs the PoC/experimentation phase while Falcons Brigade owns the resulting fielded capability; ownership has shifted since June 2026; or "MAKHLAB 1" now spans two related but distinct things (the governed experimentation serial vs. the Falcons Brigade operational capability it feeds). The same Aug 2026 source's SBTDWS task list frames SBTDWS's role as "starting with MAKHLAB 1, support PG 2030 / AL EMAD proof of concept events" — consistent with a supporting rather than owning role, which softens but doesn't resolve the contradiction. See [[Programme MAKHLAB]] for the full numbered-family context this task register also revealed (MAKHLAB 2/3/4/8 mapped to other units). Not resolved — flag for the next PG 2030 WG or advisor conversation.
+> [!key-insight] Confirmed by the user: SBTDWS retains FDC 5, Innovation-piece support role still TBD
+> Per the user directly: the original framing on this page **is correct** — SBTDWS still owns FDC 5 (tactical experimentation), which is where Makhlab 1 sits. Falcons Brigade's direct MAKHLAB 1 tasking in [[sources/updated-pg-2030-tasks-aug-2026]] is not a contradiction of that — it describes the operational/fielded capability Falcons Brigade will run, not a transfer of the experimentation lead away from J3 WDC/SBTDWS.
+>
+> What is still genuinely open: **how SBTDWS supports the wider Innovation Command piece** (i.e. the RIC / PGIC integration described in [[PGIC Concept]] and this same task register's Innovation Command tasks). A meeting is scheduled for the week of **2026-08-11** to decide this. Until then, treat the SBTDWS-to-Innovation-Command support model as undecided — do not assume the full handoff framing in [[PGIC Concept]] is final.
+>
+> See [[Programme MAKHLAB]] for the full numbered-family context (MAKHLAB 2/3/4/8 mapped to other units) this task register also revealed.
 
 ## Status
 

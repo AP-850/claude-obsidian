@@ -296,6 +296,9 @@ ADWC label is used by default. Expectation gap grows as partners and units expec
 > [!contradiction] A third name — "Multi-Domain Training Center", PG-HQ task register (2026-08-05)
 > [[sources/updated-pg-2030-tasks-aug-2026]] restructures SBTDWS's own Task 1 under "Develop and run the Multi-Domain Training Center" — a third distinct label. See [[ADWC Naming Analysis]] for the full three-way naming thread. D-10 remains PENDING; the longer it stays open, the more independently-drifting names accumulate across HQ-track products.
 
+> [!key-insight] "Multi-Domain Training Center" confirmed as current working terminology, PG Comd brief incoming (2026-08-05)
+> Per the user directly: MDTC is confirmed as the currently-used term for SBTDWS's task, not a one-off document label. A brief has been developed for **PG Comd** to decide the overall direction ("where we are going next") — a distinct, higher decision than D-10 naming alone. The brief will be shared for ingestion when available; expect it to bear directly on D-10 and possibly supersede this register's PENDING status once PG Comd decides. Do not close D-10 until that decision lands.
+
 **Source:** [[ADWC Naming Analysis]]; [[ADWC FIC Analysis]] Key Issue 2; [[MDWC Six-Domain Study]] (2026-07-28); [[sources/updated-pg-2030-tasks-aug-2026]] (2026-08-05)
 
 ---

@@ -97,6 +97,9 @@ This analysis was developed but no formal naming decision has been recorded. The
 >
 > This is now a three-way naming split across three independent, contemporaneous-ish sources (Jun–Aug 2026), each from a different vantage point: SBTDWS's own product (ADWC), a J7-authored HQ-track study (MDWC), and a PG-HQ-wide task register (MDTC / "Multi-Domain Training Center"). Still no formal D-10 decision recorded. See [[Commander Decisions Register]] D-10.
 
+> [!key-insight] Confirmed (2026-08-05): "Multi-Domain Training Center" is the current working terminology
+> Per the user directly (not a document source): "Multi-Domain Training Center" is confirmed as **the new terminology now in use for SBTDWS's task** — i.e. not a stray label on one scanned page but the term the school itself is currently working under. A brief has been developed for **PG Comd** to decide the overall direction from here (the "where are we going next" decision) — this is a distinct, higher decision than the naming question alone, and the brief will be ingested when shared. Treat "Multi-Domain Training Center" (MDTC) as the current-best working name going forward, while D-10 (the *formal* naming decision) remains PENDING pending PG Comd's brief and decision. Do not silently retire ADWC/MDWC from historical pages — they remain accurate for their respective source dates.
+
 ---
 
 ## Source

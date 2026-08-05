@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-05T00:00:01
+updated: 2026-08-05T00:00:02
 tags:
   - meta
   - hot-cache
@@ -19,11 +19,19 @@ Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
 
-2026-08-05. Ingested a PG-HQ-wide task register PDF (`Updated PG 2030 Tasks_Aug 2026.pdf`, 16pp bilingual EN/AR) — see [[sources/updated-pg-2030-tasks-aug-2026]]. This is the first single artifact giving current-state tasks for ALL 13 PG branches/commands/units at once (J1-J7, SBTDWS, Innovation Command, NCTJC, PGI, Al Forsan, Hamid Bin Essa, Falcons Brigade, SOC, PSG, SRB), each with an original and an "UPDATED" (more granular, lettered sub-task) version.
+2026-08-05 (second update). User clarified the open questions from today's ingest, directly (not via document):
+- **"Multi-Domain Training Center" (MDTC) confirmed as current working terminology** for SBTDWS's task — not a stray label. A brief has been built for **PG Comd** to decide overall direction ("where we are going next"); will be ingested when shared. D-10 (formal naming decision) still PENDING until then. See [[ADWC Naming Analysis]].
+- **MAKHLAB 1 ownership is NOT a contradiction** — SBTDWS retains FDC 5 unchanged; Falcons Brigade's direct tasking describes the fielded capability it runs. Genuinely open: how SBTDWS supports the wider Innovation Command piece — **meeting scheduled week of 2026-08-11** to decide this. See [[Programme MAKHLAB]], [[Makhlab 1 Project]].
+- **SBTDWS = SBTS** — just an alias/abbreviation variant across documents, not a separate entity. Logged on [[sbtdws/_index]].
+- **PSG = SG confirmed** — same unit, naming-convention difference only (same pattern as SBTDWS/SBTS).
+- Falcons Brigade SAG 11 vs SAG 18 (two UxS task entries) — still unconfirmed which is authoritative, but user notes SAGs are distinct and a unit can hold several, so plausibly two real SAGs rather than a duplicate.
+- Still open: is "PG Digital Spine" the same as [[J6 Digital Backbone]]?
+
+2026-08-05 (first update). Ingested a PG-HQ-wide task register PDF (`Updated PG 2030 Tasks_Aug 2026.pdf`, 16pp bilingual EN/AR) — see [[sources/updated-pg-2030-tasks-aug-2026]]. This is the first single artifact giving current-state tasks for ALL 13 PG branches/commands/units at once (J1-J7, SBTDWS, Innovation Command, NCTJC, PGI, Al Forsan, Hamid Bin Essa, Falcons Brigade, SOC, PSG, SRB), each with an original and an "UPDATED" (more granular, lettered sub-task) version.
 
 **Three findings worth carrying into the next PG 2030 conversation:**
 1. **Programme MAKHLAB is a numbered family, not one project.** MAKHLAB 1 (Falcons Bde — sensor-shooter FIND/STRIKE), 2 (Al Forsan + HBE — JTF HQ AI/UxS), 3 (SOC + PSG — specialist UxS), 4 (SRB — National Resistance UxS), 8 (J4 — UxS fleets for logistics). See [[Programme MAKHLAB]] (new page).
-2. **MAKHLAB 1 ownership contradiction, unresolved.** [[Makhlab 1 Project]] says J3 WDC leads, SBTDWS supports, Falcons Bde is a partner force. This new source tasks Falcons Brigade directly with MAKHLAB 1, no J3 WDC/SBTDWS mention. Flagged on both pages — worth asking the advisor which is current.
+2. **MAKHLAB 1 — resolved, not a contradiction (see second update below).** SBTDWS retains FDC 5; Falcons Brigade's direct tasking is the fielded capability, not an ownership change.
 3. **Naming contradiction (D-10) gets a third candidate.** SBTDWS's own Task 1 in this source is headed "Develop and run the Multi-Domain Training Center" — distinct from ADWC (directive) and MDWC (J7 study). See [[ADWC Naming Analysis]]. Also: the SBTDWS→PGIC capability-development-cell handoff is now a directly tasked line item for the first time (previously only inferred/planned) — see [[PGIC Concept]].
 
 New entity pages: [[Al Forsan]], [[Hamid Bin Essa]], [[Special Operations Command (SOC)]], [[Presidential Special Guard (PSG)]], [[Specialist Reserve Brigade (SRB)]], [[NCTJC]] (likely the settled name for the "PG J3/NCTC/HQ" / "PG SOC HQ" row in [[PG 2030 Force Design Concepts]]).
@@ -46,8 +54,8 @@ New entity pages: [[Al Forsan]], [[Hamid Bin Essa]], [[Special Operations Comman
 
 ## Key Open Threads — SBTDWS / PG 2030
 
-- **D-10 naming, still PENDING, now 3-way:** ADWC (directive) vs MDWC (J7, working title) vs "Multi-Domain Training Center" (Aug 2026 task register). Do not standardise on any one name in new pages. See [[ADWC Naming Analysis]], [[Commander Decisions Register]].
-- **MAKHLAB 1 ownership unresolved:** J3 WDC/SBTDWS (per [[Makhlab 1 Project]]) vs Falcons Brigade direct tasking (per [[sources/updated-pg-2030-tasks-aug-2026]]). See [[Programme MAKHLAB]].
+- **D-10 naming still PENDING:** MDTC ("Multi-Domain Training Center") confirmed as current working terminology (2026-08-05), but the formal decision awaits a PG Comd brief on overall direction — expect this to be ingested soon. Do not standardise on ADWC/MDWC/MDTC as "final" until that lands. See [[ADWC Naming Analysis]], [[Commander Decisions Register]].
+- **SBTDWS Innovation Command support model — meeting week of 2026-08-11:** SBTDWS keeps FDC 5; open question is how it supports the wider RIC/PGIC piece. See [[Programme MAKHLAB]], [[PGIC Concept]].
 - **RFI ready for advisor submission** — [[RFI to PG HQ]], nothing further needed from this side unless asked.
 - **First J3/J7 WG today (2026-08-05)** — [[Force Generation Pipeline WG — Internal Read-Ahead]]; agenda agreement closes D-02.
 - **D-04 IW/UW boundary** — Higher HQ direction needed before SAG 9 standards / PGI's IW individual-training scope can be finalised.

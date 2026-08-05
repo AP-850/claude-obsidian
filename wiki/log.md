@@ -13,6 +13,12 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-05] clarification | User answers to Updated PG 2030 Tasks open questions
+- Source: user, direct conversation (not a document)
+- Summary: resolved 3 of 5 open questions from [[sources/updated-pg-2030-tasks-aug-2026]]; 1 partially clarified with a new pending decision point; 1 remains open
+- Pages updated: [[ADWC Naming Analysis]], [[Commander Decisions Register]], [[Makhlab 1 Project]], [[Programme MAKHLAB]], [[Falcons Brigade]], [[Presidential Special Guard (PSG)]], [[sources/updated-pg-2030-tasks-aug-2026]], [[sbtdws/_index]], [[hot]]
+- Key insight: "Multi-Domain Training Center" confirmed as current working terminology (PG Comd brief on overall direction pending, to be ingested); MAKHLAB 1 ownership is not a contradiction (SBTDWS retains FDC 5; open item is Innovation Command support model, meeting scheduled week of 2026-08-11); SBTDWS/SBTS and PSG/SG both confirmed as naming aliases, not distinct entities.
+
 ## [2026-08-05] ingest | Updated PG 2030 Tasks (Aug 2026)
 - Source: `.raw/PG 2030 New/Updated PG 2030 Tasks_Aug 2026.pdf` (16pp, bilingual EN/AR, per-branch task register)
 - Summary: [[sources/updated-pg-2030-tasks-aug-2026]]

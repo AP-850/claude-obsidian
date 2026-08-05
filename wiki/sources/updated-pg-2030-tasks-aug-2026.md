@@ -154,8 +154,8 @@ UPDATED adds: Transfer Air Assault knowledge and expertise from Al Forsan to sup
 
 UPDATED adds explicit sub-tasks under Task 1: **A.** Develop, test, and refine Specialist Recce Strike operating concept; **B.** MAKHLAB 1 to close the sensor-shooter gap by integrating AI enabled Uncrewed Systems (UxS) which can FIND and STRIKE targets; plus Provide the delivery of UxS to AI Forsan/HBE/SOC led JTF HQs as directed by PGI; Responsible PG unit for Specialist Reconnaissance Strike Authority (TRA) for all Falcons Brigade training courses delivered by PGI.
 
-> [!contradiction] MAKHLAB 1 ownership — J3 WDC/SBTDWS vs Falcons Brigade
-> [[Makhlab 1 Project]] (ingested June 2026) describes Makhlab 1 as a **Tactical Drones PoC governed by J3 WDC, with SBTDWS in a supporting (EXCON/evaluation) role** and Falcons Brigade as "partner force" only. This source tasks Falcons Brigade directly with "MAKHLAB 1 to close the sensor-shooter gap" as if Falcons Brigade owns the serial outright, with no mention of SBTDWS or J3 WDC governance in this task line. Not necessarily a hard contradiction — J3 WDC could still govern the experimentation while Falcons Brigade owns the fielded operational capability that results — but the two sources describe MAKHLAB 1's ownership in materially different terms. See [[Programme MAKHLAB]] and [[Makhlab 1 Project]] for the reconciliation note. Needs resolution: is MAKHLAB 1 one serial with two descriptions, or has ownership shifted from J3 WDC/SBTDWS to Falcons Brigade between June and August 2026?
+> [!key-insight] MAKHLAB 1 ownership — clarified 2026-08-05
+> Confirmed by the user: [[Makhlab 1 Project]]'s framing is correct — SBTDWS retains FDC 5 (tactical experimentation). This source's direct tasking of Falcons Brigade describes the operational/fielded capability, not a transfer of the experimentation lead. Genuinely open: how SBTDWS supports the wider Innovation Command piece — a meeting is scheduled for the week of 2026-08-11 to decide this. See [[Programme MAKHLAB]] and [[Makhlab 1 Project]].
 
 ---
 
@@ -296,11 +296,20 @@ UPDATED compresses to two headline tasks: **1. Update Training Courses to suppor
 
 ## Open Questions / Flags for Follow-Up
 
-1. Is "Multi-Domain Training Center" (SBTDWS Task 1 heading) a proposed institution rename (fourth naming candidate alongside ADWC/MDWC) or a specific facility within SBTDWS? See [[ADWC Naming Analysis]].
-2. Does MAKHLAB 1 ownership sit with J3 WDC/SBTDWS (per [[Makhlab 1 Project]]) or Falcons Brigade (per this source)? See contradiction callout above and [[Programme MAKHLAB]].
-3. Falcons Brigade UxS tasking appears twice under different SAG numbers (SAG 11 and SAG 18) — same capability, unclear which SAG number is authoritative.
+Answered by the user on 2026-08-05:
+
+1. ~~Is "Multi-Domain Training Center" a proposed institution rename or a specific facility?~~ **Confirmed: it is the current working terminology for SBTDWS's task**, not a facility. A brief has been developed for PG Comd to decide the overall direction from here; will be ingested when shared. See [[ADWC Naming Analysis]].
+2. ~~Does MAKHLAB 1 ownership sit with J3 WDC/SBTDWS or Falcons Brigade?~~ **Confirmed: SBTDWS retains FDC 5 unchanged** — Falcons Brigade's tasking describes the fielded capability, not an ownership transfer. Open: how SBTDWS supports the Innovation Command piece — meeting scheduled week of 2026-08-11. See [[Programme MAKHLAB]].
+3. Falcons Brigade UxS tasking under SAG 11 and SAG 18 — user unsure which is authoritative, but confirmed SAGs are each distinct and a single unit can hold multiple SAGs, so this is plausibly two genuinely separate SAGs rather than a duplicate.
+5. ~~Is PSG the same entity as "SG"?~~ **Confirmed: same unit, just a different naming convention** — same pattern as SBTDWS/SBTS below.
+
+Still open:
+
 4. Is "PG Digital Spine" (J6 Task 2–3, Force Design Concept 3) the same initiative as the existing wiki's [[J6 Digital Backbone]], or a related-but-distinct programme?
-5. Is PSG (Presidential Special Guard) the same entity as "SG"/"PG Special Guard" in [[PG 2030 Force Design Concepts]]? Treated as same pending confirmation.
+
+## Naming Note — SBTDWS / SBTS
+
+Per the user: "SBTDWS" is sometimes written **"SBTS"** in other documents — same unit, alias only, not a distinct entity or a naming contradiction like ADWC/MDWC/MDTC. Logged here for the index; treat as interchangeable wherever encountered.
 
 ---
 

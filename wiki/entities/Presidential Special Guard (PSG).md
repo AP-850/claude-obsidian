@@ -29,8 +29,8 @@ PG unit responsible for National Special Protection Systems, Routine Protective 
 
 Navigation: [[entities/_index]] | [[sbtdws/_index]] | [[Programme MAKHLAB]] | [[PG 2030 Force Design Concepts]]
 
-> [!gap] Likely same entity as "SG" in Force Design Concepts — unconfirmed
-> [[PG 2030 Force Design Concepts]] lists a unit "SG" ("VVIP & Critical Infrastructure protection" → "Special Protection Operations," Force Design Concept 2) that matches this unit's role closely. [[sources/updated-pg-2030-tasks-aug-2026]] calls it "PSG" (Presidential Special Guard) throughout. Treated here as the same entity under the more descriptive Aug 2026 name; flag for confirmation if a future source distinguishes them.
+> [!key-insight] Confirmed (2026-08-05): same entity as "SG" in Force Design Concepts
+> [[PG 2030 Force Design Concepts]] lists a unit "SG" ("VVIP & Critical Infrastructure protection" → "Special Protection Operations," Force Design Concept 2). Confirmed by the user: this is the same unit as PSG — just a different naming convention between sources, the same way SBTDWS is sometimes written SBTS. "PSG" (Presidential Special Guard) is the more descriptive, current name.
 
 ---
 

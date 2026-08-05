@@ -176,8 +176,8 @@ Define the formal authority SBTDWS holds in readiness validation:
 **What happens if not decided:**
 Default is advisory. OTs cannot fail units. Assessment results are recommendations, not verdicts. The entire validation architecture produces reports that commanders can ignore.
 
-> [!key-insight] J7's own register calls this the single largest risk in the readiness flow (2026-08-05)
-> [[J7 Readiness Flow and Deliverables Register]] tracks this as **B3/J4 — SBT validation authority (certify/fail/remediate)**, requested at B3, approval owner PG HQ, and explicitly labelled **"Stage 5, largest single risk"** in J7's own endorsed register. Target date given is **Q4-27** — a full year later than the Q4-26 date this register and [[Gap and Issue Triage Register]] currently carry. Not yet reconciled: treat Q4-27 as J7's own working estimate, not a formal re-baseline of this entry, until confirmed.
+> [!key-insight] J7's own register calls this the single largest risk in the readiness flow (2026-08-05) — confirmed a real, significant issue
+> [[J7 Readiness Flow and Deliverables Register]] tracks this as **B3/J4 — SBT validation authority (certify/fail/remediate)**, requested at B3, approval owner PG HQ, and explicitly labelled **"Stage 5, largest single risk"** in J7's own endorsed register. Target date given is **Q4-27** — a full year later than the Q4-26 date this register and [[Gap and Issue Triage Register]] currently carry. **User-confirmed (2026-08-05):** this date conflict was raised at the meeting and is genuinely significant — treat as a live, unresolved risk, not a stale documentation mismatch to quietly reconcile.
 
 **Source:** [[ADWC FIC Analysis]] Gap 2; [[SAG 9 and SAG 10]]; [[ADWC Command Brief (5-Slide)]] Slide 5; [[J7 Readiness Flow and Deliverables Register]] B3/J4
 
@@ -255,8 +255,8 @@ Structural design is incomplete. EXCON cannot be fully planned. Validation event
 **What happens if not decided:**
 Hameem remains a conventional training site. Formation-level validation must use existing ground (feasible for IOC; not sufficient for FOC). The ADWC mission rehearsal function cannot mature.
 
-> [!key-insight] HAMRA and OMD 25 named alongside Hameem for the first time (2026-08-05)
-> [[J7 Readiness Flow and Deliverables Register]] I2 — "Hameem Mission-Rehearsal Development Case" — names **HAMRA** and **OMD 25** as linked sites/programmes in the same capital case, target Q3-27, explicitly flagged "long lead time, cannot be recovered if started late." Neither HAMRA nor OMD 25 is otherwise defined in the wiki yet — flag for follow-up.
+> [!note] HAMRA and OMD 25 — alternate PG training areas (2026-08-05)
+> [[J7 Readiness Flow and Deliverables Register]] I2 — "Hameem Mission-Rehearsal Development Case" — names HAMRA and OMD 25 alongside Hameem in the same capital case, target Q3-27. Confirmed by the user: these are simply other training areas the Presidential Guard uses, not new or mysterious programmes — the capital case brings all of them to MRE standard.
 
 **Source:** [[Hameem Mission Rehearsal Concept]]; [[SBTDWS 9 Directed Tasks]] Task 3; [[ADWC FIC Analysis]] Gap 7; [[J7 Readiness Flow and Deliverables Register]] I2
 

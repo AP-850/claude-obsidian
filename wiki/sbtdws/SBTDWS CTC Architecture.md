@@ -2,7 +2,7 @@
 type: reference
 title: "SBTDWS CTC Architecture"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-05
 tags:
   - sbtdws
   - ctc
@@ -10,12 +10,13 @@ tags:
   - validation
   - j-functions
   - mrc
-status: active
+status: stale-superseded
 related:
   - "[[SBTDWS 9 Directed Tasks]]"
   - "[[ADWC Transformation Concept]]"
   - "[[OC-T Cadre Development Plan]]"
   - "[[Hameem Mission Rehearsal Concept]]"
+  - "[[J7 Readiness Flow and Deliverables Register]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -27,6 +28,11 @@ Navigation: [[sbtdws/_index]] | [[SBTDWS 9 Directed Tasks]] | [[OC-T Cadre Devel
 
 > [!key-insight] This is the full CTC model
 > This architecture describes how SBTDWS would function as the PG's CTC — the validation institution, not just the training school. It assumes EXCON, HICON, OT cadre, J-function support, and SRO accountability are all in place. Most of these are currently gaps — see [[ADWC FIC Analysis]].
+
+> [!contradiction] The 19 DMTs / 4 MRCs framework is stale — confirmed superseded by the 21 SAGs (2026-08-05)
+> Confirmed by the user: the **19 Directed Military Tasks / 4 Military Readiness Capabilities** framework this whole page is built on is **early planning (March 2025) that has since been superseded.** The **21 SAGs (Study and Evaluation/Action Groups)** structure used throughout every 2026 PG 2030 document — [[sources/updated-pg-2030-tasks-aug-2026]], [[PG 2030 Working Groups]], [[J7 Readiness Flow and Deliverables Register]] — is the current, live framework. Direct confirming evidence: [[J7 Readiness Flow and Deliverables Register]] item J9 ("Reconciliation of SBT's ToR vs 19 DMTs against the 21 SAGs") was cancelled at the 2026-08-05 J3/J7/SBTDWS meeting specifically because the 19-DMT side is a stale input — there is nothing current left to reconcile against.
+>
+> **Do not use the 19 DMTs / 4 MRCs structure as a current planning reference.** This page is retained for historical/source fidelity but should not inform new SBTDWS work — validation, exercise design, and readiness tracking should all be framed against the 21 SAGs going forward. If any content on this page needs to be carried into current work (EXCON/HICON structure, OT/J-function assumptions), re-derive it against the SAG framework rather than the DMT/MRC one.
 
 ---
 

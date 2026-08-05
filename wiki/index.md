@@ -163,7 +163,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Force Generation Pipeline ToR]] — Draft v0.1 ToR; J7/SBTDWS/J3 lane split; resource provisions; adverse assessment reporting chain; 5 TBD items flagged (status: draft)
 - [[ADWC FIC Analysis]] — 10 gaps, 10 dependencies, 12 key relationships; single-point-of-failure risk; Key Issues for Command Direction (status: active)
 - [[Gap and Issue Triage Register]] — consolidated ranked triage of all gaps/issues for J3/Commander brief; Paper 2 vs WG2 verbal direction discrepancies flagged before OPORD release (status: active)
-- [[SBTDWS CTC Architecture]] — 19 DMTs / 4 MRCs framework; J-functions; EXCON/OPFOR/OT design; current vs required gaps (status: active)
+- [[SBTDWS CTC Architecture]] — 19 DMTs / 4 MRCs framework (March 2025); confirmed STALE 2026-08-05, superseded by the 21 SAGs; J-functions/EXCON/OPFOR/OT design content retained for reference only (status: stale-superseded)
 - [[SBTDWS Barriers and Blockers]] — 8 institutional barriers; inflated pass rates; O5 resistance; contractor dependency; command-safe language guide (status: active)
 - [[ADWC Naming Analysis]] — expectation gap with ADWC label; alternatives preserving Desert Warfare identity (status: active)
 - [[UxS CAPDEV Portfolio]] — autonomous combat, VTOL, resupply drones, FPV program, simulation requirements (status: active)

@@ -56,7 +56,7 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 | [[Makhlab 1 Project]] | First UxS tactical experimentation sprint (Tactical Drones PoC); J3 WDC lead; SBTDWS supporting; Q1 27 target |
 | [[SAG 9 and SAG 10]] | Study and Evaluation Groups: IW (Joint) and Vital Capabilities Development |
 | [[ADWC FIC Analysis]] | 10 gaps, 10 dependencies, 12 key relationships; Key Issues for Command Direction |
-| [[SBTDWS CTC Architecture]] | 19 DMTs / 4 MRCs; J-functions; EXCON/OT/OPFOR design; current gaps vs full CTC |
+| [[SBTDWS CTC Architecture]] | **STALE (confirmed 2026-08-05)** — 19 DMTs/4 MRCs (March 2025), superseded by the 21 SAGs; J-functions/EXCON/OT/OPFOR design content retained for reference only |
 | [[SBTDWS Barriers and Blockers]] | 8 institutional barriers; command-safe language guide |
 | [[ADWC Naming Analysis]] | ADWC expectation gap; alternatives preserving Desert Warfare identity |
 | [[UxS CAPDEV Portfolio]] | Autonomous systems, VTOL, resupply drones, FPV, simulation requirements |

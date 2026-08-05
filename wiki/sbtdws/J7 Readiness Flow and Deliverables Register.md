@@ -21,6 +21,7 @@ related:
   - "[[RFI to PG HQ]]"
   - "[[J3 WDC]]"
   - "[[PG 2030 Working Groups]]"
+  - "[[SBTDWS CTC Architecture]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -131,7 +132,9 @@ Purpose (as stated in the source): *"The Commander's brief sets out what J7 must
 | B6 | Endorsement Paper | SBT SAG9 and SAG 10 assessment standard | J7 review and endorsement of SBT's standards against J3's issues, before first use | COMD J7 | Q4-27 | First SAG validation |
 
 > [!key-insight] B3/J4 — SBT's validation authority is now the register's own flagged "largest single risk"
-> This is the concrete instrument version of [[Commander Decisions Register]] D-05 (Validation Authority) and RFI-3. J7's own register calls it **"Stage 5, largest single risk"** — the single most consequential open item in the whole readiness flow, in J7's own words. Target date given here is **Q4-27**, a year later than the Q4-26 date the Commander Decisions Register and Gap and Issue Triage Register currently carry for D-05 — worth reconciling; this may reflect J7's own more conservative estimate rather than a formal re-baseline. See update to [[Commander Decisions Register]] D-05.
+> This is the concrete instrument version of [[Commander Decisions Register]] D-05 (Validation Authority) and RFI-3. J7's own register calls it **"Stage 5, largest single risk"** — the single most consequential open item in the whole readiness flow, in J7's own words. Target date given here is **Q4-27**, a year later than the Q4-26 date the Commander Decisions Register and Gap and Issue Triage Register currently carry for D-05.
+>
+> **Confirmed by the user (2026-08-05):** this date conflict was raised at the meeting and is a genuinely significant, live issue — not a documentation artifact to quietly average out. Treat it as a real open risk requiring resolution, not a stale discrepancy.
 
 ### C — Standards, Doctrine and SOPs
 
@@ -206,8 +209,8 @@ Purpose (as stated in the source): *"The Commander's brief sets out what J7 must
 | I2 | Directive | Hameem Mission-Rehearsal Development Case | The capital case to bring Hameem (and **HAMRA** and **OMD 25**) to MRE standard. Long lead time, cannot be recovered if started late | PG COMD/J7/J4 | Q3-27 | DG-6, MRE |
 | I3 | Submission | Training Area and Population-Centre Access Plan | Identifies and secures access to urban and population-centre training opportunities through MOU | COMD J7 | Q2-27 | ST6 |
 
-> [!gap] HAMRA and OMD 25 — new, unidentified programmes/sites
-> First appearance in the wiki. I2 names "HAMRA" and "OMD 25" alongside Hameem as part of the same mission-rehearsal capital case, implying they are related sites, ranges, or programmes feeding the same MRE standard. Not otherwise defined in this source. Flag for a follow-up question or future ingest — see [[Hameem Mission Rehearsal Concept]].
+> [!note] HAMRA and OMD 25 — alternate PG training areas
+> Confirmed by the user: HAMRA and OMD 25 are simply other training areas the Presidential Guard uses, alongside Hameem — not new capital programmes. I2's capital case covers bringing all of them to MRE standard. See [[Hameem Mission Rehearsal Concept]].
 
 ### J — Instruments J7 Requires From Others
 
@@ -223,8 +226,8 @@ Purpose (as stated in the source): *"The Commander's brief sets out what J7 must
 | J8 | Schedule | Digital Spine, Network and Accreditation Schedule | J6 delivery plan against E3. J7's largest external dependency apart from SBT | COMD J6 | Q1-27 | DG-6 |
 | J9 | ~~Directive~~ | ~~Reconciliation of SBT's ToR vs 19 DMTs against the 21 SAGs~~ | ~~Commander's direction required. Must settle before validation criteria are published~~ | COMD PG | Q4-26 | C4, B6 |
 
-> [!gap] J9 appears struck through in the source
-> Unlike every other row, J9 shows strikethrough formatting in the scan — possibly withdrawn, superseded, or resolved elsewhere before this version was finalised. The substance (reconciling SBT's ToR against the 19 DMTs vs the 21 SAGs) is a real and unresolved structural question — see [[SBTDWS CTC Architecture]] (19 DMTs) — but its status in this endorsed version is unclear. Treat as a flagged-but-uncertain item, not a live open action, until confirmed.
+> [!key-insight] J9 confirmed cancelled at today's meeting — the 19 DMTs framework is superseded
+> Confirmed by the user: the strikethrough is deliberate — this item (reconciling SBT's ToR against the 19 DMTs vs the 21 SAGs) was cancelled at today's meeting because it's a **stale input**. The 19 DMTs / 4 MRCs framework (see [[SBTDWS CTC Architecture]], authored March 2025) is early planning that has been superseded — **the 21 SAGs are the current, live framework.** No reconciliation is needed because there is nothing current on the DMT side left to reconcile against. See the stale-framework flag added to [[SBTDWS CTC Architecture]].
 
 ---
 
@@ -233,7 +236,7 @@ Purpose (as stated in the source): *"The Commander's brief sets out what J7 must
 | This register | Existing register item | What's new |
 |---|---|---|
 | B1 | D-02 — Force Generation Pipeline ToR | Concrete target Q3-26, approval chain COMD PG/J7/COMD SBT, enables B2–B6 |
-| B3, J4 | D-05 — Validation Authority | Named "Stage 5, largest single risk"; target given as **Q4-27** (a year later than D-05's existing Q4-26) — flagged for reconciliation |
+| B3, J4 | D-05 — Validation Authority | Named "Stage 5, largest single risk"; target given as **Q4-27** (a year later than D-05's existing Q4-26) — confirmed by the user as a genuinely significant, live issue, not a documentation artifact |
 | B6 | D-06 — SAG 9/10 Standards Ownership | Target Q4-27, approval COMD J7 (endorsement of SBT's own standard, not PG HQ authorship) |
 | A6, J5 | (new territory) — J7 as Collective Training Requirements Authority | Paper 2 only names a TRA for individual training; this is J7's own staff paper requesting PG HQ extend that to collective training — target Q4-26 |
 | J6 | (relates to D-07 / WG3) — Three 1-star JTF HQs | Target pushed to Q1-28, later than other Phase 1 milestones |

@@ -13,6 +13,12 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-05] clarification | User answers to J7 Readiness Flow open questions
+- Source: user, direct conversation (not a document)
+- Summary: resolved 3 of 4 flagged items from [[J7 Readiness Flow and Deliverables Register]]; 1 confirmed as a real live issue (not resolved, but validated as significant)
+- Pages updated: [[J7 Readiness Flow and Deliverables Register]], [[Commander Decisions Register]], [[Hameem Mission Rehearsal Concept]], [[SBTDWS CTC Architecture]] (now STALE-SUPERSEDED), [[sbtdws/_index]], [[index]], [[hot]]
+- Key insight: HAMRA and OMD 25 are simply other PG training areas, not new programmes. The 19 DMTs / 4 MRCs framework ([[SBTDWS CTC Architecture]], March 2025) is confirmed stale, superseded by the 21 SAGs — direct evidence being J9's cancellation at today's meeting. D-05's Q4-26 vs Q4-27 date conflict is confirmed a genuine, significant open issue. SBT confirmed as a third SBTDWS abbreviation.
+
 ## [2026-08-05] ingest | J7 Readiness Flow and Deliverables Register
 - Source: `.raw/PG 2030 New/J7 Readiness Flow and Deliverables Register_Briefed to J3 05 Aug_Endorsed.pdf` (3-page: 1-page Readiness Flow diagram + 2-page Deliverables Register; briefed to J3 and ENDORSED today)
 - Summary: [[J7 Readiness Flow and Deliverables Register]]

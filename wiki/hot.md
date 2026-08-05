@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-05T00:00:02
+updated: 2026-08-05T00:00:03
 tags:
   - meta
   - hot-cache
@@ -18,6 +18,8 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-08-05 (third update). Ingested [[SBTDWS Core Focus — COA Decision]] — a 1-page J3/J7 combined meeting follow-up brief (`.raw/PG 2030 New/SBTDWS Core Focus - COA Decision.pdf`). Confirms **"Multi Domain Training Centre" (MDTC)** as the official spelling (British "Centre"), used as an established fact throughout — but this brief is a *different* decision from D-10 naming: it asks PG Comd whether SBTDWS's course programme stays the main output as MDTC develops, or whether MDTC becomes the main output with courses reduced to a core. Three COAs (Retain and Add / Progressive Pivot / Hybrid — Hybrid assessed most likely). Added to [[Commander Decisions Register]] as **D-12**. Confirms gate dates MLOC Q4 27 / IOC Q4 28 / FOC Q4 30 (corroborates and sharpens [[SBTDWS 2030 Timeline]]). Also confirms [[RFI to PG HQ]] is actively circulating — this brief defers naming/heritage/decree to "RFI-1" by that exact label.
 
 2026-08-05 (second update). User clarified the open questions from today's ingest, directly (not via document):
 - **"Multi-Domain Training Center" (MDTC) confirmed as current working terminology** for SBTDWS's task — not a stray label. A brief has been built for **PG Comd** to decide overall direction ("where we are going next"); will be ingested when shared. D-10 (formal naming decision) still PENDING until then. See [[ADWC Naming Analysis]].
@@ -54,7 +56,8 @@ New entity pages: [[Al Forsan]], [[Hamid Bin Essa]], [[Special Operations Comman
 
 ## Key Open Threads — SBTDWS / PG 2030
 
-- **D-10 naming still PENDING:** MDTC ("Multi-Domain Training Center") confirmed as current working terminology (2026-08-05), but the formal decision awaits a PG Comd brief on overall direction — expect this to be ingested soon. Do not standardise on ADWC/MDWC/MDTC as "final" until that lands. See [[ADWC Naming Analysis]], [[Commander Decisions Register]].
+- **D-10 naming still PENDING:** MDTC ("Multi Domain Training Centre" — confirmed spelling) confirmed as current working terminology (2026-08-05), but the formal naming decision awaits a separate PG Comd brief — not yet ingested. Do not standardise on ADWC/MDWC/MDTC as "final" until that lands. See [[ADWC Naming Analysis]], [[Commander Decisions Register]].
+- **D-12 (new, 2026-08-05): SBTDWS Core Focus / course-portfolio COA, PENDING.** PG Comd must choose Retain-and-Add / Progressive Pivot / Hybrid (assessed most likely) for how much of the desert-warfare course programme survives as MDTC develops. COA 1 needs manpower/budget uplift by Q4 26. See [[SBTDWS Core Focus — COA Decision]].
 - **SBTDWS Innovation Command support model — meeting week of 2026-08-11:** SBTDWS keeps FDC 5; open question is how it supports the wider RIC/PGIC piece. See [[Programme MAKHLAB]], [[PGIC Concept]].
 - **RFI ready for advisor submission** — [[RFI to PG HQ]], nothing further needed from this side unless asked.
 - **First J3/J7 WG today (2026-08-05)** — [[Force Generation Pipeline WG — Internal Read-Ahead]]; agenda agreement closes D-02.

@@ -258,6 +258,24 @@
         "wiki/log.md"
       ],
       "note": "16-page bilingual EN/AR PG-HQ-wide task register (CamScanner PDF). Revealed Programme MAKHLAB as a numbered family (1/2/3/4/8) across 5+ units; surfaced a MAKHLAB 1 ownership contradiction with Makhlab 1 Project; added a third naming candidate ('Multi-Domain Training Center') to the D-10 naming contradiction; confirmed the SBTDWS-to-PGIC CAPDEV handoff as a formal task line for the first time."
+    },
+    ".raw/PG 2030 New/SBTDWS Core Focus - COA Decision.pdf": {
+      "hash": "b67c071f13d0c49e287402e8f3928413",
+      "ingested_at": "2026-08-05",
+      "pages_created": [
+        "wiki/sbtdws/SBTDWS Core Focus — COA Decision.md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/sbtdws/RFI to PG HQ.md",
+        "wiki/sbtdws/SBTDWS 2030 Timeline.md",
+        "wiki/sbtdws/ADWC Naming Analysis.md",
+        "wiki/sbtdws/_index.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "1-page J3/J7 combined meeting follow-up COA decision brief. Confirms 'Multi Domain Training Centre' (MDTC) as official spelling; added Commander Decisions Register D-12 (course-portfolio COA, separate from D-10 naming); confirmed MLOC Q4 27/IOC Q4 28/FOC Q4 30 gate dates; confirmed RFI to PG HQ is circulating (RFI-1 referenced by exact label)."
     }
   },
   "address_map": {

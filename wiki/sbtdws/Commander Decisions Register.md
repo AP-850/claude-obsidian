@@ -2,7 +2,7 @@
 type: reference
 title: "Commander Decisions Register"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -21,6 +21,7 @@ related:
   - "[[ADWC Implementation Plan (5-LOE Slide)]]"
   - "[[MDWC Six-Domain Study]]"
   - "[[RFI to PG HQ]]"
+  - "[[SBTDWS Core Focus — COA Decision]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -297,7 +298,10 @@ ADWC label is used by default. Expectation gap grows as partners and units expec
 > [[sources/updated-pg-2030-tasks-aug-2026]] restructures SBTDWS's own Task 1 under "Develop and run the Multi-Domain Training Center" — a third distinct label. See [[ADWC Naming Analysis]] for the full three-way naming thread. D-10 remains PENDING; the longer it stays open, the more independently-drifting names accumulate across HQ-track products.
 
 > [!key-insight] "Multi-Domain Training Center" confirmed as current working terminology, PG Comd brief incoming (2026-08-05)
-> Per the user directly: MDTC is confirmed as the currently-used term for SBTDWS's task, not a one-off document label. A brief has been developed for **PG Comd** to decide the overall direction ("where we are going next") — a distinct, higher decision than D-10 naming alone. The brief will be shared for ingestion when available; expect it to bear directly on D-10 and possibly supersede this register's PENDING status once PG Comd decides. Do not close D-10 until that decision lands.
+> Per the user directly: MDTC is confirmed as the currently-used term for SBTDWS's task, not a one-off document label. A brief has been developed for **PG Comd** to decide the overall direction ("where we are going next") — a distinct, higher decision than D-10 naming alone.
+
+> [!note] A PG Comd brief has now arrived — but it explicitly defers D-10 rather than resolving it (2026-08-05, later same day)
+> [[SBTDWS Core Focus — COA Decision]] is the first PG Comd-facing brief actually ingested. It confirms MDTC spelling ("Multi Domain Training Centre") and treats it as an established fact, but explicitly states the institutional name/heritage/decree question is "already raised as RFI-1" and **not part of this decision** — i.e. this brief deliberately keeps D-10 (naming) and D-12 (course portfolio COA, newly added below) as two separate threads. D-10 itself is still PENDING; the actual naming-decision brief referenced here has not yet been ingested.
 
 **Source:** [[ADWC Naming Analysis]]; [[ADWC FIC Analysis]] Key Issue 2; [[MDWC Six-Domain Study]] (2026-07-28); [[sources/updated-pg-2030-tasks-aug-2026]] (2026-08-05)
 
@@ -328,6 +332,32 @@ TEIW experiments are conducted informally. Outputs are not transferred to units.
 
 ---
 
+### D-12: SBTDWS Core Focus — Course Portfolio Decision
+**Decision owner:** PG Comd (per the source document — the first item in this register naming PG Comd specifically, rather than the generic "PG HQ")
+**Status:** PENDING
+**Required by:** COA 1 needs manpower/budget uplift approved before Q4 26; COA 3 needs standing review authority in place by MLOC Q4 27
+
+**What must be decided:**
+As SBTDWS develops the Multi Domain Training Centre (MDTC), does the current desert warfare course programme remain the main output, or does the MDTC become the main output with the course programme reduced to an agreed core? Three COAs on the table — see [[SBTDWS Core Focus — COA Decision]] for full detail:
+- **COA 1 — Retain and Add:** keep full course programme, build MDTC alongside it. Needs full manpower/budget uplift before Q4 26.
+- **COA 2 — Progressive Pivot:** MDTC becomes main output over time; course programme reduced to a core, remainder stopped or handed off. May require cover under the founding decree.
+- **COA 3 — Hybrid** *(assessed most likely outcome)*: permanent core kept, remainder reduced step by step at each gate (MLOC Q4 27 / IOC Q4 28 / FOC Q4 30). Needs standing review-and-adjust authority at each gate.
+
+**What it gates:**
+- Whether the Phase 1 structural reorganisation plan (D-01) is designed around retained scope (COA 1) or a phased handover (COA 2/3)
+- The manpower and budget bid SBTDWS submits for Q4 26
+- Which PG units continue receiving which courses, and from whom, during the transition
+
+**What happens if not decided:**
+SBTDWS cannot finalise its structural reorganisation plan or manpower/budget bid — both currently depend on knowing which COA applies. Risk of drifting into a de facto COA 1 (retain everything) by default, which the brief itself flags as unachievable without a full uplift.
+
+> [!key-insight] This is arguably the most foundational open decision in the register
+> Every other Tier decision (D-01 three-wing design, D-07 J-Staff model, D-08 Hameem, D-09 CAPDEV/PGIC) implicitly assumes some answer to "how big is SBTDWS's remit." This decision makes that assumption explicit and forces a resourcing choice, not just a conceptual or naming one. Placed in Tier 2 here because the decision owner is PG Comd/PG HQ, not O6 CoC alone — but its Q4 26 COA 1 deadline is as urgent as anything in Tier 1.
+
+**Source:** [[SBTDWS Core Focus — COA Decision]] (2026-08-05, J3/J7 combined meeting follow-up)
+
+---
+
 ## Decision Priority Matrix
 
 | ID | Decision | Owner | Tier | Status | Blocks |
@@ -343,6 +373,7 @@ TEIW experiments are conducted informally. Outputs are not transferred to units.
 | D-09 | CAPDEV → PGIC transition | PG HQ | 3 | PENDING | TEIW scope, PGIC standup |
 | D-10 | Naming decision | PG HQ | 3 | PENDING | Structural announcement |
 | D-11 | J3 WDC experimentation governance | J3 / O6 CoC | 3 | PENDING | TEIW experiments |
+| D-12 | Core Focus — course portfolio COA | PG Comd | 2 | PENDING | Structural plan, manpower/budget bid |
 
 ---
 
@@ -372,6 +403,7 @@ Everything else requires PG HQ or Higher HQ, and SBTDWS must surface these throu
 | Version | Date | Change |
 |---------|------|--------|
 | v1.0 | 2026-06-02 | Initial — consolidated from O6 Command Brief, FIC Analysis, SAG 9/10, Naming Analysis, transformation workstream |
+| v1.1 | 2026-08-05 | Added D-12 (Core Focus — course portfolio COA), sourced from [[SBTDWS Core Focus — COA Decision]] |
 
 ---
 

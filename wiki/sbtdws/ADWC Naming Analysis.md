@@ -16,6 +16,8 @@ related:
   - "[[MDWC Six-Domain Study]]"
   - "[[Commander Decisions Register]]"
   - "[[sources/updated-pg-2030-tasks-aug-2026]]"
+  - "[[SBTDWS Core Focus — COA Decision]]"
+  - "[[RFI to PG HQ]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -97,8 +99,11 @@ This analysis was developed but no formal naming decision has been recorded. The
 >
 > This is now a three-way naming split across three independent, contemporaneous-ish sources (Jun–Aug 2026), each from a different vantage point: SBTDWS's own product (ADWC), a J7-authored HQ-track study (MDWC), and a PG-HQ-wide task register (MDTC / "Multi-Domain Training Center"). Still no formal D-10 decision recorded. See [[Commander Decisions Register]] D-10.
 
-> [!key-insight] Confirmed (2026-08-05): "Multi-Domain Training Center" is the current working terminology
-> Per the user directly (not a document source): "Multi-Domain Training Center" is confirmed as **the new terminology now in use for SBTDWS's task** — i.e. not a stray label on one scanned page but the term the school itself is currently working under. A brief has been developed for **PG Comd** to decide the overall direction from here (the "where are we going next" decision) — this is a distinct, higher decision than the naming question alone, and the brief will be ingested when shared. Treat "Multi-Domain Training Center" (MDTC) as the current-best working name going forward, while D-10 (the *formal* naming decision) remains PENDING pending PG Comd's brief and decision. Do not silently retire ADWC/MDWC from historical pages — they remain accurate for their respective source dates.
+> [!key-insight] Confirmed (2026-08-05): "Multi Domain Training Centre" is the current working terminology
+> Per the user directly (not a document source): this is confirmed as **the new terminology now in use for SBTDWS's task** — i.e. not a stray label on one scanned page but the term the school itself is currently working under. A brief has been developed for **PG Comd** to decide the overall direction from here (the "where are we going next" decision) — this is a distinct, higher decision than the naming question alone. Treat "Multi Domain Training Centre" (MDTC) as the current-best working name going forward, while D-10 (the *formal* naming decision) remains PENDING. Do not silently retire ADWC/MDWC from historical pages — they remain accurate for their respective source dates.
+
+> [!key-insight] Spelling confirmed, but the naming decision itself deferred (2026-08-05, later same day)
+> [[SBTDWS Core Focus — COA Decision]] — the first PG Comd-facing brief actually ingested since the above was written — spells it **"Multi Domain Training Centre" (MDTC, British "Centre")**, not "Center," and uses it as an established fact throughout. However, this brief is about a *different* decision (the course-portfolio COA — see [[Commander Decisions Register]] D-12) and explicitly defers the institutional-name/heritage/decree question to "RFI-1" ([[RFI to PG HQ]]) as a separate, not-yet-resolved item. So: the spelling is now confirmed, but the actual naming-decision brief (D-10) has not yet arrived.
 
 ---
 

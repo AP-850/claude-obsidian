@@ -1,7 +1,7 @@
 ---
 type: reference
 title: "SBTDWS 2030 Timeline"
-updated: 2026-05-26
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -16,6 +16,7 @@ related:
   - "[[SBTDWS PM Framework]]"
   - "[[sources/sbtdws-emad-fg-review-2026-05-04]]"
   - "[[ADWC Implementation Plan (5-LOE Slide)]]"
+  - "[[SBTDWS Core Focus — COA Decision]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -74,6 +75,9 @@ Structural reorganisation cannot begin until the 6GW training review is complete
 
 > [!gap] MLOC date flagged as an assumption (2026-07-28)
 > The [[ADWC Implementation Plan (5-LOE Slide)|5-LOE implementation slide]] uses Q4 27 as the MLOC gate but marks it ⚠️ *working assumption* — the EMAD deck implies the first below-Brigade validation serial (Q2 27, already listed above) might be the actual MLOC milestone rather than Q4 27. The slide's reasoning: its own Phase 2 gate requires trained OTs, Makhlab 1 launched, *and* contractor HOTO (NLT Q4 27) — so Q4 27 is the latest of several converging requirements, not necessarily the single defining MLOC event. Not yet resolved; one-cell change if J3 has already been briefed Q2 27. See [[sources/sbtdws-to-adwc-implementation-plan]].
+
+> [!key-insight] MLOC Q4 27 corroborated, IOC and FOC given single dates for the first time (2026-08-05)
+> [[SBTDWS Core Focus — COA Decision]] — a J3/J7 combined meeting follow-up brief — states MLOC Q4 27, IOC Q4 28, and FOC Q4 30 as the gates governing COA 3 (Hybrid)'s standing review authority. This corroborates the existing Q4 27 MLOC working assumption above (still not a formal resolution of the Q2 27 alternative) and is the first source giving single, specific dates for IOC and FOC rather than the wider Q4 27–Q1 29 / Q2 29–Q3 30 windows previously tracked. Recommend treating IOC = Q4 28 and FOC = Q4 30 as current working dates.
 
 ---
 

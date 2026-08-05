@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-05] ingest | SBTDWS Core Focus — COA Decision
+- Source: `.raw/PG 2030 New/SBTDWS Core Focus - COA Decision.pdf` (1-page brief, J3/J7 combined meeting follow-up, DRAFT)
+- Summary: [[SBTDWS Core Focus — COA Decision]]
+- Pages created: [[SBTDWS Core Focus — COA Decision]]
+- Pages updated: [[Commander Decisions Register]] (new D-12), [[RFI to PG HQ]], [[SBTDWS 2030 Timeline]], [[ADWC Naming Analysis]], [[sbtdws/_index]], [[index]]
+- Key insight: Confirms "Multi Domain Training Centre" (MDTC) as the official spelling, used as an established fact — but this is a separate decision (D-12: course-portfolio COA) from the D-10 naming decision, which the brief explicitly defers to RFI-1. Confirms gate dates MLOC Q4 27 / IOC Q4 28 / FOC Q4 30. Confirms the RFI to PG HQ document is actively circulating (referenced by exact item number).
+
 ## [2026-08-05] clarification | User answers to Updated PG 2030 Tasks open questions
 - Source: user, direct conversation (not a document)
 - Summary: resolved 3 of 5 open questions from [[sources/updated-pg-2030-tasks-aug-2026]]; 1 partially clarified with a new pending decision point; 1 remains open

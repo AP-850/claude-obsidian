@@ -22,7 +22,7 @@ Saeed Bin Tahnoun Desert Warfare School (SBTDWS) transformation into the Preside
 
 > [!note] Naming
 > **SBTDWS is sometimes written "SBTS"** in other documents — same unit, alias only. Do not treat as a separate entity.
-> The institution's own end-state name is still unresolved: "All Domain Warfare Centre" (ADWC, formal directive), "Multi Domain Warfare Centre" (MDWC, J7 working title), and **"Multi-Domain Training Center" (MDTC) — confirmed 2026-08-05 as the current working terminology**, pending a PG Comd decision on overall direction. See [[ADWC Naming Analysis]] and [[Commander Decisions Register]] D-10.
+> The institution's own end-state name is still unresolved: "All Domain Warfare Centre" (ADWC, formal directive), "Multi Domain Warfare Centre" (MDWC, J7 working title), and **"Multi Domain Training Centre" (MDTC) — confirmed 2026-08-05 as the current working terminology and spelling**, pending a PG Comd decision on overall direction (D-10, still PENDING). A separate PG Comd decision on SBTDWS's course-portfolio scope (D-12) has now been tabled — see [[SBTDWS Core Focus — COA Decision]]. See [[ADWC Naming Analysis]] and [[Commander Decisions Register]].
 
 Navigation: [[index]] | [[SBTDWS Overview]] | [[ADWC Transformation Concept]] | [[SBTDWS 2030 Timeline]]
 
@@ -75,6 +75,7 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 | [[RFI to PG HQ]] | Consolidated 12-item RFI for the new PG 2030 advisor; prioritised P1/P2/P3; excludes SBTDWS's own O6 CoC actions |
 | [[sources/updated-pg-2030-tasks-aug-2026]] | PG-HQ-wide task register (J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units); reveals numbered MAKHLAB family; new "Multi-Domain Training Center" naming candidate; PGIC handoff now a formal task |
 | [[Programme MAKHLAB]] | Numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; MAKHLAB 1 ownership contradiction with [[Makhlab 1 Project]] |
+| [[SBTDWS Core Focus — COA Decision]] | J3/J7 combined meeting follow-up: 3 COAs for SBTDWS's course-portfolio scope as MDTC develops; confirms MDTC spelling; added as D-12 |
 
 ---
 

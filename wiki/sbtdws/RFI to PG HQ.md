@@ -3,7 +3,7 @@ type: rfi
 title: "RFI to PG HQ"
 address: c-000023
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-05
 tags:
   - sbtdws
   - adwc
@@ -19,6 +19,7 @@ related:
   - "[[ADWC FIC Analysis]]"
   - "[[Force Generation Pipeline ToR]]"
   - "[[SBTDWS Barriers and Blockers]]"
+  - "[[SBTDWS Core Focus — COA Decision]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -55,6 +56,9 @@ Navigation: [[sbtdws/_index]] | [[Commander Decisions Register]] | [[MDWC Six-Do
 ---
 
 ## A. Institutional Identity & Scope
+
+> [!key-insight] Confirmed circulating and actively referenced (2026-08-05)
+> [[SBTDWS Core Focus — COA Decision]], a J3/J7 combined meeting follow-up brief, explicitly defers its own naming/heritage/decree question by pointing to "RFI-1" by that exact label — matching this item's number precisely. First direct evidence the RFI has reached J3/J7 and is being used as a live reference point in decision-making, not just held by the advisor.
 
 ### RFI-1 — Institutional name and source-of-truth document
 

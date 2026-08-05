@@ -19,6 +19,7 @@ related:
   - "[[Programme MAKHLAB]]"
   - "[[PGI]]"
   - "[[sources/updated-pg-2030-tasks-aug-2026]]"
+  - "[[PG 2030 Working Groups]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -90,6 +91,12 @@ Falcons Brigade is the natural partner unit for SBTDWS's first tactical experime
 
 ---
 
+## MAKHLAB coordination Working Group lead (2026-08-05)
+
+[[PG 2030 Working Groups]] names Falcons Brigade as Task Lead for WG5 — "Coordination, Synchronisation, and Maximisation of the PG MAKHLAB Program" — with members from J1, J2, J3, J6, J7, Al Forsan, HBE, SOC, PSG, and SBTDWS. This makes Falcons Brigade the cross-unit coordinating authority for the *entire* [[Programme MAKHLAB]] family (serials 1/2/3/4/8), not just its own MAKHLAB 1 serial — helping explain why Falcons Brigade's MAKHLAB tasking reads so broadly elsewhere in the task register.
+
+---
+
 ## Source
 
-Consolidated from: [[PG 2030 Force Design Concepts]], [[J3 Action Plan Template]] (`.raw/PG 2030/J3 Template Example_Action Plans.jpg`), [[Makhlab 1 Project]], [[SBTDWS Key Relationships]], [[Three Development Thematics]], [[sources/updated-pg-2030-tasks-aug-2026]]
+Consolidated from: [[PG 2030 Force Design Concepts]], [[J3 Action Plan Template]] (`.raw/PG 2030/J3 Template Example_Action Plans.jpg`), [[Makhlab 1 Project]], [[SBTDWS Key Relationships]], [[Three Development Thematics]], [[sources/updated-pg-2030-tasks-aug-2026]], [[PG 2030 Working Groups]]

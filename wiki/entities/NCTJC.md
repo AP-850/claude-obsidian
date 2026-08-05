@@ -47,6 +47,12 @@ Navigation: [[entities/_index]] | [[sbtdws/_index]] | [[Special Operations Comma
 
 ---
 
+## Working Group memberships (2026-08-05)
+
+[[PG 2030 Working Groups]] lists NCTJC as a member of WG1 (Multi-Domain Targeting Capability, J2 lead), WG3 (PG C2 Models, J3 lead), WG6 (PG Digital Spine, J6 lead), and WG8 (PG Simulation Program, J7 lead) — consistent with NCTJC's C2 and Multi-Domain Targeting role already tracked above.
+
+---
+
 ## Source
 
-[[PG 2030 Force Design Concepts]], [[sources/updated-pg-2030-tasks-aug-2026]] | `.raw/PG 2030 New/Updated PG 2030 Tasks_Aug 2026.pdf`
+[[PG 2030 Force Design Concepts]], [[sources/updated-pg-2030-tasks-aug-2026]], [[PG 2030 Working Groups]] | `.raw/PG 2030 New/Updated PG 2030 Tasks_Aug 2026.pdf`, `.raw/PG 2030 New/PG 2030 Working Groups_suggested from J3 advisor.pdf`

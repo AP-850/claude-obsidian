@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-05] ingest | PG 2030 Working Groups
+- Source: `.raw/PG 2030 New/PG 2030 Working Groups_suggested from J3 advisor.pdf` (4-page bilingual brief, "suggested from J3 advisor")
+- Summary: [[PG 2030 Working Groups]]
+- Pages created: [[PG 2030 Working Groups]]
+- Pages updated: [[Programme MAKHLAB]], [[Falcons Brigade]], [[J3 WDC]], [[NCTJC]], [[sbtdws/_index]], [[index]]
+- Key insight: Formalises 8 PG 2030 Working Groups (task/endstate/members) all reporting to PG J3. Falcons Brigade leads cross-unit coordination of the entire Programme MAKHLAB family, not just MAKHLAB 1 — clarifies earlier MAKHLAB 1 tasking breadth. WG7 names J7 (not J3) as lead for developing the PG Warfare Development Center, with a "J3 Lead" sub-note — plausibly a build-vs-run split against [[J3 WDC]], not confirmed. Source is heavily OCR-garbled; Task Leads and Members high-confidence, Endstates paraphrased.
+
 ## [2026-08-05] ingest | SBTDWS Core Focus — COA Decision
 - Source: `.raw/PG 2030 New/SBTDWS Core Focus - COA Decision.pdf` (1-page brief, J3/J7 combined meeting follow-up, DRAFT)
 - Summary: [[SBTDWS Core Focus — COA Decision]]

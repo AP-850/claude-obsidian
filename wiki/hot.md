@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-05T00:00:03
+updated: 2026-08-05T00:00:04
 tags:
   - meta
   - hot-cache
@@ -18,6 +18,8 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-08-05 (fourth update). Ingested [[PG 2030 Working Groups]] — a 4-page bilingual brief "suggested from J3 advisor" establishing 8 formal PG 2030 Working Groups (Multi-Domain Targeting/J2, ORC/J3, C2 Models/J3, J4 Concept of Support/J4, MAKHLAB coordination/**Falcons Brigade**, Digital Spine/J6, Warfare Development Center/**J7**, Simulation Program/J7), each with a Task Lead, Endstate, and defined membership. Two things worth flagging: (1) **Falcons Brigade leads cross-unit coordination of the whole Programme MAKHLAB family**, not just its own MAKHLAB 1 serial — this helps explain why Falcons Brigade's MAKHLAB tasking reads so broadly elsewhere. (2) **WG7 names J7, not J3, as lead for "Development of the PG Warfare Development Center"** (with a sub-note "Includes PG Warfare Development Center (J3 Lead)") — most likely a build-(J7)-vs-run-(J3) split rather than a reversal of [[J3 WDC]]'s governance role, but not confirmed. Source quality note: heavily scanned/OCR'd, several Endstate paragraphs garbled — Task Leads and Member lists transcribed with high confidence, Endstates paraphrased.
 
 2026-08-05 (third update). Ingested [[SBTDWS Core Focus — COA Decision]] — a 1-page J3/J7 combined meeting follow-up brief (`.raw/PG 2030 New/SBTDWS Core Focus - COA Decision.pdf`). Confirms **"Multi Domain Training Centre" (MDTC)** as the official spelling (British "Centre"), used as an established fact throughout — but this brief is a *different* decision from D-10 naming: it asks PG Comd whether SBTDWS's course programme stays the main output as MDTC develops, or whether MDTC becomes the main output with courses reduced to a core. Three COAs (Retain and Add / Progressive Pivot / Hybrid — Hybrid assessed most likely). Added to [[Commander Decisions Register]] as **D-12**. Confirms gate dates MLOC Q4 27 / IOC Q4 28 / FOC Q4 30 (corroborates and sharpens [[SBTDWS 2030 Timeline]]). Also confirms [[RFI to PG HQ]] is actively circulating — this brief defers naming/heritage/decree to "RFI-1" by that exact label.
 

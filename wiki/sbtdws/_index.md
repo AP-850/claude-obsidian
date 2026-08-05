@@ -76,6 +76,7 @@ This domain captures the strategic concept, gap analysis, transformation roadmap
 | [[sources/updated-pg-2030-tasks-aug-2026]] | PG-HQ-wide task register (J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units); reveals numbered MAKHLAB family; new "Multi-Domain Training Center" naming candidate; PGIC handoff now a formal task |
 | [[Programme MAKHLAB]] | Numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; MAKHLAB 1 ownership contradiction with [[Makhlab 1 Project]] |
 | [[SBTDWS Core Focus — COA Decision]] | J3/J7 combined meeting follow-up: 3 COAs for SBTDWS's course-portfolio scope as MDTC develops; confirms MDTC spelling; added as D-12 |
+| [[PG 2030 Working Groups]] | 8 formal Working Groups (task/endstate/members) covering Multi-Domain Targeting, ORC, C2 Models, J4 Support, MAKHLAB coordination (Falcons Bde lead), Digital Spine, Warfare Development Center, Simulation Program |
 
 ---
 

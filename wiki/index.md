@@ -185,6 +185,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[sources/updated-pg-2030-tasks-aug-2026]] — PG-HQ-wide task register: J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units; reveals numbered MAKHLAB family, third naming candidate, formal PGIC handoff task (status: ingested)
 - [[Programme MAKHLAB]] — numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; SBTDWS retains FDC 5, Innovation Cmd support model pending decision week of 2026-08-11 (status: active)
 - [[SBTDWS Core Focus — COA Decision]] — J3/J7 combined meeting follow-up; 3 COAs for SBTDWS's course-portfolio scope as MDTC develops; confirms MDTC spelling; new Commander Decisions Register item D-12 (status: draft)
+- [[PG 2030 Working Groups]] — 8 formal WGs (task/endstate/members); Falcons Bde leads cross-unit MAKHLAB coordination; J7-led Warfare Development Center WG raises a build-vs-run question against J3 WDC (status: draft-suggested)
 
 ## EXCON Pro — Expert Feedback Programme
 
@@ -208,6 +209,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[sources/sbtdws-emad-fg-review-2026-05-04]] — 2026-06-23 | EMAD Committee FG review pptx (2026-05-04) + J3 Action Plan template image | 4 wiki pages created, 2 updated
 - [[sources/updated-pg-2030-tasks-aug-2026]] — 2026-08-05 | PG-HQ-wide task register PDF (16pp, bilingual) | 8 wiki pages created, 8 updated
 - [[SBTDWS Core Focus — COA Decision]] — 2026-08-05 | J3/J7 combined meeting follow-up, 1-page COA brief | 1 wiki page created, 6 updated
+- [[PG 2030 Working Groups]] — 2026-08-05 | 4-page bilingual WG structure brief, "suggested from J3 advisor" | 1 wiki page created, 6 updated
 
 ## TACTIX — Exercise Control Application
 

@@ -276,6 +276,24 @@
         "wiki/log.md"
       ],
       "note": "1-page J3/J7 combined meeting follow-up COA decision brief. Confirms 'Multi Domain Training Centre' (MDTC) as official spelling; added Commander Decisions Register D-12 (course-portfolio COA, separate from D-10 naming); confirmed MLOC Q4 27/IOC Q4 28/FOC Q4 30 gate dates; confirmed RFI to PG HQ is circulating (RFI-1 referenced by exact label)."
+    },
+    ".raw/PG 2030 New/PG 2030 Working Groups_suggested from J3 advisor.pdf": {
+      "hash": "06e453a591455f13929b32b0f5e6a279",
+      "ingested_at": "2026-08-05",
+      "pages_created": [
+        "wiki/sbtdws/PG 2030 Working Groups.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Programme MAKHLAB.md",
+        "wiki/entities/Falcons Brigade.md",
+        "wiki/entities/J3 WDC.md",
+        "wiki/entities/NCTJC.md",
+        "wiki/sbtdws/_index.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "4-page bilingual, heavily OCR-garbled brief establishing 8 formal PG 2030 Working Groups with Task Lead/Endstate/Members. Falcons Brigade confirmed as cross-unit MAKHLAB coordination lead (WG5). WG7 names J7 as lead for developing the PG Warfare Development Center with a 'J3 Lead' sub-note, raising a build-vs-run question against the existing J3 WDC entity page, not resolved."
     }
   },
   "address_map": {

@@ -20,6 +20,7 @@ related:
   - "[[Special Operations Command (SOC)]]"
   - "[[Presidential Special Guard (PSG)]]"
   - "[[Specialist Reserve Brigade (SRB)]]"
+  - "[[PG 2030 Working Groups]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -54,6 +55,13 @@ Navigation: [[sbtdws/_index]] | [[Makhlab 1 Project]] | [[PG 2030 Force Design C
 > Per the user directly: SBTDWS's ownership of FDC 5 (tactical experimentation) is confirmed correct and unchanged. Falcons Brigade's direct MAKHLAB 1 tasking describes the operational/fielded capability, not a transfer of the experimentation lead. What remains genuinely open is **how SBTDWS supports the wider Innovation Command piece** (RIC / PGIC integration) — a meeting is scheduled for the week of 2026-08-11 to decide this. See [[Makhlab 1 Project]] for the full note and [[PGIC Concept]] for the Innovation Command side.
 
 ---
+
+## Coordination Working Group — Falcons Brigade leads (2026-08-05)
+
+[[PG 2030 Working Groups]] establishes a formal Working Group (WG5) for "Coordination, Synchronisation, and Maximisation of the PG MAKHLAB Program," led by **Falcons Brigade**, with membership from J1, J2, J3, J6, J7, Al Forsan, HBE, SOC, PSG, and SBTDWS. This means Falcons Brigade coordinates the *whole* MAKHLAB family (all serials 1/2/3/4/8) across units — not only its own MAKHLAB 1 serial.
+
+> [!key-insight] Clarifies the MAKHLAB 1 tasking pattern
+> This coordination-lead role plausibly explains why Falcons Brigade appears tasked so broadly and directly around MAKHLAB elsewhere in the task register (see [[Makhlab 1 Project]]): it is doing double duty as both a MAKHLAB 1 line unit and the cross-programme coordinating authority. This doesn't by itself resolve whether SBTDWS/J3 WDC or Falcons Brigade governs FDC 5 experimentation, but it does explain the breadth of Falcons Brigade's MAKHLAB-related tasking without needing to assume an ownership transfer.
 
 ## Relationship to SBTDWS / Innovation Command
 

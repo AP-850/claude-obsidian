@@ -14,97 +14,145 @@
         "wiki/sbtdws/SAG 9 and SAG 10.md",
         "wiki/sbtdws/ADWC FIC Analysis.md"
       ],
-      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/hot.md", "wiki/sbtdws/_index.md"]
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/sbtdws/_index.md"
+      ]
     },
     ".raw/ChatGPT-Military Strategy Analysis.md": {
       "hash": "48f3fb210031f6e697643090c91ec416",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Innovation Hub Proposal.md": {
       "hash": "4586c4dcc18cb6805fa144be4d494f38",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sbtdws/UxS CAPDEV Portfolio.md", "wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sbtdws/UxS CAPDEV Portfolio.md",
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Force Design Review 2030.md": {
       "hash": "9ce8bfa61c3c25ec764292f613433d8a",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-All-Domain Warfare Centres.md": {
       "hash": "32dece0f78d86d3f7639e2b45ded6cc0",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Marakeb Technologies Overview.md": {
       "hash": "fb07be9d1507a6f908f12d3e4fdc54f6",
       "ingested_at": "2026-06-02",
-      "pages_created": ["wiki/entities/Marakeb Technologies.md"],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_created": [
+        "wiki/entities/Marakeb Technologies.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Unconventional Warfare and Resilience.md": {
       "hash": "87593fc42635cd051aca1b94b136899e",
       "ingested_at": "2026-06-02",
-      "pages_created": ["wiki/concepts/Unconventional Warfare and Resilience.md"],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_created": [
+        "wiki/concepts/Unconventional Warfare and Resilience.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-ADF Personnel Recovery Briefing.md": {
       "hash": "aed76418441884d38949c41f1c800296",
       "ingested_at": "2026-06-02",
-      "pages_created": ["wiki/entities/ADF Personnel Recovery Framework.md"],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_created": [
+        "wiki/entities/ADF Personnel Recovery Framework.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-VTOL eVTOL military research.md": {
       "hash": "698888c3b21cf63c71fb3f17f6eb4095",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sbtdws/UxS CAPDEV Portfolio.md"]
+      "pages_updated": [
+        "wiki/sbtdws/UxS CAPDEV Portfolio.md"
+      ]
     },
     ".raw/ChatGPT-Autonomous Combat Platoon Development.md": {
       "hash": "3b938533e4d36edc4e9f9d57ae21da0f",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sbtdws/UxS CAPDEV Portfolio.md"]
+      "pages_updated": [
+        "wiki/sbtdws/UxS CAPDEV Portfolio.md"
+      ]
     },
     ".raw/ChatGPT-Logistics Support Company layout.md": {
       "hash": "a488a80bddf4e116c3414430a5293632",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Desert Warfare School Proposal.md": {
       "hash": "f925671ab2ed41ba68f9d8e840a1302c",
       "ingested_at": "2026-06-02",
-      "pages_created": ["wiki/sbtdws/SBTDWS CTC Architecture.md"],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_created": [
+        "wiki/sbtdws/SBTDWS CTC Architecture.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Innovation strategy development.md": {
       "hash": "3d47c507a1977e2b64b6225e8e402a10",
       "ingested_at": "2026-06-02",
-      "pages_created": ["wiki/concepts/Three-Horizon Innovation Model.md"],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_created": [
+        "wiki/concepts/Three-Horizon Innovation Model.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Military Strategy and Leadership.md": {
       "hash": "9ec80c62129f2f726d6becbfa5557f30",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Desert Warfare Red Force Concept.md": {
       "hash": "cdfd18e1638c51cc12d17a78e00b3df3",
       "ingested_at": "2026-06-02",
-      "pages_created": ["wiki/sbtdws/OPFOR and Red Force Concept.md"],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_created": [
+        "wiki/sbtdws/OPFOR and Red Force Concept.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Logistical Resupply Drone CONUSE.md": {
       "hash": "521576373fc23a1a3c88b51844b8d2cb",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sbtdws/UxS CAPDEV Portfolio.md"]
+      "pages_updated": [
+        "wiki/sbtdws/UxS CAPDEV Portfolio.md"
+      ]
     },
     ".raw/SBTDWS_PG2030_ADWC_Chat_Export.md": {
       "hash": "2077fdaefd1c8b6b21e995998dacf1ad",
@@ -114,49 +162,65 @@
         "wiki/sbtdws/ADWC Naming Analysis.md",
         "wiki/concepts/PG 2030 Three Themes.md"
       ],
-      "pages_updated": ["wiki/sbtdws/SAG 9 and SAG 10.md"]
+      "pages_updated": [
+        "wiki/sbtdws/SAG 9 and SAG 10.md"
+      ]
     },
     ".raw/ChatGPT-Desert Warfare Capability Ideas.md": {
       "hash": "5660a50180111512f207cbe618d1ea57",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sbtdws/UxS CAPDEV Portfolio.md"]
+      "pages_updated": [
+        "wiki/sbtdws/UxS CAPDEV Portfolio.md"
+      ]
     },
     ".raw/ChatGPT-Project Tracker Simplification.md": {
       "hash": "23100aa356d45ff6fd87a70979b5985a",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Training Gap Analysis 2030.md": {
       "hash": "83c06433b5a2803b3aa7d3aa76ddbdbb",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-Tactical resupply drone statement.md": {
       "hash": "db9b7c49131957f4b8e6a39fcd1bd8a8",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sbtdws/UxS CAPDEV Portfolio.md"]
+      "pages_updated": [
+        "wiki/sbtdws/UxS CAPDEV Portfolio.md"
+      ]
     },
     ".raw/ChatGPT-Simulation requirements list.md": {
       "hash": "c3531f9377394b55cb676238071ae0d5",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sbtdws/UxS CAPDEV Portfolio.md"]
+      "pages_updated": [
+        "wiki/sbtdws/UxS CAPDEV Portfolio.md"
+      ]
     },
     ".raw/Develop SBTDWS transformation response template.md": {
       "hash": "e42b2fceada7040e602eda9b735c8ee5",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/ChatGPT-First Principles Thinking Explained.md": {
       "hash": "8d46b5307a4290eb339e909ae56cf0bf",
       "ingested_at": "2026-06-02",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/chatgpt-batch-2026-06-02.md"]
+      "pages_updated": [
+        "wiki/sources/chatgpt-batch-2026-06-02.md"
+      ]
     },
     ".raw/PG 2030/20260504 EMAD COMMITTEE_SBTDWS_FG Review.pptx": {
       "hash": "0d303179b5ec0a2b5dde5d2e785fde87",
@@ -166,12 +230,18 @@
         "wiki/sbtdws/PG 2030 Force Design Concepts.md",
         "wiki/entities/Foxglove.md"
       ],
-      "pages_updated": ["wiki/sbtdws/SBTDWS 2030 Timeline.md", "wiki/sbtdws/Makhlab 1 Project.md"]
+      "pages_updated": [
+        "wiki/sbtdws/SBTDWS 2030 Timeline.md",
+        "wiki/sbtdws/Makhlab 1 Project.md"
+      ]
     },
     ".raw/PG 2030/J3 Template Example_Action Plans.jpg": {
       "hash": "b4b603618c385a12ece50c184bc2bc4d",
       "ingested_at": "2026-06-23",
-      "pages_created": ["wiki/sbtdws/J3 Action Plan Template.md", "wiki/entities/Falcons Brigade.md"],
+      "pages_created": [
+        "wiki/sbtdws/J3 Action Plan Template.md",
+        "wiki/entities/Falcons Brigade.md"
+      ],
       "pages_updated": [
         "wiki/sbtdws/SBTDWS Action Plan.md",
         "wiki/sbtdws/Makhlab 1 Project.md",
@@ -209,7 +279,9 @@
       "hash": "c9860895e74bcda5d456f62e9ae0c809",
       "ingested_at": "2026-07-28",
       "pages_created": [],
-      "pages_updated": ["wiki/sources/sbtdws-to-adwc-implementation-plan.md"],
+      "pages_updated": [
+        "wiki/sources/sbtdws-to-adwc-implementation-plan.md"
+      ],
       "note": "Companion slide to the .md working note above; verified by direct text extraction to match its §7 content (condensed). No separate wiki page — documented within the shared source summary and domain page."
     },
     ".raw/PG 2030/MDWC_Six_Domain_Study_VAULT_CONTEXT.md": {
@@ -313,6 +385,46 @@
         "wiki/log.md"
       ],
       "note": "3-page document (Readiness Flow diagram + ~60-item J7 Deliverables Register), briefed to J3 and ENDORSED 2026-08-05 — highest-authority PG 2030 artifact ingested to date. Makes SBT's readiness-pipeline role explicit. Flags D-05 as J7's own 'largest single risk' with a conflicting Q4-27 vs Q4-26 target date. Introduces HAMRA and OMD 25 (undefined). Confirms 'SBT' as a third abbreviation alias."
+    },
+    ".raw/PG 2030 New/Updated PG 2030 Framework_PG Comd Briefing Pack.pdf": {
+      "hash": "0dabc0479a82a2a12e53c72130b3e56b",
+      "ingested_at": "2026-08-08",
+      "pages_created": [
+        "wiki/sources/pg-2030-comd-briefing-pack.md",
+        "wiki/sbtdws/PG 2030 Warfighting Capability Pillars.md",
+        "wiki/sbtdws/PG 2030 Mission Response Categories (MRC).md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/PG 2030 Force Design Concepts.md",
+        "wiki/sbtdws/SBTDWS 2030 Timeline.md",
+        "wiki/sbtdws/ADWC Naming Analysis.md",
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/entities/Specialist Reserve Brigade (SRB).md",
+        "wiki/concepts/Programme MAKHLAB.md",
+        "wiki/concepts/PG 2030 Three Themes.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/PG 2030 New/2026-08-08 Decision Brief - Two COAs and Workstreams.md": {
+      "hash": "f89528bf1e7b18e6be464b45959513a1",
+      "ingested_at": "2026-08-08",
+      "pages_created": [
+        "wiki/sources/pg-2030-decision-brief-two-coas-workstreams.md",
+        "wiki/sbtdws/SBTDWS Core Focus — Decision Brief (Two COAs, Revised).md",
+        "wiki/sbtdws/PG 2030 Workstreams (2026-08-08).md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/SBTDWS Core Focus — COA Decision.md",
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/sbtdws/ADWC Naming Analysis.md",
+        "wiki/sbtdws/RFI to PG HQ.md",
+        "wiki/sbtdws/PGIC Concept.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -347,6 +459,14 @@
     "wiki/entities/NCTJC.md": "c-000031",
     "wiki/sbtdws/SBTDWS Core Focus — COA Decision.md": "c-000032",
     "wiki/sbtdws/PG 2030 Working Groups.md": "c-000033",
-    "wiki/sbtdws/J7 Readiness Flow and Deliverables Register.md": "c-000034"
+    "wiki/sbtdws/J7 Readiness Flow and Deliverables Register.md": "c-000034",
+    "wiki/sources/pg-2030-comd-briefing-pack.md": "c-000035",
+    "wiki/sbtdws/PG 2030 Warfighting Capability Pillars.md": "c-000036",
+    "wiki/sbtdws/PG 2030 Mission Response Categories (MRC).md": "c-000037",
+    "wiki/sources/pg-2030-decision-brief-two-coas-workstreams.md": "c-000038",
+    "wiki/sbtdws/SBTDWS Core Focus — Decision Brief (Two COAs, Revised).md": "c-000039",
+    "wiki/sbtdws/PG 2030 Workstreams (2026-08-08).md": "c-000040",
+    "wiki/entities/CDD (Capability Development Department).md": "c-000041",
+    "wiki/sbtdws/PG Innovation Governance Framework (Deep Dive).md": "c-000042"
   }
 }

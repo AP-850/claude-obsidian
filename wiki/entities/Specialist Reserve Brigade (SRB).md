@@ -5,7 +5,7 @@ address: c-000030
 aliases:
   - SRB
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - entity
   - pg-unit
@@ -17,12 +17,13 @@ related:
   - "[[Falcons Brigade]]"
   - "[[PG 2030 Force Design Concepts]]"
   - "[[sources/updated-pg-2030-tasks-aug-2026]]"
+  - "[[PG 2030 Mission Response Categories (MRC)]]"
   - "[[sbtdws/_index]]"
 ---
 
 # Specialist Reserve Brigade (SRB)
 
-Reserve component for PG Regular Brigades, held at readiness ("Wolf teams") to reinforce for Military Response Contingencies (MRC) 2 and 4. Pivoting toward a UxS National Resistance role.
+Reserve component for PG Regular Brigades, held at readiness ("Wolf teams") to reinforce for Mission Response Categories (MRC) 2 and 4 — **MRC 2 = Support to Civil Authorities in Crisis, MRC 4 = Homeland Defense** (see [[PG 2030 Mission Response Categories (MRC)]], confirmed 2026-08-08; the full acronym expansion itself remains unconfirmed). Pivoting toward a UxS National Resistance role.
 
 Navigation: [[entities/_index]] | [[sbtdws/_index]] | [[Programme MAKHLAB]] | [[PG 2030 Force Design Concepts]]
 
@@ -49,7 +50,7 @@ Navigation: [[entities/_index]] | [[sbtdws/_index]] | [[Programme MAKHLAB]] | [[
 
 1. Develop an SRB Concept of Use (CONUSE) to provide terms of reference moving forward
 2. **MAKHLAB 4** — develop and integrate AI-enabled Uncrewed Systems (UxS) for enhanced PG National Resistance capability
-   - A. Enhance the Brigade's ability to provide UxS support and reinforcement to [[Falcons Brigade]] for MRC 3
+   - A. Enhance the Brigade's ability to provide UxS support and reinforcement to [[Falcons Brigade]] for MRC 3 (= External Operations, see [[PG 2030 Mission Response Categories (MRC)]])
    - B. Develop capability for reservists to remotely operate UxS from the home base
 3. Identify and develop initiatives to capitalize on the civilian expertise of its Reservist personnel
 4. Sustain ability to deliver in-house training for the PG Reserve Cadre

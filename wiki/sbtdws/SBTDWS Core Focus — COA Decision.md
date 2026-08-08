@@ -3,24 +3,28 @@ type: reference
 title: "SBTDWS Core Focus — COA Decision"
 address: c-000032
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - sbtdws
   - pg2030
   - mdtc
   - decision-brief
   - primary-source
-status: draft
+status: superseded
 related:
   - "[[Commander Decisions Register]]"
   - "[[RFI to PG HQ]]"
   - "[[SBTDWS 2030 Timeline]]"
   - "[[ADWC Naming Analysis]]"
   - "[[PG 2030 Directive]]"
+  - "[[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]"
   - "[[sbtdws/_index]]"
 ---
 
 # SBTDWS Core Focus — Course Portfolio Decision
+
+> [!contradiction] SUPERSEDED 2026-08-08 — see [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]
+> A follow-up session on 2026-08-08 collapsed this brief's three COAs to two and rewrote the decision framing entirely (from "does the course programme remain the main output" to "authority to transition, plus extent of change"). **The COA numbering is reused with a different, in places inverted, meaning** — the original COA 1 "Retain and Add" below (closest thing to status quo) is NOT the same as the new COA 1 "Full Transition" (desert warfare role ends by Q4 30). Retained here for the historical record only. Do not plan against this version; use the revised page.
 
 A one-page Course of Action (COA) decision brief, produced as a **J3/J7 combined meeting follow-up** (DRAFT). It asks PG Comd to decide whether SBTDWS's current desert warfare course programme remains the main output as the Multi Domain Training Centre (MDTC) is developed, or whether MDTC becomes the main output with the course programme reduced to an agreed core.
 

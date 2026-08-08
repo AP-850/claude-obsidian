@@ -3,7 +3,7 @@ type: concept
 title: "PG 2030 Force Design Concepts"
 address: c-000004
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-08
 tags:
   - sbtdws
   - pg-2030
@@ -18,6 +18,8 @@ related:
   - "[[Makhlab 1 Project]]"
   - "[[UxS CAPDEV Portfolio]]"
   - "[[Falcons Brigade]]"
+  - "[[PG 2030 Warfighting Capability Pillars]]"
+  - "[[sources/pg-2030-comd-briefing-pack]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -29,6 +31,26 @@ Navigation: [[sbtdws/_index]] | [[ADWC FIC Analysis]] | [[Foxglove]]
 
 > [!gap] Partial capture
 > Only two of the parent document's ~68 pages were captured (pages 57–58, labelled Figure 2 and "2. Unit Tactical Concepts"). Force Design Concepts 5 and 13 are referenced nowhere in the captured material — their titles are unknown. If the full Foxglove document becomes available, re-ingest to complete the concept list and confirm SBTDWS's exact position (row 17, "SBTDWS") relative to the other 19 units/branches.
+>
+> **Resolved 2026-08-08:** [[sources/pg-2030-comd-briefing-pack]] gives the full, closed FDC list — **12 concepts total, numbered 1–12, no FDC 13.** FDC 5 is **"Tactical Experimentation."** See the confirmed list below and [[PG 2030 Warfighting Capability Pillars]] for the full pillar-mapping this source adds. The 19-units/branches question (SBTDWS's exact row position) remains unresolved — this source doesn't carry a unit list.
+
+> [!key-insight] Confirmed full FDC list (2026-08-08)
+> | # | Concept | Group |
+> |---|---------|-------|
+> | 1 | PG Component Concept, Unifying Doctrine & C2 | PG-Specific |
+> | 2 | Unit Tactical Concepts | PG-Specific |
+> | 3 | Digital Spine | PG-Specific |
+> | 4 | Industry & Academia R&D Hub | PG-Specific |
+> | 5 | Tactical Experimentation | PG-Specific |
+> | 6 | Integration | Joint/Integration |
+> | 7 | Multi-Domain Targeting | Joint/Integration |
+> | 8 | UxS & Lethality (MAKHLAB) | Joint/Integration |
+> | 9 | J2 Special Intelligence | Joint/Integration |
+> | 10 | J3 Readiness, Integrated, J4 & JTF | Joint/Integration |
+> | 11 | Force Generation & Training | Joint/Integration |
+> | 12 | PG Personnel | Joint/Integration |
+>
+> Matches the partial list below 1:1 on every concept both sources share (1–4, 6–12); the only addition is FDC 5. Source: [[sources/pg-2030-comd-briefing-pack]] page 2.
 
 ---
 

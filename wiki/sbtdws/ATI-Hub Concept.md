@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ATI-Hub Concept"
-updated: 2026-05-26
+updated: 2026-08-08
 tags:
   - sbtdws
   - ati-hub
@@ -9,12 +9,13 @@ tags:
   - uxs
   - fpv
   - capdev
-status: active
+status: proposed-unendorsed
 related:
   - "[[PGIC Concept]]"
   - "[[SBTDWS CAPDEV Projects]]"
   - "[[Three Development Thematics]]"
   - "[[Rapid Innovation FPV Pilot]]"
+  - "[[PG Innovation Governance Framework (Deep Dive)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -23,6 +24,9 @@ related:
 The ATI-Hub is a dedicated, commander-led innovation and emerging-technology capability for the Desert Warfare School (DWS). It accelerates the development, testing, and fielding of operationally relevant systems, combining rapid prototyping, tactical evaluation, FPV/UxS capability generation, and accelerated fielding pathways.
 
 Navigation: [[sbtdws/_index]] | [[PGIC Concept]] | [[SBTDWS CAPDEV Projects]]
+
+> [!contradiction] Pre-dates Paper 2 — not endorsed within it or any subsequent PG 2030 planning document (confirmed 2026-08-08)
+> Per the user directly: this concept was developed **before** "Paper 2" (the current PG 2030 planning baseline, see [[Commander Decisions Register]] and [[SBTDWS 2030 Timeline]] Phase 1) existed, and has not been endorsed within Paper 2. Do not present the ATI-Hub's governance structure ("Innovation Command" reporting to the DWS Commander, three wings, off-camp facility, etc.) as an established or semi-established part of PG's innovation architecture — it is an SBTDWS-originated proposal, unendorsed, and its own governance framing (SBTDWS-owned, DWS-Commander-reporting) directly conflicts with [[PGIC Concept]]'s later, PG-HQ-facing framing (enterprise-level, under PGC). See [[PG Innovation Governance Framework (Deep Dive)]] for the full analysis prepared ahead of the 2026-08-08 (week of) Monday meeting on PG innovation governance. The manufacturing/prototyping element of this concept may still be worth raising — framed explicitly as an unresolved idea SBTDWS has had, potentially incorporated into [[TEIW Standing Charter|TEIW]], not as existing architecture.
 
 ---
 

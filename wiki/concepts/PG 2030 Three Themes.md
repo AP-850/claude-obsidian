@@ -2,7 +2,7 @@
 type: concept
 title: "PG 2030 Three Themes"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-08
 tags:
   - pg2030
   - sbtdws
@@ -13,6 +13,7 @@ related:
   - "[[PG 2030 Directive]]"
   - "[[ADWC Transformation Concept]]"
   - "[[SBTDWS 2030 Timeline]]"
+  - "[[sources/pg-2030-comd-briefing-pack]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -74,6 +75,10 @@ Readiness must be continuous and digitally enabled. The PG must:
 
 ---
 
+> [!key-insight] Confirmed verbatim in the PG 2030 Comd Briefing Pack Vision (2026-08-08)
+> [[sources/pg-2030-comd-briefing-pack]] page 1 ("Vision") uses this exact three-theme language as the closing line of the PG's formal vision statement: "we will forge a force structured to be **adaptive** by nature, **innovative** by design, backed by modern technology, and **constantly ready** to deliver Strategic and Operational success." This confirms the three themes are PG-wide formal vision language, not an SBTDWS-side paraphrase or interpretation.
+
 ## Source
 
 Ingested from: [[chatgpt-batch-2026-06-02]] | `.raw/SBTDWS_PG2030_ADWC_Chat_Export.md`
+Verbatim confirmation: [[sources/pg-2030-comd-briefing-pack]] | `.raw/PG 2030 New/Updated PG 2030 Framework_PG Comd Briefing Pack.pdf` (page 1)

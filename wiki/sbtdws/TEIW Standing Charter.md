@@ -2,7 +2,7 @@
 type: concept
 title: "TEIW Standing Charter"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-08-08
 tags:
   - sbtdws
   - adwc
@@ -18,6 +18,7 @@ related:
   - "[[Capability Gap Experimentation Platform]]"
   - "[[CTVMR Wing]]"
   - "[[ATI-Hub Concept]]"
+  - "[[PG Innovation Governance Framework (Deep Dive)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -246,6 +247,12 @@ This charter is reviewed at each quarterly FDC 5 cycle. Amendment requires Comma
 **The charter narrows over time, not widens.** As ATI-Hub and PGIC are established, Tier 2 functions are handed off. TEIW becomes a leaner, faster, better-defined function — not a growing one.
 
 First review: Q4 2026 (following Makhlab 1 sprint completion).
+
+---
+
+## Open Idea — Manufacturing/Prototyping Element (2026-08-08, not yet decided)
+
+The [[ATI-Hub Concept]]'s manufacturing-facility element (fabrication labs, prototype assembly) pre-dates Paper 2 and is unendorsed — but per the user, SBTDWS may want to raise it at the Monday PG innovation-governance meeting as an idea worth incorporating into TEIW specifically, rather than as a standalone unendorsed structure. Framed as "this is an idea we've had," not a decision or an existing capability. See [[PG Innovation Governance Framework (Deep Dive)]] for the full context.
 
 ---
 

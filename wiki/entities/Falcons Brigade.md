@@ -3,7 +3,7 @@ type: entity
 title: "Falcons Brigade"
 address: c-000007
 created: 2026-06-23
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - entity
   - pg-unit
@@ -20,6 +20,7 @@ related:
   - "[[PGI]]"
   - "[[sources/updated-pg-2030-tasks-aug-2026]]"
   - "[[PG 2030 Working Groups]]"
+  - "[[PG Innovation Governance Framework (Deep Dive)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -94,6 +95,9 @@ Falcons Brigade is the natural partner unit for SBTDWS's first tactical experime
 ## MAKHLAB coordination Working Group lead (2026-08-05)
 
 [[PG 2030 Working Groups]] names Falcons Brigade as Task Lead for WG5 — "Coordination, Synchronisation, and Maximisation of the PG MAKHLAB Program" — with members from J1, J2, J3, J6, J7, Al Forsan, HBE, SOC, PSG, and SBTDWS. This makes Falcons Brigade the cross-unit coordinating authority for the *entire* [[Programme MAKHLAB]] family (serials 1/2/3/4/8), not just its own MAKHLAB 1 serial — helping explain why Falcons Brigade's MAKHLAB tasking reads so broadly elsewhere in the task register.
+
+> [!note] Why Falcons Brigade specifically is at the Monday innovation-governance meeting (confirmed 2026-08-08)
+> Per the user directly: Falcons Brigade's invitation to the Monday meeting on PG innovation governance ([[PG 2030 Workstreams (2026-08-08)]] Workstream 2) is **because they are the only unit that has actually started its MAKHLAB project** — not because WG5 coordination confers any general innovation-governance mandate. Every other unit has its own MAKHLAB responsibility (2/3/4/8, see [[Programme MAKHLAB]]), and innovation is intended to happen across all of them. Do not read Falcons Brigade's presence at that meeting as a claim to broader authority beyond WG5's MAKHLAB-specific scope. See [[PG Innovation Governance Framework (Deep Dive)]] for the full analysis.
 
 ---
 

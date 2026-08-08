@@ -3,7 +3,7 @@ type: rfi
 title: "RFI to PG HQ"
 address: c-000023
 created: 2026-07-28
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - sbtdws
   - adwc
@@ -21,6 +21,7 @@ related:
   - "[[SBTDWS Barriers and Blockers]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
   - "[[J7 Readiness Flow and Deliverables Register]]"
+  - "[[sources/pg-2030-decision-brief-two-coas-workstreams]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -72,6 +73,9 @@ Navigation: [[sbtdws/_index]] | [[Commander Decisions Register]] | [[MDWC Six-Do
 **Priority:** P1 — cheap to answer, high cost of continued ambiguity.
 
 **Source:** [[ADWC Naming Analysis]], [[Commander Decisions Register]] D-10, [[MDWC Six-Domain Study]]
+
+> [!key-insight] RFI-1 self-referenced again, still open (2026-08-08)
+> [[sources/pg-2030-decision-brief-two-coas-workstreams]] explicitly names "RFI-1" as the still-open item covering naming/heritage/decree, mirroring the same pattern seen on [[SBTDWS Core Focus — COA Decision]] on 2026-08-05. Second independent confirmation that this RFI item is being actively tracked and cited by name in working sessions, not just held by the advisor — but still unanswered.
 
 ### RFI-2 — Domain scope: maritime, cyber, space, EMS
 

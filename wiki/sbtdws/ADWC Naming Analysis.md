@@ -2,7 +2,7 @@
 type: analysis
 title: "ADWC Naming Analysis"
 created: 2026-06-02
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - sbtdws
   - adwc
@@ -18,6 +18,8 @@ related:
   - "[[sources/updated-pg-2030-tasks-aug-2026]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
   - "[[RFI to PG HQ]]"
+  - "[[sources/pg-2030-comd-briefing-pack]]"
+  - "[[sources/pg-2030-decision-brief-two-coas-workstreams]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -107,7 +109,15 @@ This analysis was developed but no formal naming decision has been recorded. The
 
 ---
 
+> [!key-insight] MDTC now used at PG-wide, PG Comd-facing level too — still not a D-10 resolution (2026-08-08)
+> [[sources/pg-2030-comd-briefing-pack]] — a PG-wide (not SBTDWS-authored) briefing pack — labels IOC/FOC milestones on its Phase 2/3 timeline "**Multi-Domain Training Center** IOC" and "**Multi-Domain Training Center** FOC." This is the first sighting of the MDTC label in a document that isn't SBTDWS's own product, extending the corroboration beyond the Aug 2026 task register. The document is silent on ADWC/MDWC by name and does not address the naming question directly — D-10 remains PENDING. See [[SBTDWS 2030 Timeline]] for the full PG-wide timeline this is drawn from.
+
+> [!key-insight] MDTC used "per direction" in a live working session — still explicitly flagged as unresolved (2026-08-08)
+> [[sources/pg-2030-decision-brief-two-coas-workstreams]] — a follow-up session after the combined J3/J7 meeting — states plainly: "This session used MDTC (Multi Domain Training Centre) throughout, per direction. Prior sessions have also used ADWC and MDWC. This is still not settled and is already flagged in RFI-1 — needs resolving before the brief and implementation plan are issued as final documents." This is the strongest naming signal yet (an explicit direction to use MDTC in a live working session, not just a document label) but the source itself is explicit that it is not a resolution. See [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] and [[Commander Decisions Register]] D-10, still PENDING.
+
 ## Source
 
 Ingested from: [[chatgpt-batch-2026-06-02]] | `.raw/SBTDWS_PG2030_ADWC_Chat_Export.md`
 Naming update: [[sources/updated-pg-2030-tasks-aug-2026]] | `.raw/PG 2030 New/Updated PG 2030 Tasks_Aug 2026.pdf`
+MDTC corroboration: [[sources/pg-2030-comd-briefing-pack]] | `.raw/PG 2030 New/Updated PG 2030 Framework_PG Comd Briefing Pack.pdf`
+MDTC "per direction" note: [[sources/pg-2030-decision-brief-two-coas-workstreams]] | `.raw/PG 2030 New/2026-08-08 Decision Brief - Two COAs and Workstreams.md`

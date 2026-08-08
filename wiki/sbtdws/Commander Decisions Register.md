@@ -2,7 +2,7 @@
 type: reference
 title: "Commander Decisions Register"
 created: 2026-06-02
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - sbtdws
   - adwc
@@ -22,7 +22,10 @@ related:
   - "[[MDWC Six-Domain Study]]"
   - "[[RFI to PG HQ]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
+  - "[[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]"
   - "[[J7 Readiness Flow and Deliverables Register]]"
+  - "[[sources/pg-2030-comd-briefing-pack]]"
+  - "[[PG 2030 Workstreams (2026-08-08)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -316,6 +319,9 @@ ADWC label is used by default. Expectation gap grows as partners and units expec
 > [!note] A PG Comd brief has now arrived — but it explicitly defers D-10 rather than resolving it (2026-08-05, later same day)
 > [[SBTDWS Core Focus — COA Decision]] is the first PG Comd-facing brief actually ingested. It confirms MDTC spelling ("Multi Domain Training Centre") and treats it as an established fact, but explicitly states the institutional name/heritage/decree question is "already raised as RFI-1" and **not part of this decision** — i.e. this brief deliberately keeps D-10 (naming) and D-12 (course portfolio COA, newly added below) as two separate threads. D-10 itself is still PENDING; the actual naming-decision brief referenced here has not yet been ingested.
 
+> [!note] A second PG Comd document ingested — also not the naming brief (2026-08-08)
+> [[sources/pg-2030-comd-briefing-pack]] is PG Comd-facing and titled a "Briefing Pack," raising the question of whether it is the naming-decision brief referenced above. It is not — its three pages (Vision, Transformation Logic, Timeline) contain no ADWC/MDWC/MDTC discussion at all. It does, however, use "Multi-Domain Training Center" as an explicit IOC/FOC milestone label on its PG-wide timeline (see [[ADWC Naming Analysis]]), a further data point that MDTC has propagated into PG-wide products beyond SBTDWS's own. D-10 remains PENDING; the actual naming-decision brief has still not been ingested.
+
 **Source:** [[ADWC Naming Analysis]]; [[ADWC FIC Analysis]] Key Issue 2; [[MDWC Six-Domain Study]] (2026-07-28); [[sources/updated-pg-2030-tasks-aug-2026]] (2026-08-05)
 
 ---
@@ -345,29 +351,35 @@ TEIW experiments are conducted informally. Outputs are not transferred to units.
 
 ---
 
-### D-12: SBTDWS Core Focus — Course Portfolio Decision
+### D-12: SBTDWS Core Focus — Course Portfolio / Transition Decision
 **Decision owner:** PG Comd (per the source document — the first item in this register naming PG Comd specifically, rather than the generic "PG HQ")
 **Status:** PENDING
-**Required by:** COA 1 needs manpower/budget uplift approved before Q4 26; COA 3 needs standing review authority in place by MLOC Q4 27
+**Required by:** Q4 26 for run-down schedule (COA 1) or protected-core split and reduction criteria (COA 2); COA 2 additionally needs standing review authority in place by MLOC Q4 27
 
-**What must be decided:**
-As SBTDWS develops the Multi Domain Training Centre (MDTC), does the current desert warfare course programme remain the main output, or does the MDTC become the main output with the course programme reduced to an agreed core? Three COAs on the table — see [[SBTDWS Core Focus — COA Decision]] for full detail:
-- **COA 1 — Retain and Add:** keep full course programme, build MDTC alongside it. Needs full manpower/budget uplift before Q4 26.
-- **COA 2 — Progressive Pivot:** MDTC becomes main output over time; course programme reduced to a core, remainder stopped or handed off. May require cover under the founding decree.
-- **COA 3 — Hybrid** *(assessed most likely outcome)*: permanent core kept, remainder reduced step by step at each gate (MLOC Q4 27 / IOC Q4 28 / FOC Q4 30). Needs standing review-and-adjust authority at each gate.
+> [!contradiction] Revised to two COAs, 2026-08-08 — read the current version, not the original
+> A follow-up session collapsed the original three COAs to two and rewrote the decision framing. **Both COAs now require change — the status quo is no longer offered.** The original COA numbering is reused with a different meaning (old COA 1 "Retain and Add" ≈ status quo; new COA 1 "Full Transition" = the most disruptive option, desert warfare role ends by Q4 30). Current authoritative version: [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]. Original, superseded version kept for the record: [[SBTDWS Core Focus — COA Decision]].
+
+**What must be decided (current framing):**
+Authority is sought to transition SBTDWS to the MDTC. The decision required is the extent of that change:
+- **COA 1 — Full Transition:** MDTC becomes the sole output; the desert warfare school role is run down on a planned schedule and **ceases by FOC Q4 30**. No core retained. Smallest manpower uplift of the two, but total loss of the desert warfare role.
+- **COA 2 — Phased Transition with a Protected Core:** MDTC becomes the main output over the plan period; a defined desert warfare core is agreed once and **kept permanently**; everything outside that core is reduced, stopped, or handed off in steps at the gates (MLOC Q4 27 / IOC Q4 28 / FOC Q4 30). Smaller, phased manpower uplift.
 
 **What it gates:**
-- Whether the Phase 1 structural reorganisation plan (D-01) is designed around retained scope (COA 1) or a phased handover (COA 2/3)
+- Whether the Phase 1 structural reorganisation plan (D-01) is designed around a full run-down (COA 1) or a protected-core phased handover (COA 2)
 - The manpower and budget bid SBTDWS submits for Q4 26
 - Which PG units continue receiving which courses, and from whom, during the transition
+- Whether a named organisation must be identified to receive the desert warfare role or any handed-off courses
 
 **What happens if not decided:**
-SBTDWS cannot finalise its structural reorganisation plan or manpower/budget bid — both currently depend on knowing which COA applies. Risk of drifting into a de facto COA 1 (retain everything) by default, which the brief itself flags as unachievable without a full uplift.
+SBTDWS cannot finalise its structural reorganisation plan or manpower/budget bid — both depend on knowing which COA applies. Unlike the original three-COA version, there is no default "retain everything" fallback risk here — both current options require change, so indecision blocks planning entirely rather than risking a de facto status-quo drift.
 
 > [!key-insight] This is arguably the most foundational open decision in the register
-> Every other Tier decision (D-01 three-wing design, D-07 J-Staff model, D-08 Hameem, D-09 CAPDEV/PGIC) implicitly assumes some answer to "how big is SBTDWS's remit." This decision makes that assumption explicit and forces a resourcing choice, not just a conceptual or naming one. Placed in Tier 2 here because the decision owner is PG Comd/PG HQ, not O6 CoC alone — but its Q4 26 COA 1 deadline is as urgent as anything in Tier 1.
+> Every other Tier decision (D-01 three-wing design, D-07 J-Staff model, D-08 Hameem, D-09 CAPDEV/PGIC) implicitly assumes some answer to "how big is SBTDWS's remit." This decision makes that assumption explicit and forces a resourcing choice, not just a conceptual or naming one. Placed in Tier 2 here because the decision owner is PG Comd/PG HQ, not O6 CoC alone — but its Q4 26 deadline is as urgent as anything in Tier 1.
 
-**Source:** [[SBTDWS Core Focus — COA Decision]] (2026-08-05, J3/J7 combined meeting follow-up)
+> [!note] Feeds directly into [[PG 2030 Workstreams (2026-08-08)]]
+> Workstreams 1 (OOB/staffing analysis) and 4 (Task 1 deep dive) are both explicitly scoped to build once against this decision and run both COAs as overlays, rather than as separate exercises.
+
+**Source:** [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] (2026-08-08, current); [[SBTDWS Core Focus — COA Decision]] (2026-08-05, superseded original)
 
 ---
 
@@ -386,7 +398,7 @@ SBTDWS cannot finalise its structural reorganisation plan or manpower/budget bid
 | D-09 | CAPDEV → PGIC transition | PG HQ | 3 | PENDING | TEIW scope, PGIC standup |
 | D-10 | Naming decision | PG HQ | 3 | PENDING | Structural announcement |
 | D-11 | J3 WDC experimentation governance | J3 / O6 CoC | 3 | PENDING | TEIW experiments |
-| D-12 | Core Focus — course portfolio COA | PG Comd | 2 | PENDING | Structural plan, manpower/budget bid |
+| D-12 | Core Focus — transition COA (revised, two options) | PG Comd | 2 | PENDING | Structural plan, manpower/budget bid |
 
 ---
 
@@ -418,6 +430,8 @@ Everything else requires PG HQ or Higher HQ, and SBTDWS must surface these throu
 | v1.0 | 2026-06-02 | Initial — consolidated from O6 Command Brief, FIC Analysis, SAG 9/10, Naming Analysis, transformation workstream |
 | v1.1 | 2026-08-05 | Added D-12 (Core Focus — course portfolio COA), sourced from [[SBTDWS Core Focus — COA Decision]] |
 | v1.2 | 2026-08-05 | D-02/D-05/D-06/D-08 given concrete instrument references, approval chains, and target dates from the J3-endorsed [[J7 Readiness Flow and Deliverables Register]]; D-05 target date discrepancy (Q4-26 vs Q4-27) flagged, not yet reconciled |
+| v1.3 | 2026-08-08 | D-10 note added: [[sources/pg-2030-comd-briefing-pack]] ingested — confirmed not the naming-decision brief, but adds a PG-wide MDTC corroboration data point |
+| v1.4 | 2026-08-08 | D-12 revised: three-COA original ([[SBTDWS Core Focus — COA Decision]]) superseded by a two-COA version ([[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]) with a materially different decision framing; COA numbering reused with inverted meaning, flagged inline |
 
 ---
 

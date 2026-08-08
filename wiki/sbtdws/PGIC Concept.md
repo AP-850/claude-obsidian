@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PGIC Concept"
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - sbtdws
   - pgic
@@ -14,6 +14,7 @@ related:
   - "[[SBTDWS Key Relationships]]"
   - "[[Programme MAKHLAB]]"
   - "[[sources/updated-pg-2030-tasks-aug-2026]]"
+  - "[[PG 2030 Workstreams (2026-08-08)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -139,6 +140,9 @@ PGIC is the long-term home for the CAPDEV Cell's portfolio. However, timing matt
 This confirms the RIC is physically sited at SBTDWS, confirms the SBTDWS capability development cell as the direct integration target, and adds two details new to the wiki: a named "Develop-Operate-Iterate" cycle (possibly a shorthand for this page's existing "Ideation → rapid prototyping → tactical evaluation → transition gate → organic pilot production → handover" pipeline — not confirmed as the same thing) and a dedicated AI training-data capture facility.
 
 See [[Programme MAKHLAB]] for how Innovation Command relates to the numbered MAKHLAB serials (it appears to be the enterprise governance layer above them, not itself a MAKHLAB owner).
+
+> [!note] Active workstream, fixed deadline (2026-08-08)
+> [[PG 2030 Workstreams (2026-08-08)]] Workstream 2 is conceptual work on how PGIC will function and how SBTDWS's FDC 5 tactical experimentation work plugs into it, including early thinking on potential leadership. It has a fixed external deadline — feeds directly into a Monday meeting — making it the highest near-term priority of the four workstreams logged that session. See [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] for the session this was raised in (LOE 2 — tactical experimentation and innovation).
 
 ---
 

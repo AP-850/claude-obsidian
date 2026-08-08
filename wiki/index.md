@@ -104,6 +104,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Presidential Special Guard (PSG)]] — VVIP/critical infrastructure protection; SAGs 4/5/21; MAKHLAB 3; confirmed same entity as "SG" (status: active)
 - [[Specialist Reserve Brigade (SRB)]] — Reserve component; UxS National Resistance pivot; MAKHLAB 4; MRC 3 reinforcement to Falcons Bde (status: active)
 - [[NCTJC]] — National Counter Terrorism Joint Command HQ; 24/7/365 PG C2 + Multi-Domain Targeting; likely renamed successor to "PG J3/NCTC/HQ" (status: active)
+- [[CDD (Capability Development Department)]] — J8, PG's standing capability-development authority; absorbed the former S&T Center; unnamed in any PG 2030 document until 2026-08-08 (status: active)
 
 ---
 
@@ -184,9 +185,14 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Force Generation Pipeline WG — J7 Pre-Read]] — command-safe companion pre-read for external circulation to J7 ahead of the same WG (status: draft)
 - [[sources/updated-pg-2030-tasks-aug-2026]] — PG-HQ-wide task register: J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units; reveals numbered MAKHLAB family, third naming candidate, formal PGIC handoff task (status: ingested)
 - [[Programme MAKHLAB]] — numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; SBTDWS retains FDC 5, Innovation Cmd support model pending decision week of 2026-08-11 (status: active)
-- [[SBTDWS Core Focus — COA Decision]] — J3/J7 combined meeting follow-up; 3 COAs for SBTDWS's course-portfolio scope as MDTC develops; confirms MDTC spelling; new Commander Decisions Register item D-12 (status: draft)
+- [[SBTDWS Core Focus — COA Decision]] — J3/J7 combined meeting follow-up; original 3-COA course-portfolio brief; confirms MDTC spelling; superseded 2026-08-08 by [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] (status: superseded)
 - [[PG 2030 Working Groups]] — 8 formal WGs (task/endstate/members); Falcons Bde leads cross-unit MAKHLAB coordination; J7-led Warfare Development Center WG raises a build-vs-run question against J3 WDC (status: draft-suggested)
 - [[J7 Readiness Flow and Deliverables Register]] — endorsed 2026-08-05; Readiness Flow (8 stages, 8 gaps) + ~60-item J7 Deliverables Register; SBT's role made explicit; D-05 flagged "largest single risk" (status: endorsed)
+- [[PG 2030 Warfighting Capability Pillars]] — PG-wide logic chain: 12 FDCs → 6 Warfighting Capability Pillars → 21 SAG Mission Sets → MRC readiness benchmark → End State; resolves the FDC 5 gap (status: active)
+- [[PG 2030 Mission Response Categories (MRC)]] — MRC 1-4 defined for the first time (Counter Terrorism, Support to Civil Authorities in Crisis, External Operations, Homeland Defense) (status: active)
+- [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] — current D-12 decision: 3 COAs collapsed to 2, status quo no longer an option; full transition vs. protected core by Q4 30 (status: draft)
+- [[PG 2030 Workstreams (2026-08-08)]] — active work queue: OOB/staffing analysis, Innovation Command/FDC 5 linkage (Monday deadline), WG gap analysis, Task 1 deep dive (status: active)
+- [[PG Innovation Governance Framework (Deep Dive)]] — owner-agnostic innovation flow framework, 3-way "who leads" reframe, red team, CDD/J3/new-entity COAs; prepared for the Monday PG innovation-governance meeting (status: active)
 
 ## EXCON Pro — Expert Feedback Programme
 
@@ -212,6 +218,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[SBTDWS Core Focus — COA Decision]] — 2026-08-05 | J3/J7 combined meeting follow-up, 1-page COA brief | 1 wiki page created, 6 updated
 - [[PG 2030 Working Groups]] — 2026-08-05 | 4-page bilingual WG structure brief, "suggested from J3 advisor" | 1 wiki page created, 6 updated
 - [[J7 Readiness Flow and Deliverables Register]] — 2026-08-05 | 3-page endorsed brief, briefed to J3 today | 1 wiki page created, 7 updated
+- [[sources/pg-2030-comd-briefing-pack]] — 2026-08-08 | 3-page PG-wide Comd briefing pack (Vision/Logic/Timeline) | 3 wiki pages created, 8 updated
+- [[sources/pg-2030-decision-brief-two-coas-workstreams]] — 2026-08-08 | J3/J7 follow-up session note: revised 2-COA decision brief + 4 workstreams | 3 wiki pages created, 6 updated
 
 ## TACTIX — Exercise Control Application
 

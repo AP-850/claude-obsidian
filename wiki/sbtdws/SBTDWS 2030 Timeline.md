@@ -1,7 +1,7 @@
 ---
 type: reference
 title: "SBTDWS 2030 Timeline"
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - sbtdws
   - adwc
@@ -17,6 +17,7 @@ related:
   - "[[sources/sbtdws-emad-fg-review-2026-05-04]]"
   - "[[ADWC Implementation Plan (5-LOE Slide)]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
+  - "[[sources/pg-2030-comd-briefing-pack]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -144,8 +145,34 @@ The [[SBTDWS PM Framework]] tracks all milestones across 6 Lines of Effort (LOEs
 
 ---
 
+---
+
+## PG-wide Framework Timeline (2026-08-08)
+
+[[sources/pg-2030-comd-briefing-pack]] gives a PG-wide (not SBTDWS-specific) 3-phase, year-banded timeline covering the whole PG 2030 programme. It uses a different phase-naming scheme than SBTDWS's own PREP/Phase 1/2/3 structure above, but the gate dates line up closely.
+
+| PG-wide Phase | Period | Gate | Compares to (this page) |
+|---|---|---|---|
+| Phase 1 — Analyze, Review & Decide | 2026–2027 | — | ≈ PREP + Phase 1 (MLOC) |
+| Phase 2 — Experiment & Adjust | 2027–2028 | IOC *(to be defined in detail)* | ≈ Phase 2 (IOC, Q4 28 working date) |
+| Phase 3 — Optimization & Execution | 2029–2030 | FOC *(to be defined in detail)* | ≈ Phase 3 (FOC, Q4 30 working date) |
+
+**Phase 1 — Analyze, Review & Decide.** Starts: issuance of "Paper 2." Key task: PG COMD approval on transformation plans. Ends: approval of Staff Directorates and Unit Transformation Plans. COMPLETE: mission analysis/assessment, initial guidance (Paper 2), staff and unit plans through 2030. IN PROGRESS: identification of gaps/requirements to support Force Design Concepts (enablers), MOD digital communications architecture, PG Digital Spine nesting, briefing PG Commander for guidance. NEXT ACTIONS: incorporate adjustments and receive approval, approve L-V-C simulations plan, scope PG Muwazana adjustments, PG/Brigade C2 plans, Falcon Bde adjustments, scope the Multi-Domain Training Center plan (incl. R&D), scope/design MAKHLAB programs, scope the Manufacturing and Innovation Hub.
+
+**Phase 2 — Experiment & Adjust (IOC).** Starts: approval of Staff and Unit Transformation Plans. Key task: Units IOC on SAGs. Ends: PG at Initial Operating Capability (IOC), to be defined in detail. Milestones: Units IOC on MAKHLAB Projects; PG and Brigade C2 Capability IOC, training and SOPs complete; J6 Digital Spine IOC; AI experimentation/testing; J7 Mission Readiness Exercise (MRX) plan complete; Falcons Bde transformation continues; **Multi-Domain Training Center IOC**; Manufacturing and Innovation Hub IOC; Joint Fires–ISTAR School IOC; Multi-Domain Targeting Cell IOC; logistics/sustainment readiness at IOC.
+
+**Phase 3 — Optimization & Execution (FOC).** Starts: PG at IOC. Key task: Units FOC on SAGs. Ends: PG at Final Operating Capability (FOC), to be defined in detail. Milestones: MAKHLAB Projects FOC and in sustainment phase; PG and Brigade C2 Capability FOC; Multi-Domain Targeting Cell FOC; AI integration into C2/apps/operations; J6 Digital Spine FOC; Manufacturing and Innovation Hub FOC; **Multi-Domain Training Center FOC**; Joint Fires–ISTAR School FOC; logistics/sustainment readiness.
+
+> [!key-insight] "Multi-Domain Training Center" now appears as a PG-wide milestone label, not just an SBTDWS task heading
+> [[ADWC Naming Analysis]] tracked "Multi-Domain Training Center" (MDTC) as a name candidate first seen in SBTDWS's own Aug 2026 task register. This PG Comd-facing briefing pack uses the same label as an explicit IOC/FOC milestone name at the PG-wide programme level — a data point that MDTC terminology has propagated beyond SBTDWS's own documents, though [[Commander Decisions Register]] D-10 (the formal naming decision) remains PENDING; this document does not address naming directly. See [[ADWC Naming Analysis]] for the full corroboration note.
+
+> [!gap] Lower-confidence transcription on milestone-list assignment
+> The phase gate structure (Starts/Ends/Key Tasks, dates, IOC/FOC labels) is high-confidence. The longer milestone bullet lists under each phase are transcribed from a dense, rotated CamScanner page and cross-checked across two independent reads of the source image — consistent both times — but a small number of lines (e.g. "logistics/sustainment readiness at IOC" appearing to repeat under both Phase 2 and Phase 3) may reflect an OCR misread of "at FOC" in the Phase 3 instance rather than a genuine repeat. Not treated as a substantive conflict; flagged for correction if the source is re-read at higher resolution.
+
 ## Source
 
 Ingested from: [[sbtdws-chatgpt-transfer]] | `.raw/Review SBTDWS context and development.md`, `.raw/SBTDWS Historical Context and Future Development.md`
 
 Confirmed and supplemented (Contractor HOTO milestone) by the earlier-dated [[sources/sbtdws-emad-fg-review-2026-05-04]] (2026-05-04), which framed the same roadmap as 4 LOEs (Foundations/Structure/Validate & Raise/Experiment & Rehearse) against a year-by-stage band rather than the PREP/Phase 1/2/3 by-quarter structure used above. No conflicting dates found — the LOE/year view is the earlier framing; this page's Phase/quarter structure supersedes it for working-level planning.
+
+PG-wide framework timeline (2026-08-08): [[sources/pg-2030-comd-briefing-pack]] | `.raw/PG 2030 New/Updated PG 2030 Framework_PG Comd Briefing Pack.pdf` (page 3)

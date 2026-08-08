@@ -13,6 +13,27 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-08] deep-dive | PG Innovation Governance Framework (Workstream 2)
+- Source: user conversation, not a document ingest — Workstream 2 deep dive ahead of the Monday PG innovation-governance meeting
+- Summary: [[PG Innovation Governance Framework (Deep Dive)]]
+- Pages created: [[PG Innovation Governance Framework (Deep Dive)]], [[CDD (Capability Development Department)]]
+- Pages updated: [[ATI-Hub Concept]] (marked proposed-unendorsed, pre-dates Paper 2), [[Falcons Brigade]] (clarified Monday-meeting rationale), [[TEIW Standing Charter]] (manufacturing-facility idea flagged), [[PG 2030 Workstreams (2026-08-08)]], [[index]]
+- Key insight: built an owner-agnostic innovation-flow framework (individual/unit idea → intake → Tier 1 experiment → Tier 2 gate → scale → institutionalisation) and reframed "who leads innovation" as three separable questions (portfolio governance / execution / sponsorship) rather than one. User corrections: ATI-Hub pre-dates and is unendorsed by Paper 2 (do not present as existing architecture); Falcons Brigade is at Monday's meeting only because they're furthest along on MAKHLAB 1, not asserting governance; CDD (J8) identified as the PG's real standing capability-development authority, absorbed the former S&T Center, but must stay functionally/culturally separate from its existing CAPDEV/procurement business if it takes on the innovation-governance role — flagged as the central message to land at the meeting.
+
+## [2026-08-08] ingest | 2026-08-08 Decision Brief — Two COAs and Workstreams
+- Source: `.raw/PG 2030 New/2026-08-08 Decision Brief - Two COAs and Workstreams.md`
+- Summary: [[sources/pg-2030-decision-brief-two-coas-workstreams]]
+- Pages created: [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]], [[PG 2030 Workstreams (2026-08-08)]]
+- Pages updated: [[SBTDWS Core Focus — COA Decision]] (marked superseded), [[Commander Decisions Register]] (D-12 revised), [[ADWC Naming Analysis]], [[RFI to PG HQ]], [[PGIC Concept]], [[index]]
+- Key insight: D-12 revised from 3 COAs to 2 — status quo no longer offered as an option. COA numbering reused with an inverted meaning (old COA 1 ≈ retain everything; new COA 1 = full transition, desert warfare role ends by FOC Q4 30) — flagged with contradiction callouts on every touched page to prevent future confusion. Four workstreams opened for upcoming sessions (OOB/staffing analysis, Innovation Command/FDC 5 linkage with a fixed Monday deadline, WG gap analysis, Task 1 deep dive) — user flagged this as setting direction for the next few sessions. MDTC used "per direction" in a live working session, strongest naming signal yet but still explicitly unresolved (RFI-1, D-10 both remain PENDING).
+
+## [2026-08-08] ingest | Updated PG 2030 Framework — PG Comd Briefing Pack
+- Source: `.raw/PG 2030 New/Updated PG 2030 Framework_PG Comd Briefing Pack.pdf`
+- Summary: [[sources/pg-2030-comd-briefing-pack]]
+- Pages created: [[PG 2030 Warfighting Capability Pillars]], [[PG 2030 Mission Response Categories (MRC)]]
+- Pages updated: [[PG 2030 Force Design Concepts]], [[SBTDWS 2030 Timeline]], [[ADWC Naming Analysis]], [[Commander Decisions Register]], [[Specialist Reserve Brigade (SRB)]], [[Programme MAKHLAB]], [[PG 2030 Three Themes]], [[index]], [[hot]]
+- Key insight: resolves the [[PG 2030 Force Design Concepts]] gap — 12 FDCs confirmed as the full, closed list, FDC 5 = "Tactical Experimentation," no FDC 13. First source to define MRC 1-4 (Counter Terrorism / Support to Civil Authorities in Crisis / External Operations / Homeland Defense), resolving three earlier bare MRC references. New 6-pillar "Warfighting Capability Pillars" layer connects the 12 FDCs to the 21 SAGs. Confirmed as PG Comd-facing but NOT the pending D-10 naming-decision brief — silent on ADWC/MDWC/MDTC naming, though its own timeline uses "Multi-Domain Training Center" as an IOC/FOC milestone label, a further (non-decisive) corroboration point.
+
 ## [2026-08-05] clarification | User answers to J7 Readiness Flow open questions
 - Source: user, direct conversation (not a document)
 - Summary: resolved 3 of 4 flagged items from [[J7 Readiness Flow and Deliverables Register]]; 1 confirmed as a real live issue (not resolved, but validated as significant)

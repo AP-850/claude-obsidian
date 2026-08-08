@@ -3,7 +3,7 @@ type: concept
 title: "Programme MAKHLAB"
 address: c-000025
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-08
 tags:
   - pg2030
   - uxs
@@ -21,6 +21,7 @@ related:
   - "[[Presidential Special Guard (PSG)]]"
   - "[[Specialist Reserve Brigade (SRB)]]"
   - "[[PG 2030 Working Groups]]"
+  - "[[PG 2030 Mission Response Categories (MRC)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -39,7 +40,7 @@ Navigation: [[sbtdws/_index]] | [[Makhlab 1 Project]] | [[PG 2030 Force Design C
 | MAKHLAB 1 | [[Falcons Brigade]] | Close the sensor-shooter gap by integrating AI-enabled UxS that can FIND and STRIKE targets; feeds the PG "targeting web" / Kill Chain |
 | MAKHLAB 2 | [[Al Forsan]], [[Hamid Bin Essa]] | Deployable 1-star JTF HQs capable of integrating AI and joint enablers (copied by SOC and HBE) |
 | MAKHLAB 3 | [[Special Operations Command (SOC)]], [[Presidential Special Guard (PSG)]] | AI-enabled UxS for specialist SOC missions/tasks; PSG contingent response capability |
-| MAKHLAB 4 | [[Specialist Reserve Brigade (SRB)]] | AI-enabled UxS for enhanced PG National Resistance capability; MRC 3 reinforcement to Falcons Brigade |
+| MAKHLAB 4 | [[Specialist Reserve Brigade (SRB)]] | AI-enabled UxS for enhanced PG National Resistance capability; MRC 3 (External Operations, see [[PG 2030 Mission Response Categories (MRC)]]) reinforcement to Falcons Brigade |
 | MAKHLAB 8 | PG J4 (Logistics) | Provide PG JTFs the ability to use UxS fleets on operations |
 
 > [!gap] Numbering gaps

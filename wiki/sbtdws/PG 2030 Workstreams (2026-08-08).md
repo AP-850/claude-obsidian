@@ -18,6 +18,8 @@ related:
   - "[[sources/pg-2030-decision-brief-two-coas-workstreams]]"
   - "[[PG Innovation Governance Framework (Deep Dive)]]"
   - "[[CDD (Capability Development Department)]]"
+  - "[[Workstream 1 — OOB and Staffing Transition Framework]]"
+  - "[[Workstream 4 — Task 1 Deep Dive (COA Overlays)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -38,7 +40,7 @@ Analysis of the current organisational structure and staffing document. To be wo
 
 **Suggestion (carried from source):** build this as a single base layer, then run both COA 1 and COA 2 from [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] as overlays on it, rather than as a separate exercise from Workstream 4 below — they're the same underlying dataset viewed two ways. This also directly feeds the "named posts against a named COA" requirement in the revised brief's "what we need to proceed" band.
 
-**Status:** Not started.
+**Status:** Framework and methodology complete, 2026-08-08. [[Workstream 1 — OOB and Staffing Transition Framework]] — plans against COA 2 as the working assumption (pending the D-12 answer expected next week). Reconfirms already-endorsed [[ADWC Three Wing Structure]] analysis (Collective Training Wing → main effort, E&E Wing → OT cadre, FST transitions to units per J7) with current staffing numbers (~110-120 total, ~15-20 instructors, 6 Western split 3/2/1), a tentative third-wing candidate (Individual Skills Wing → protected core runner), a fourth stream (CAPDEV Cell/TEIW — **blocked pending Monday's Workstream 2 meeting**, ~5-6 post floor confirmed regardless of outcome), and a 5-step priority-position methodology built around the **Moasana** OOB bureaucracy (up to 2-year MOD change lag). Remaining: mapping the ~90-100 unaccounted-for staff, and naming an owner for OPFOR/EXCON/HICON.
 
 ---
 
@@ -50,7 +52,9 @@ Conceptual work on how [[PGIC Concept]] (Innovation Command) will function, and 
 
 **Suggestion (carried from source):** tackle this first, or in parallel with the others — it depends on a structure (Innovation Command) not yet fully within the school's control, so early engagement matters more here than on the other three.
 
-**Status:** Deep-dive complete, 2026-08-08. Full analysis at [[PG Innovation Governance Framework (Deep Dive)]] — owner-agnostic framework, three-way reframe of "who leads" (portfolio/execution/sponsorship), red team, and governance-chair COA options for CDD, J3, or a new entity. New entity page: [[CDD (Capability Development Department)]] (J8, previously unnamed in any PG 2030 document). A simple takeaway report with a graphical framework is being prepared for the meeting itself.
+**Status:** Deep-dive complete, 2026-08-08. Full analysis at [[PG Innovation Governance Framework (Deep Dive)]] — owner-agnostic framework, three-way reframe of "who leads" (portfolio/execution/sponsorship), red team, and governance-chair COA options for CDD, J3, or a new entity. New entity page: [[CDD (Capability Development Department)]] (J8, previously unnamed in any PG 2030 document). One-page takeaway report built for the meeting: `exports/pg-innovation-governance-framework.html`.
+
+**Downstream dependency, confirmed 2026-08-08:** Monday's outcome directly determines SBTDWS's own Innovation/CAPDEV cell manning — see Workstream 1 Case 4 below.
 
 ---
 
@@ -70,7 +74,7 @@ Deeper analysis of Task 1 (T1 — capacity and expertise to train/validate PG fo
 
 **Note:** same base data as Workstream 1 — build once, apply both COA overlays (see Workstream 1's suggestion above).
 
-**Status:** Not started.
+**Status:** First-pass draft, 2026-08-08. [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]]. Key finding: most of Task 1 capability-building (Collective Training Wing → CTVMR framework, E&E Wing → OT cadre) is COA-independent — it's the shared base layer from Workstream 1. Only Individual Skills Wing's fate genuinely forks: handed off/stopped under COA 1, tentative protected-core runner under COA 2. COA 1 has smaller steady-state manpower but a real transition-management/retention cost COA 2 doesn't carry.
 
 ---
 

@@ -92,7 +92,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
 - [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
 - [[Claude SEO]] — Tier 4 Claude Code skill for SEO analysis; 23 skills, 17 agents, 30 scripts at v1.9.0 (status: evergreen)
-- [[Foxglove]] — external party authoring a 68-page PG-wide Force Design document; identity unconfirmed (status: developing)
+- [[Foxglove]] — external party authoring a 68-page PG-wide Force Design document; identity unconfirmed; benched 2026-07-28, succeeded by [[Frank]] (status: benched)
+- [[Frank]] — lead advisor to J3 on PG 2030; coordinates across all PG 2030 working groups; successor to Foxglove's coordination function (status: active)
 - [[Falcons Brigade]] — PG manoeuvre brigade, primary UxS/FPV talent pipeline; Makhlab 1 partner force; SAG 9/10 validation customer (status: active)
 - [[J3 WDC]] — PG Warfare Development Centre; owns tactical experimentation governance; D-11 relationship with SBTDWS unresolved (status: active)
 - [[PGI]] — Presidential Guard Institute / IWTC; individual IW training; split with SBTDWS collective validation not yet formalised (status: active)
@@ -193,6 +194,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] — current D-12 decision: 3 COAs collapsed to 2, status quo no longer an option; full transition vs. protected core by Q4 30 (status: draft)
 - [[PG 2030 Workstreams (2026-08-08)]] — active work queue: OOB/staffing analysis, Innovation Command/FDC 5 linkage (Monday deadline), WG gap analysis, Task 1 deep dive (status: active)
 - [[PG Innovation Governance Framework (Deep Dive)]] — owner-agnostic innovation flow framework, 3-way "who leads" reframe, red team, CDD/J3/new-entity COAs; prepared for the Monday PG innovation-governance meeting (status: active)
+- [[Workstream 1 — OOB and Staffing Transition Framework]] — transition-in-place staffing model for the MDTC build (Collective Training Wing, FST core team), planned against COA 2, internal-first manpower philosophy, Moasana forecasting constraint, priority-position methodology (status: draft)
+- [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]] — shows most Task 1 capability-building is COA-independent; only Individual Skills Wing's fate forks between COA 1 and COA 2 (status: draft)
+- [[OPFOR-EXCON-HICON Estimate — J7 Discussion Primer]] — internal function-by-function estimate ahead of G1 (Oct-26); EXCON strongest internal case, OPFOR weakest/genuine external gap; explicit assumptions list for J7 to validate (status: draft)
 
 ## EXCON Pro — Expert Feedback Programme
 

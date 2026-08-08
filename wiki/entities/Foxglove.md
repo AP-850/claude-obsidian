@@ -14,6 +14,7 @@ related:
   - "[[PG 2030 Force Design Concepts]]"
   - "[[sources/sbtdws-emad-fg-review-2026-05-04]]"
   - "[[SBTDWS Barriers and Blockers]]"
+  - "[[Frank]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -40,6 +41,8 @@ Navigation: [[entities/_index]] | [[PG 2030 Force Design Concepts]]
 
 > [!note] Benched (2026-07-28)
 > A new PG 2030 project lead/advisor is now in place. Foxglove is benched for the time being — not engaged on current work — but may rejoin at a later date. Not a termination; treat as paused pending the new lead's direction. This does not change any of the open identity/scope questions above.
+>
+> **Named 2026-08-08: the new lead/advisor is [[Frank]]** — lead advisor to J3, coordinating across all PG 2030 working groups.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ADWC Three Wing Structure"
-updated: 2026-05-26
+updated: 2026-08-08
 tags:
   - sbtdws
   - adwc
@@ -17,6 +17,7 @@ related:
   - "[[SBTDWS Overview]]"
   - "[[Three Development Thematics]]"
   - "[[SBTDWS 9 Directed Tasks]]"
+  - "[[Workstream 1 — OOB and Staffing Transition Framework]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -163,6 +164,9 @@ The five ADWC functions from the earlier analysis map cleanly onto this:
 | Doctrine and Standards | SAT Cell / cross-cutting |
 
 ---
+
+> [!key-insight] Reconfirmed with current staffing numbers, 2026-08-08
+> [[Workstream 1 — OOB and Staffing Transition Framework]] independently reconfirms this exact mapping (Collective Training Wing → main effort, E&E Wing → OT cadre with FST phased out) from a live working session, and adds the current staffing baseline this page didn't carry: ~110–120 total military staff, ~15–20 actual instructors, 6 Western instructors split 3 (Collective Training) / 2 (E&E Wing) / 1 (Individual Skills Wing). Also confirms the FST-to-units transition is a J7 decision, not SBTDWS's own call, and ties this whole model to COA 2 of [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] as the working planning assumption.
 
 ## Source
 

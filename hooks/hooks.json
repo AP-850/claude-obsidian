@@ -6,12 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3",
-            "args": [
-              "${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py",
-              "hook",
-              "session-start"
-            ],
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py\" hook session-start 2>/dev/null || python \"${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py\" hook session-start 2>/dev/null || py \"${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py\" hook session-start",
             "timeout": 5
           }
         ]
@@ -22,12 +17,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3",
-            "args": [
-              "${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py",
-              "hook",
-              "stop"
-            ],
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py\" hook stop 2>/dev/null || python \"${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py\" hook stop 2>/dev/null || py \"${CLAUDE_PLUGIN_ROOT}/scripts/claude-obsidian.py\" hook stop",
             "timeout": 5
           }
         ]

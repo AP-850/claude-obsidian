@@ -425,6 +425,21 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/PG 2030 New/PG2030_Product_3A_Integrated_Development_Plan_Requirements_v4.docx": {
+      "hash": "37d0d235804621f90b2acc92e71b504a",
+      "ingested_at": "2026-08-09",
+      "pages_created": [
+        "wiki/sources/pg2030-product-3a-integrated-development-plan.md",
+        "wiki/sbtdws/PG 2030 Integrated Development Plan Standard (Product 3A).md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/SBTDWS 2030 Timeline.md",
+        "wiki/sbtdws/Commander Decisions Register.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -471,6 +486,8 @@
     "wiki/sbtdws/Workstream 1 — OOB and Staffing Transition Framework.md": "c-000043",
     "wiki/sbtdws/Workstream 4 — Task 1 Deep Dive (COA Overlays).md": "c-000044",
     "wiki/sbtdws/OPFOR-EXCON-HICON Estimate — J7 Discussion Primer.md": "c-000045",
-    "wiki/entities/Frank.md": "c-000046"
+    "wiki/entities/Frank.md": "c-000046",
+    "wiki/sources/pg2030-product-3a-integrated-development-plan.md": "c-000047",
+    "wiki/sbtdws/PG 2030 Integrated Development Plan Standard (Product 3A).md": "c-000048"
   }
 }

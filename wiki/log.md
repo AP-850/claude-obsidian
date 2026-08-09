@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-09] ingest | PG2030 Product 3A — Integrated Development Plan Requirements (v4)
+- Source: `.raw/PG 2030 New/PG2030_Product_3A_Integrated_Development_Plan_Requirements_v4.docx`
+- Summary: [[sources/pg2030-product-3a-integrated-development-plan]]
+- Pages created: [[PG 2030 Integrated Development Plan Standard (Product 3A)]]
+- Pages updated: [[SBTDWS 2030 Timeline]], [[Commander Decisions Register]], [[index]]
+- Key insight: PG-wide (not SBTDWS-specific) planning standard authored by [[Frank]] — 9-step LOE→baseline→IOC/FOC→KPI→SRO discipline, cleaner Risk/Issue/Dependency/Decision taxonomy than SBTDWS's own registers currently use. **Flags a significant, unreconciled FOC date conflict: 31 Dec 2029 here vs. Q4 30 tracked throughout SBTDWS's own planning since 2026-08-05** — a full year's difference, affecting D-12 and D-08 (Hameem capital). First specific date for Paper 2 issuance (12 Feb 2026). Review and recommendations prepared for the user to feed back to Frank, including a cross-cutting-LOE accountability gap that echoes the "own the idea, not the work" finding from the Innovation Governance work.
+
 ## [2026-08-08] deep-dive | PG Innovation Governance Framework (Workstream 2)
 - Source: user conversation, not a document ingest — Workstream 2 deep dive ahead of the Monday PG innovation-governance meeting
 - Summary: [[PG Innovation Governance Framework (Deep Dive)]]

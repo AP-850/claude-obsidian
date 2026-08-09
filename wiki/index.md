@@ -197,6 +197,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Workstream 1 — OOB and Staffing Transition Framework]] — transition-in-place staffing model for the MDTC build (Collective Training Wing, FST core team), planned against COA 2, internal-first manpower philosophy, Moasana forecasting constraint, priority-position methodology (status: draft)
 - [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]] — shows most Task 1 capability-building is COA-independent; only Individual Skills Wing's fate forks between COA 1 and COA 2 (status: draft)
 - [[OPFOR-EXCON-HICON Estimate — J7 Discussion Primer]] — internal function-by-function estimate ahead of G1 (Oct-26); EXCON strongest internal case, OPFOR weakest/genuine external gap; explicit assumptions list for J7 to validate (status: draft)
+- [[PG 2030 Integrated Development Plan Standard (Product 3A)]] — Frank's PG-wide planning standard (9-step logic, FOC/IOC method, KPI discipline, SRO model); flags a FOC date conflict (31 Dec 2029 vs. Q4 30 tracked elsewhere); review and recommendations included (status: active)
 
 ## EXCON Pro — Expert Feedback Programme
 
@@ -224,6 +225,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[J7 Readiness Flow and Deliverables Register]] — 2026-08-05 | 3-page endorsed brief, briefed to J3 today | 1 wiki page created, 7 updated
 - [[sources/pg-2030-comd-briefing-pack]] — 2026-08-08 | 3-page PG-wide Comd briefing pack (Vision/Logic/Timeline) | 3 wiki pages created, 8 updated
 - [[sources/pg-2030-decision-brief-two-coas-workstreams]] — 2026-08-08 | J3/J7 follow-up session note: revised 2-COA decision brief + 4 workstreams | 3 wiki pages created, 6 updated
+- [[sources/pg2030-product-3a-integrated-development-plan]] — 2026-08-09 | Frank's PG-wide IDP planning standard (docx) | 2 wiki pages created, 4 updated
 
 ## TACTIX — Exercise Control Application
 

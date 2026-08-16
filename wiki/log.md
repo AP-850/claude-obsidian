@@ -13,6 +13,24 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-08-16] deep-dive | Innovation Command WG deliverables (TEIW charter export, CDD brief v2, meeting prep, B&W explainer)
+- Source: user conversation, not a document ingest — finishing the Innovation Command WG prep started 2026-08-14
+- Deliverables produced (all in `exports/`, not wiki pages): `TEIW Standing Charter.docx` (sanitized, no Obsidian markup — for handing over as a standalone document); `pg-innovation-governance-one-pager-v2.pdf` (updated CDD-facing brief — confirmed lead, tiers explained, "take it or leave it" framing); `innovation-command-wg-meeting-brief-2026-08-18.pdf` (internal meeting-prep one-pager — logistics, recommendations, flags, follow-up-with-Frank note); `innovation-simple-explainer.pdf` (black-and-white, plain-language version of the same material — 5-step idea-to-capability diagram, 3-line who-does-what, two offers — built for briefing a local officer who won't track the fuller versions)
+- Pages updated: none (no new wiki content — this was output production from already-captured decisions)
+- Key insight: explicit user instruction — GAP-X must not appear in any Innovation Command WG-facing document (personal tooling project, not to be showcased as built outside the organisation). Confirmed absent from all four deliverables. User approved all four without revision.
+
+## [2026-08-14] deep-dive | Innovation Command WG prep (rescheduled meeting, 2026-08-18)
+- Source: user conversation, not a document ingest — prep for the rescheduled Innovation Command Working Group meeting, Tuesday 2026-08-18 08:00 (original Monday meeting, week of 2026-08-11, didn't reach quorum)
+- Pages updated: [[CDD (Capability Development Department)]], [[PG Innovation Governance Framework (Deep Dive)]], [[Programme MAKHLAB]], [[PG 2030 Workstreams (2026-08-08)]], [[index]]
+- Key insight: the "who leads" governance question from the 2026-08-08 deep-dive is resolved — J3 decided **CDD (J8) leads** (COA A), independently corroborated by the same-day-ingested [[PG 2030 Working Groups (12, FDC-Aligned)]] WG4. Separately, **MAKHLAB 1 (Falcons Brigade) and the Innovation Command work sit in the same Working Group but remain separate projects** — Falcons Brigade becomes the framework/best-practice reference as other units build their own MAKHLAB serials, while lessons from the innovation piece feed into the innovation pipeline's foundation. Also discussed: frameworks for how SBTDWS itself should run tactical experimentation and tie it to the emerging Multi-Domain Training Center (WG5 on the FDC-aligned structure) — recommendations given in-session, not yet filed to a dedicated page.
+
+## [2026-08-14] ingest | New PG 2030 WGs_14 Aug 26 — 12 FDC-Aligned Working Groups
+- Source: `.raw/PG 2030 New/New PG 2030 WGs_14 Aug 26.pdf`
+- Summary: [[sources/pg2030-working-groups-12-fdc-aligned]]
+- Pages created: [[PG 2030 Working Groups (12, FDC-Aligned)]]
+- Pages updated: [[PG 2030 Working Groups]] (marked superseded), [[PG 2030 Force Design Concepts]], [[sbtdws/_index]], [[index]]
+- Key insight: formal 6-page bilingual document establishes one Working Group per Force Design Concept — 12 WGs mapped 1:1 onto the confirmed 12-item [[PG 2030 Force Design Concepts]] list, closing the FDC-to-governance gap that page previously flagged. **WG5 "Multi-Domain Battle Center" (FDC 5, Tactical Experimentation) is SBTDWS's own ADWC/MDTC transformation**, led by J7 Training Department, standing up a Multi-Domain Training Center at "Hamim" (= [[Hameem Mission Rehearsal Concept]]) — directly corroborates the J7-led Warfare Development Center WG finding from the earlier 8-WG draft. Falcons Brigade's MAKHLAB coordination lead role (WG8 here, WG5 in the old draft) is independently reconfirmed across two separately-dated sources.
+
 ## [2026-08-09] ingest | PG2030 Product 3A — Integrated Development Plan Requirements (v4)
 - Source: `.raw/PG 2030 New/PG2030_Product_3A_Integrated_Development_Plan_Requirements_v4.docx`
 - Summary: [[sources/pg2030-product-3a-integrated-development-plan]]

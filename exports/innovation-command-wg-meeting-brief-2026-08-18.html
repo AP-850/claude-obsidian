@@ -1,0 +1,202 @@
+<title>Innovation Command WG — Meeting Brief, 2026-08-18</title>
+<style>
+  @page { size: A4 portrait; margin: 11mm; }
+
+  :root {
+    --paper: #f2ede1;
+    --ink: #20241f;
+    --ink-soft: #4b4f43;
+    --rule: #c7bc9f;
+    --rule-strong: #a89d7c;
+    --navy: #1d3a4a;
+    --navy-soft: #3a5567;
+    --ochre: #8f611f;
+    --slate-green: #45573f;
+    --rust: #7e372b;
+    --card-bg: #f8f5ec;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 9.3px;
+    line-height: 1.32;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet { width: 188mm; margin: 0 auto; padding: 0; }
+
+  h1, h2, h3 {
+    font-family: "Arial Narrow", "Roboto Condensed", "Helvetica Neue", sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    color: var(--ink);
+    margin: 0;
+  }
+
+  .label {
+    font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+    font-size: 6.6px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+
+  .letterhead {
+    display: flex; flex-direction: column; gap: 0.35em;
+    padding-bottom: 0.6em; border-bottom: 1.6px solid var(--ink); margin-bottom: 0.8em;
+  }
+  .letterhead-meta { display: flex; justify-content: space-between; align-items: center; gap: 0.5em; }
+  .letterhead h1 { font-size: 19px; line-height: 1.05; }
+  .letterhead .subtitle { font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace; font-size: 8.4px; color: var(--navy-soft); font-weight: 600; }
+  .status-chip {
+    font-family: ui-monospace, monospace; font-size: 6.4px; letter-spacing: 0.07em; text-transform: uppercase;
+    color: var(--navy); border: 1px solid var(--navy); padding: 0.2em 0.55em; border-radius: 2px; white-space: nowrap;
+  }
+
+  .logistics-strip {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5em;
+    background: var(--card-bg); border: 1px solid var(--rule); padding: 0.45em 0.6em; margin-bottom: 0.75em;
+  }
+  .logistics-strip .item .label { display: block; margin-bottom: 0.15em; }
+  .logistics-strip .item .value { font-size: 8.6px; font-weight: 700; }
+
+  .opening-callout {
+    background: var(--card-bg); border: 1px solid var(--rust); border-left: 3px solid var(--rust);
+    padding: 0.5em 0.7em; margin-bottom: 0.75em;
+  }
+  .opening-callout .kicker { font-family: ui-monospace, monospace; font-size: 6.6px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--rust); font-weight: 700; display: block; margin-bottom: 0.25em; }
+  .opening-callout p { margin: 0; font-size: 9.4px; }
+
+  section { margin-bottom: 0.7em; break-inside: avoid; }
+  .section-head { display: flex; align-items: baseline; gap: 0.5em; margin-bottom: 0.35em; padding-bottom: 0.2em; border-bottom: 1px solid var(--rule); }
+  .section-head h2 { font-size: 9.6px; }
+  .section-head .label { flex: 1; text-align: right; }
+  p { margin: 0 0 0.4em; }
+
+  .cols { display: grid; grid-template-columns: 1.02fr 1fr; gap: 0 1em; align-items: start; }
+
+  .checklist { display: flex; flex-direction: column; gap: 0.32em; }
+  .check-item {
+    display: grid; grid-template-columns: 1.1em 1fr; gap: 0.4em; align-items: start;
+    padding: 0.3em 0.4em; background: var(--card-bg); border: 1px solid var(--rule); border-radius: 2px;
+  }
+  .check-item .mark { font-family: ui-monospace, monospace; font-weight: 800; color: var(--slate-green); font-size: 9px; }
+  .check-item .title { font-weight: 800; font-size: 7.8px; text-transform: uppercase; font-family: "Arial Narrow", "Roboto Condensed", sans-serif; display: block; margin-bottom: 0.12em; }
+  .check-item .desc { font-size: 7.4px; color: var(--ink-soft); line-height: 1.25; }
+
+  .numbered-list { display: flex; flex-direction: column; gap: 0.32em; }
+  .num-item { display: grid; grid-template-columns: 1.3em 1fr; gap: 0.4em; align-items: start; padding: 0.2em 0; border-bottom: 1px solid var(--rule); }
+  .num-item:last-child { border-bottom: none; }
+  .num-item .n { font-family: ui-monospace, monospace; font-weight: 800; color: var(--navy); font-size: 9px; }
+  .num-item .title { font-weight: 800; font-size: 7.8px; text-transform: uppercase; font-family: "Arial Narrow", "Roboto Condensed", sans-serif; display: block; margin-bottom: 0.1em; }
+  .num-item .desc { font-size: 7.4px; color: var(--ink-soft); line-height: 1.25; }
+
+  .tagged-list { display: flex; flex-direction: column; gap: 0.3em; }
+  .tagged-item { display: grid; grid-template-columns: 2.6em 1fr; gap: 0.4em; align-items: baseline; padding: 0.18em 0; border-bottom: 1px solid var(--rule); }
+  .tagged-item:last-child { border-bottom: none; }
+  .tag { font-family: ui-monospace, monospace; font-size: 6px; letter-spacing: 0.05em; font-weight: 700; padding: 0.14em 0.3em; border-radius: 2px; text-align: center; white-space: nowrap; }
+  .tag.flag { background: color-mix(in srgb, var(--ochre) 16%, transparent); color: var(--ochre); }
+  .tag.recommend { background: color-mix(in srgb, var(--slate-green) 16%, transparent); color: var(--slate-green); }
+  .tagged-item p { margin: 0; font-size: 7.8px; }
+  .tagged-item p.emphasis { font-weight: 700; }
+
+  .decision-table { width: 100%; border-collapse: collapse; }
+  .decision-table th { font-family: ui-monospace, monospace; font-size: 6px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-soft); text-align: left; padding: 0.15em 0.35em; border-bottom: 1px solid var(--rule-strong); }
+  .decision-table td { font-size: 7.4px; padding: 0.28em 0.35em; border-bottom: 1px solid var(--rule); vertical-align: top; }
+  .decision-table .who { font-weight: 800; font-family: "Arial Narrow", "Roboto Condensed", sans-serif; white-space: nowrap; }
+
+  footer {
+    margin-top: 0.6em; padding-top: 0.4em; border-top: 1px solid var(--rule);
+    display: flex; justify-content: space-between; font-family: ui-monospace, monospace; font-size: 6.4px; color: var(--ink-soft); letter-spacing: 0.02em;
+  }
+
+  @media print { html, body { background: #fff; } .sheet { width: auto; } }
+  @media screen { body { padding: 14px 0 40px; } .sheet { box-shadow: 0 0 0 1px var(--rule-strong); background: var(--paper); padding: 10mm; } }
+</style>
+
+<div class="sheet">
+
+  <div class="letterhead">
+    <div class="letterhead-meta">
+      <span class="label">SBTDWS · Internal Meeting Prep</span>
+      <span class="status-chip">Take to the meeting</span>
+    </div>
+    <h1>Innovation Command Working Group</h1>
+    <div class="subtitle">What we're bringing, what changed, and what to raise · Tuesday 2026-08-18</div>
+  </div>
+
+  <div class="logistics-strip">
+    <div class="item"><span class="label">Date / Time</span><span class="value">Tue 2026-08-18, 08:00</span></div>
+    <div class="item"><span class="label">Status</span><span class="value">Reschedule of the wk-of-08-11 meeting</span></div>
+    <div class="item"><span class="label">Chair</span><span class="value">CDD (J8) — confirmed lead</span></div>
+    <div class="item"><span class="label">SBTDWS Role</span><span class="value">WG member, execution-lane offer</span></div>
+  </div>
+
+  <div class="opening-callout">
+    <span class="kicker">What changed since the last brief</span>
+    <p>J3 decided <strong>CDD (J8) leads</strong> the combined Working Group, with all relevant parties feeding in. <strong>MAKHLAB 1 (Falcons Bde) and the Innovation Command work now sit in the same WG but stay separate projects</strong> — Falcons Bde becomes the framework/best-practice reference as other units stand up their own MAKHLAB serials (2/3/4/8), and lessons from the innovation piece are expected to feed into the wider innovation pipeline's foundation, not the other way round.</p>
+  </div>
+
+  <div class="cols">
+    <div>
+
+      <section>
+        <div class="section-head"><h2>What We're Bringing</h2></div>
+        <div class="checklist">
+          <div class="check-item"><span class="mark">01</span><div><span class="title">TEIW Standing Charter</span><span class="desc">The school's already-drafted answer to "how do we do tactical experimentation" — Tier 1/Tier 2 model, three-question entry criteria, defined outputs. Bring as running doctrine, not a new pitch.</span></div></div>
+          <div class="check-item"><span class="mark">02</span><div><span class="title">One-page brief for CDD (v2)</span><span class="desc">Explains the tiers and the governance-option thinking that led to the current model. Hand over for CDD's use — take it or leave it, not a position we're asking them to adopt.</span></div></div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-head"><h2>Recommendations to Make</h2></div>
+        <div class="numbered-list">
+          <div class="num-item"><span class="n">1</span><div><span class="title">Name CDD as TEIW's Tier 2 recipient</span><span class="desc">The charter currently routes Tier 2 to "when established" governance that didn't exist. It does now — propose CDD formally as the gate.</span></div></div>
+          <div class="num-item"><span class="n">2</span><div><span class="title">Offer TEIW as the PG-wide Tier 1 template</span><span class="desc">Not just an SBTDWS tool — a working pattern (hypothesis, MOE, entry criteria) other units' experimentation could reuse.</span></div></div>
+          <div class="num-item"><span class="n">3</span><div><span class="title">Tie TEIW to the Multi-Domain Training Center at Hameem</span><span class="desc">WG5's desired end state (field trials, readiness assessment, warfare-methodology development) is functionally the same territory TEIW already covers. Propose co-locating the Experiment Cell there as WG5 stands up, rather than building the function twice.</span></div></div>
+        </div>
+      </section>
+
+    </div>
+    <div>
+
+      <section>
+        <div class="section-head"><h2>Questions / Flags to Raise</h2><span class="label">flag · recommend</span></div>
+        <div class="tagged-list">
+          <div class="tagged-item"><span class="tag flag">FLAG</span><p class="emphasis">WG4 (this WG, CDD-led) and WG5 (Multi-Domain Battle Center, J7-led) both touch "Live Experiments" territory — ask directly whether WG4 governs the Tier 2 gate while WG5/TEIW own Tier 1 execution, before the lane split gets assumed rather than agreed.</p></div>
+          <div class="tagged-item"><span class="tag flag">FLAG</span><p>Land explicitly that innovation needs to stay culturally separate from CDD's day-to-day CAPDEV/procurement business — worth saying even though CDD has already won the chair, not less relevant now.</p></div>
+          <div class="tagged-item"><span class="tag recommend">NOTE</span><p>Falcons Bde's "framework/best-practice reference" role for other units' MAKHLAB serials is a useful precedent to cite when offering TEIW as the PG-wide Tier 1 template — same pattern, different domain.</p></div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-head"><h2>Decisions Confirmed Ahead of the Meeting</h2></div>
+        <table class="decision-table">
+          <tr><th>Item</th><th>Decision</th></tr>
+          <tr><td class="who">WG Lead</td><td>CDD (J8) — confirmed by J3, week of 2026-08-11</td></tr>
+          <tr><td class="who">MAKHLAB 1 / Innovation Cmd</td><td>Same Working Group, separate projects</td></tr>
+          <tr><td class="who">Falcons Bde role</td><td>Framework / best-practice reference for other units' MAKHLAB build-out</td></tr>
+          <tr><td class="who">Meeting</td><td>Rescheduled to Tue 2026-08-18 08:00 (quorum issue previously)</td></tr>
+        </table>
+      </section>
+
+      <section>
+        <div class="section-head"><h2>Follow-Up</h2></div>
+        <p style="font-size:7.8px;">Share outcomes with Frank afterward — he coordinates across all PG 2030 working groups and flagged the WG4/WG5 cross-linkage as the right direction in his own review of the earlier framework.</p>
+      </section>
+
+    </div>
+  </div>
+
+  <footer>
+    <span>Prepared 2026-08-14 for the Tuesday 2026-08-18 Innovation Command Working Group</span>
+    <span>Internal SBTDWS prep — not for external circulation as-is</span>
+  </footer>
+
+</div>

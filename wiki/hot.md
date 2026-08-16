@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-09T00:00:00
+updated: 2026-08-16T00:00:00
 tags:
   - meta
   - hot-cache
@@ -19,9 +19,19 @@ Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
 
-2026-08-09 (ninth update, condensed — full history in [[log]] and the source pages if needed).
+2026-08-16 (twelfth update, condensed — full history in [[log]] and the source pages if needed).
 
-**New today:** ingested [[PG 2030 Integrated Development Plan Standard (Product 3A)]] — Frank's PG-wide (not SBTDWS-specific) planning standard: 9-step LOE→baseline→IOC/FOC→KPI→SRO discipline. **Flags a significant, unreconciled FOC date conflict** — Product 3A gives FOC as tentatively 31 Dec 2029; everything SBTDWS has tracked since 2026-08-05 (Timeline, Decision Brief, Commander Decisions Register D-12) carries Q4 30, a full year later. Not resolved — flagged on both [[SBTDWS 2030 Timeline]] and [[Commander Decisions Register]]. IOC also differs by ~2 quarters (30 Jun 2028 vs. Q4 28). First specific Paper 2 issuance date recorded: 12 Feb 2026. Review + recommendations prepared for the user to give back to Frank — see the page's "Review & Recommendations" section (cross-cutting-LOE accountability gap, TBD-aging suggestion, KPI-rollup question, "Product 3A implies a series" question).
+**New today:** Innovation Command WG deliverables finished and approved — `exports/TEIW Standing Charter.docx` (sanitized), `exports/pg-innovation-governance-one-pager-v2.pdf` (CDD-facing brief), `exports/innovation-command-wg-meeting-brief-2026-08-18.pdf` (internal prep), `exports/innovation-simple-explainer.pdf` (B&W, plain-language version for briefing a local officer). **Standing rule: never mention or offer GAP-X in any PG/Innovation-Command-facing document** — it's the user's personal tooling project, not to be showcased as built outside the organisation. Meeting is Tuesday 2026-08-18, 08:00.
+
+**Previous 2 sessions (2026-08-14):**
+
+1. **Ingested** [[PG 2030 Working Groups (12, FDC-Aligned)]] — formal 12-WG structure, one Working Group per Force Design Concept, closing the FDC-to-governance gap on [[PG 2030 Force Design Concepts]]. **WG5 "Multi-Domain Battle Center" (FDC 5, led by J7 Training Department) is SBTDWS's own ADWC/MDTC transformation**, now formally chartered as PG-level governance — standing up a Multi-Domain Training Center at "Hamim" (= [[Hameem Mission Rehearsal Concept]]). Corroborates Falcons Brigade leading MAKHLAB/UxS coordination and J7 leading the Warfare Development Center WG. Earlier informal 8-WG draft ([[PG 2030 Working Groups]]) now marked superseded.
+
+2. **Innovation Command WG prep, rescheduled to Tuesday 2026-08-18 08:00** (original Monday meeting, week of 2026-08-11, didn't reach quorum). **"Who leads" resolved: CDD (J8) chairs** (COA A from [[PG Innovation Governance Framework (Deep Dive)]]) — independently corroborated by the same-day WG4 finding above. **MAKHLAB 1 (Falcons Brigade) and Innovation Command sit in the same WG but stay separate projects** — Falcons Bde is the framework/best-practice reference as other units build their own MAKHLAB serials; lessons from the innovation piece feed into the innovation pipeline's foundation. See [[CDD (Capability Development Department)]] and [[Programme MAKHLAB]].
+
+**Previous session (2026-08-09):** ingested [[PG 2030 Integrated Development Plan Standard (Product 3A)]] — Frank's PG-wide (not SBTDWS-specific) planning standard: 9-step LOE→baseline→IOC/FOC→KPI→SRO discipline. First specific Paper 2 issuance date recorded: 12 Feb 2026.
+
+**Review finalised, ready to send to Frank** (user decision, 2026-08-09) — final 4 items: cross-cutting-LOE SRO gap, KPI-rollup mechanism question, TBD-aging suggestion, "Product 3A implies a series" query — plus strengths worth acknowledging (DOTMLPF/JCIDS/NDPP alignment, weak-vs-strong examples, Risk/Issue/Dependency/Decision taxonomy). Two items dropped from the feedback: the FOC/IOC date conflict (not being raised with Frank — treated as his own planning guidance, working assumption is now **FOC = 31 Dec 2029** per Product 3A, not the Q4 30 carried elsewhere, unless later direction changes it) and the SBTDWS-retrofit question (out of scope — PG-wide document, not an SBTDWS-specific ask). **Not yet propagated:** Q4 30 still appears as the FOC gate date in [[SBTDWS 2030 Timeline]], [[Commander Decisions Register]] D-12, and [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] — user deferred that rewrite to a later session.
 
 **Frank identified** (2026-08-08): lead advisor to J3 on PG 2030, successor to [[Foxglove]]'s coordination function (benched 2026-07-28), coordinates ALL PG 2030 working groups — see [[Frank]].
 

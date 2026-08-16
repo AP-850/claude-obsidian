@@ -1,0 +1,387 @@
+<title>PG Innovation Governance — One-Page Brief (v2)</title>
+<style>
+  @page { size: A4 portrait; margin: 11mm; }
+
+  :root {
+    --paper: #f2ede1;
+    --ink: #20241f;
+    --ink-soft: #4b4f43;
+    --rule: #c7bc9f;
+    --rule-strong: #a89d7c;
+    --navy: #1d3a4a;
+    --navy-soft: #3a5567;
+    --ochre: #8f611f;
+    --slate-green: #45573f;
+    --rust: #7e372b;
+    --card-bg: #f8f5ec;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 9.3px;
+    line-height: 1.32;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet {
+    width: 188mm;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  h1, h2, h3 {
+    font-family: "Arial Narrow", "Roboto Condensed", "Helvetica Neue", sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    color: var(--ink);
+    margin: 0;
+  }
+
+  .label {
+    font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+    font-size: 6.6px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+
+  /* ---- Header ---- */
+
+  .letterhead {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35em;
+    padding-bottom: 0.6em;
+    border-bottom: 1.6px solid var(--ink);
+    margin-bottom: 0.8em;
+  }
+
+  .letterhead-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5em;
+  }
+
+  .letterhead h1 { font-size: 19px; line-height: 1.05; }
+
+  .letterhead .subtitle {
+    font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+    font-size: 8.4px;
+    color: var(--navy-soft);
+    font-weight: 600;
+  }
+
+  .status-chip {
+    font-family: ui-monospace, monospace;
+    font-size: 6.4px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--slate-green);
+    border: 1px solid var(--slate-green);
+    padding: 0.2em 0.55em;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+
+  /* ---- Opening callout ---- */
+
+  .opening-callout {
+    background: var(--card-bg);
+    border: 1px solid var(--rust);
+    border-left: 3px solid var(--rust);
+    padding: 0.5em 0.7em;
+    margin-bottom: 0.75em;
+  }
+  .opening-callout .kicker {
+    font-family: ui-monospace, monospace;
+    font-size: 6.6px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--rust);
+    font-weight: 700;
+    display: block;
+    margin-bottom: 0.25em;
+  }
+  .opening-callout p { margin: 0; font-size: 9.4px; }
+
+  /* ---- Section rhythm ---- */
+
+  section { margin-bottom: 0.7em; break-inside: avoid; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5em;
+    margin-bottom: 0.35em;
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid var(--rule);
+  }
+  .section-head h2 { font-size: 9.6px; }
+  .section-head .label { flex: 1; text-align: right; }
+
+  p { margin: 0 0 0.4em; }
+
+  /* ---- Two-column body ---- */
+
+  .cols {
+    display: grid;
+    grid-template-columns: 1.02fr 1fr;
+    gap: 0 1em;
+    align-items: start;
+  }
+
+  /* ---- Role table ---- */
+
+  .role-table { display: flex; flex-direction: column; border: 1px solid var(--rule); }
+  .role-row {
+    display: grid;
+    grid-template-columns: 4.6em 1fr 4.4em;
+    gap: 0.4em;
+    align-items: baseline;
+    padding: 0.24em 0.45em;
+    border-bottom: 1px solid var(--rule);
+    background: var(--card-bg);
+  }
+  .role-row:last-child { border-bottom: none; }
+  .role-row .who { font-weight: 800; font-size: 8px; text-transform: uppercase; font-family: "Arial Narrow", "Roboto Condensed", sans-serif; }
+  .role-row .what { font-size: 8px; color: var(--ink-soft); }
+  .role-row .stat {
+    font-family: ui-monospace, monospace;
+    font-size: 6.2px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-align: right;
+  }
+  .role-row .stat.unclear { color: var(--ochre); }
+  .role-row .stat.known { color: var(--slate-green); }
+
+  /* ---- Flow chain ---- */
+
+  .flow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.28em;
+  }
+  .flow-stage {
+    flex: 1 1 auto;
+    min-width: 5.6em;
+    background: var(--card-bg);
+    border: 1px solid var(--rule-strong);
+    border-radius: 2px;
+    padding: 0.32em 0.4em;
+  }
+  .flow-stage .num { font-family: ui-monospace, monospace; font-size: 6px; color: var(--navy-soft); font-weight: 700; }
+  .flow-stage .name { display: block; font-weight: 800; font-size: 7.6px; text-transform: uppercase; font-family: "Arial Narrow", "Roboto Condensed", sans-serif; line-height: 1.1; margin: 0.08em 0; }
+  .flow-stage .note { font-size: 6.6px; color: var(--ink-soft); line-height: 1.15; }
+  .flow-stage.gap { border: 1px dashed var(--ochre); background: transparent; }
+  .flow-stage.gap .name { color: var(--ochre); }
+  .flow-stage.gate { border-color: var(--navy); border-width: 1.4px; }
+  .flow-stage.decided { border-color: var(--slate-green); border-width: 1.4px; }
+  .flow-stage.decided .name { color: var(--slate-green); }
+
+  .flow-callout { font-size: 8px; color: var(--ink-soft); margin-top: 0.35em; }
+  .flow-callout strong { color: var(--ink); }
+
+  /* ---- Reframe ---- */
+
+  .reframe { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4em; }
+  .reframe-item { background: var(--card-bg); border: 1px solid var(--rule); padding: 0.35em 0.45em; }
+  .reframe-item .q-num { font-family: ui-monospace, monospace; font-size: 9px; font-weight: 700; color: var(--navy); }
+  .reframe-item h3 { font-size: 7.4px; margin: 0.1em 0; }
+  .reframe-item p { font-size: 6.8px; color: var(--ink-soft); margin: 0; line-height: 1.2; }
+
+  /* ---- Tagged list ---- */
+
+  .tagged-list { display: flex; flex-direction: column; gap: 0.3em; }
+  .tagged-item { display: grid; grid-template-columns: 2.6em 1fr; gap: 0.4em; align-items: baseline; padding: 0.18em 0; border-bottom: 1px solid var(--rule); }
+  .tagged-item:last-child { border-bottom: none; }
+  .tag {
+    font-family: ui-monospace, monospace;
+    font-size: 6px;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+    padding: 0.14em 0.3em;
+    border-radius: 2px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .tag.act { background: color-mix(in srgb, var(--rust) 16%, transparent); color: var(--rust); }
+  .tag.shape { background: color-mix(in srgb, var(--slate-green) 16%, transparent); color: var(--slate-green); }
+  .tag.escalate { background: color-mix(in srgb, var(--ochre) 16%, transparent); color: var(--ochre); }
+  .tagged-item p { margin: 0; font-size: 7.8px; }
+  .tagged-item p.emphasis { font-weight: 700; }
+
+  /* ---- COA table ---- */
+
+  .coa-table { width: 100%; border-collapse: collapse; }
+  .coa-table th {
+    font-family: ui-monospace, monospace;
+    font-size: 6px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    text-align: left;
+    padding: 0.15em 0.35em;
+    border-bottom: 1px solid var(--rule-strong);
+  }
+  .coa-table td {
+    font-size: 7.4px;
+    padding: 0.28em 0.35em;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  .coa-table tr.synthesis td { background: var(--card-bg); font-weight: 600; }
+  .coa-table tr.decided td { background: color-mix(in srgb, var(--slate-green) 10%, transparent); }
+  .coa-table .opt { font-weight: 800; font-family: "Arial Narrow", "Roboto Condensed", sans-serif; white-space: nowrap; }
+  .coa-table .opt.decided-tag { color: var(--slate-green); }
+
+  /* ---- Offer box ---- */
+
+  .offer-box { background: var(--card-bg); border-left: 2.5px solid var(--navy); padding: 0.4em 0.55em; }
+  .offer-box ul { margin: 0; padding-left: 1em; }
+  .offer-box li { margin-bottom: 0.2em; font-size: 7.8px; }
+  .offer-box li.contested { color: var(--ochre); }
+
+  /* ---- Footer ---- */
+
+  footer {
+    margin-top: 0.6em;
+    padding-top: 0.4em;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    font-family: ui-monospace, monospace;
+    font-size: 6.4px;
+    color: var(--ink-soft);
+    letter-spacing: 0.02em;
+  }
+
+  @media print {
+    html, body { background: #fff; }
+    .sheet { width: auto; }
+  }
+
+  @media screen {
+    body { padding: 14px 0 40px; }
+    .sheet { box-shadow: 0 0 0 1px var(--rule-strong); background: var(--paper); padding: 10mm; }
+  }
+</style>
+
+<div class="sheet">
+
+  <div class="letterhead">
+    <div class="letterhead-meta">
+      <span class="label">SBTDWS · Innovation Command Working Group · Prepared for CDD (J8)</span>
+      <span class="status-chip">v2 — briefing note, not a formal position</span>
+    </div>
+    <h1>PG Innovation Governance</h1>
+    <div class="subtitle">How we got to a recommended model, and what SBTDWS can offer · Tuesday 2026-08-18</div>
+  </div>
+
+  <div class="opening-callout">
+    <span class="kicker">Offered for the chair's use — take it or leave it</span>
+    <p><strong>Everyone in the room will want to own the idea. Almost no one will want to own the work — and whoever grabs a piece is likely to run it alone, without inviting the others in.</strong> Worth saying explicitly before the working group settles into its routine. This brief sets out the thinking that led to the current model, so it doesn't need re-deriving from scratch in the room.</p>
+  </div>
+
+  <div class="cols">
+    <div>
+
+      <section>
+        <div class="section-head">
+          <h2>Who Does What</h2>
+        </div>
+        <div class="role-table">
+          <div class="role-row"><span class="who">CDD / J8</span><span class="what">Runs PG capability dev &amp; R&amp;D today, has for some time. Confirmed lead of this Working Group.</span><span class="stat known">Confirmed lead</span></div>
+          <div class="role-row"><span class="who">STC</span><span class="what">Former S&amp;T Center, now folded into CDD.</span><span class="stat unclear">Function still unclear to some</span></div>
+          <div class="role-row"><span class="who">Falcons Bde</span><span class="what">MAKHLAB 1 sits in this WG as a separate project — Falcons Bde is the framework/best-practice reference as other units build their own MAKHLAB serials.</span><span class="stat known">In WG, separate project</span></div>
+          <div class="role-row"><span class="who">SBTDWS</span><span class="what">Tactical experimentation execution — Tier 1, EXCON, evaluation, via the standing TEIW charter.</span><span class="stat known">Calibrated offer</span></div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h2>The Tiers — Idea to Capability</h2>
+        </div>
+        <div class="flow">
+          <div class="flow-stage"><span class="num">01</span><span class="name">Idea Source</span><span class="note">Any operator, any unit</span></div>
+          <div class="flow-stage gap"><span class="num">02</span><span class="name">Intake &amp; Sponsorship</span><span class="note">No mechanism exists today</span></div>
+          <div class="flow-stage"><span class="num">03</span><span class="name">Tier 1 Experiment</span><span class="note">Bounded, 30–90 days</span></div>
+          <div class="flow-stage gate"><span class="num">04</span><span class="name">Tier 2 Gate</span><span class="note">Capital/scale — now CDD's lane</span></div>
+          <div class="flow-stage"><span class="num">05</span><span class="name">Scale &amp; Field</span><span class="note">Fielding, small-run, handover</span></div>
+          <div class="flow-stage"><span class="num">06</span><span class="name">Standardise</span><span class="note">Cross-unit, once &gt;1 runs it</span></div>
+          <div class="flow-stage"><span class="num">07</span><span class="name">Institutionalise</span><span class="note">Doctrine, training, FDC review</span></div>
+        </div>
+        <p class="flow-callout"><strong>Explaining these tiers is the point of this brief.</strong> Stage 3 (Tier 1) is where SBTDWS's TEIW charter already operates — offered below as a ready-made, PG-wide template. Stage 4 (Tier 2) is the gate CDD now chairs. Stage 2 (intake) still has no owner or mechanism, regardless of who chairs the gate.</p>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h2>"Who Leads" Is Three Questions</h2>
+        </div>
+        <div class="reframe">
+          <div class="reframe-item"><span class="q-num">1</span><h3>Portfolio Governance</h3><p>Priorities, resourcing, Tier 2 kill/continue, deconfliction. This is what CDD now chairs.</p></div>
+          <div class="reframe-item"><span class="q-num">2</span><h3>Execution</h3><p>Running the sprints. Stays distributed at unit/school level — this is where TEIW sits.</p></div>
+          <div class="reframe-item"><span class="q-num">3</span><h3>Sponsorship</h3><p>Naming problems, providing operators, validating outputs. Unit-level.</p></div>
+        </div>
+      </section>
+
+    </div>
+    <div>
+
+      <section>
+        <div class="section-head">
+          <h2>Still Worth Flagging in the Room</h2>
+          <span class="label">act · shape</span>
+        </div>
+        <div class="tagged-list">
+          <div class="tagged-item"><span class="tag act">ACT</span><p class="emphasis">Now that CDD chairs, the separation from day-to-day CAPDEV procurement/fielding matters more, not less — worth landing explicitly, not assuming it's understood.</p></div>
+          <div class="tagged-item"><span class="tag act">ACT</span><p>Stage 2 (intake) still has no owner or mechanism — a live gap regardless of who chairs governance.</p></div>
+          <div class="tagged-item"><span class="tag shape">SHAPE</span><p>A department running CAPDEV well today isn't automatically suited to running innovation — different culture, and possibly not yet the institutional weight to make a ring-fenced cell stick.</p></div>
+          <div class="tagged-item"><span class="tag shape">SHAPE</span><p>No budget/bridge-funding mechanism exists yet between a proven experiment and a resourced programme.</p></div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h2>Governance-Chair Options — For Context</h2>
+          <span class="label">A is the decided model</span>
+        </div>
+        <table class="coa-table">
+          <tr><th>Option</th><th>Strength</th><th>Risk</th></tr>
+          <tr class="decided"><td class="opt decided-tag">A — CDD leads (decided)</td><td>Already does this work today; no new stand-up.</td><td>Process-first culture; may need an explicit authority uplift, not just organisational ring-fencing, to make separation from CAPDEV stick.</td></tr>
+          <tr><td class="opt">B — J3 leads</td><td>De facto owner on paper; fewest new seams.</td><td>Concentration — already carries readiness, targeting, C2.</td></tr>
+          <tr><td class="opt">C — New entity</td><td>Matches outside pattern; a distinct engine.</td><td>Slowest — charter, staffing, competes for bandwidth with other PG 2030 decisions.</td></tr>
+          <tr class="synthesis"><td class="opt">Synthesis, still worth keeping in view</td><td colspan="2">A standing board rather than one department doing everything: CDD chairs for mandate-setting, its former-S&amp;T scouting function held distinct from its CAPDEV/procurement arm, unit reps (SBTDWS, Falcons Bde, and every unit with a MAKHLAB serial) provide demand signal and run execution.</td></tr>
+        </table>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h2>What SBTDWS Offers</h2>
+          <span class="label">calibrated, not a governance claim</span>
+        </div>
+        <div class="offer-box">
+          <ul>
+            <li>A working Tier 1 experiment template — hypothesis, MOE, bounded entry criteria, already running under Commandant authority — offered as the PG-wide Stage 3 pattern, not just an SBTDWS-internal tool.</li>
+            <li>A natural physical and organisational home for that template as the Multi-Domain Training Center stands up at Hameem — SBTDWS proposes co-locating TEIW's experiment function there rather than building it twice.</li>
+            <li class="contested">A manufacturing/prototyping idea, raised as exactly that — an idea. Genuinely contested: there's a real case that UAE industry should build this instead of the PG holding it internally.</li>
+          </ul>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  <footer>
+    <span>v2 — updated 2026-08-14 for the rescheduled Tuesday 2026-08-18 meeting; v1 (2026-08-09, pre-decision) retained unchanged</span>
+    <span>Prepared by SBTDWS for CDD's use · Take it or leave it</span>
+  </footer>
+
+</div>

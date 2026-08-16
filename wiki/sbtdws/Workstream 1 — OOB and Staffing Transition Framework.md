@@ -90,6 +90,9 @@ Core idea: rather than building the MDTC as a net-new cell requiring wholly new 
 
 Per the user, 2026-08-08, explicitly flagged as **"only a thought, not set in stone"**: with Collective Training Wing pivoting toward CTVMR/MDTC framework development and E&E Wing pivoting toward the OT cadre, the third wing — **Individual Skills Wing** — could arguably become the wing that runs the remainder of courses and training that stay as the permanent COA 2 protected core (see Course Consolidation below). Not proposed as a decision; recorded as a candidate answer to the "what forms the protected core" question, worth carrying into the next working session rather than treating as settled.
 
+> [!key-insight] Clarified 2026-08-08: desert warfare identity persists regardless of which COA wins
+> This case describes what happens to Individual Skills Wing *as a dedicated course-delivery wing* under COA 2 specifically. Per the user directly: SBTDWS remains the PG's centre of excellence for desert warfare under **either** COA — same training area, same accumulated expertise, same people. Even under COA 1, where the formal wing winds down, the organisation doesn't stop being desert warfare specialists; it delivers that expertise differently. See [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]] and [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] for the full correction — earlier language across this workstream read as if COA 1 meant losing desert warfare identity, which was an oversight, not the intent.
+
 ### Case 4 — CAPDEV Cell / TEIW → BLOCKED pending Monday's meeting
 
 The CAPDEV Cell (→ TEIW under [[ADWC Three Wing Structure]]'s existing mapping) is a fourth staffing stream, distinct from the three wings above, and it's the one Case that genuinely can't be resolved until [[PG Innovation Governance Framework (Deep Dive)]]'s Monday meeting produces an answer.
@@ -241,6 +244,7 @@ A categorisation for the ~90-100 not-yet-itemised military staff, built to be po
 | v1.5 | 2026-08-08 | Built the OPFOR/EXCON/HICON internal estimate as a J7 discussion primer — [[OPFOR-EXCON-HICON Estimate — J7 Discussion Primer]] |
 | v1.6 | 2026-08-08 | Added the Staff Mapping Framework for the ~90-100 unmapped staff — a categorisation template, deliberately left unpopulated since no roster data exists in the wiki or conversation to date |
 | v1.7 | 2026-08-08 | Confirmed CAPDEV Cell at 2-3 (matches TEIW floor). Confirmed FST attached assessors (~15-20) sit outside Moasana entirely, on parent units' books — not part of the 110-120 or the "unmapped ~90-100" question; whether they become unit-specific OT cadre is a unit-negotiation question, not SBTDWS's to decide. Flagged the attachment mechanism as a potentially faster path than the 2-year Moasana process. |
+| v1.8 | 2026-08-08 | Clarified: desert warfare identity/expertise persists under either COA — earlier language in this page and [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]] read as if COA 1 meant losing desert warfare identity. Corrected: only the formal course-delivery mechanism varies by COA, not the organisation's underlying identity as the PG's centre of excellence for desert warfare. |
 
 ## Source
 

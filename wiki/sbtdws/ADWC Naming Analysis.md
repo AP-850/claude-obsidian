@@ -45,6 +45,9 @@ The [[ADWC FIC Analysis]] names this the **Naming / Expectation Gap**: "All Doma
 
 ---
 
+> [!key-insight] Reconfirmed independently in the COA staffing analysis (2026-08-08)
+> This page's central thesis — desert warfare is the enduring identity, all-domain warfare is the evolving purpose — was independently reconfirmed by the user while correcting the staffing workstreams: regardless of which COA wins ([[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]), SBTDWS remains the PG's centre of excellence for desert warfare. Only the delivery mechanism (dedicated course wing vs. embedded within MDTC) varies by COA — not the underlying identity this page has argued for since June. See [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]].
+
 ## The Core Finding
 
 > **SBTDWS should not simply be rebranded as an ADWC. It should evolve functionally into a readiness, validation, mission rehearsal, tactical experimentation, and lessons institution — while preserving its Desert Warfare identity.**

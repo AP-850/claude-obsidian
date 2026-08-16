@@ -40,6 +40,8 @@ Analysis of the current organisational structure and staffing document. To be wo
 
 **Suggestion (carried from source):** build this as a single base layer, then run both COA 1 and COA 2 from [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] as overlays on it, rather than as a separate exercise from Workstream 4 below — they're the same underlying dataset viewed two ways. This also directly feeds the "named posts against a named COA" requirement in the revised brief's "what we need to proceed" band.
 
+**Outstanding deliverable, flagged 2026-08-08 for a later session:** no standalone report/artifact built yet for this workstream (unlike Workstream 2's HTML leave-behind). Wiki pages ([[Workstream 1 — OOB and Staffing Transition Framework]], [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]], [[OPFOR-EXCON-HICON Estimate — J7 Discussion Primer]]) are complete and ready to open in Obsidian now — a consolidated report/artifact is a future-session task, not done.
+
 **Status:** Framework and methodology complete, 2026-08-08. [[Workstream 1 — OOB and Staffing Transition Framework]] — plans against COA 2 as the working assumption (pending the D-12 answer expected next week). Reconfirms already-endorsed [[ADWC Three Wing Structure]] analysis (Collective Training Wing → main effort, E&E Wing → OT cadre, FST transitions to units per J7) with current staffing numbers (~110-120 total, ~15-20 instructors, 6 Western split 3/2/1), a tentative third-wing candidate (Individual Skills Wing → protected core runner), a fourth stream (CAPDEV Cell/TEIW — **blocked pending Monday's Workstream 2 meeting**, ~5-6 post floor confirmed regardless of outcome), and a 5-step priority-position methodology built around the **Moasana** OOB bureaucracy (up to 2-year MOD change lag). Remaining: mapping the ~90-100 unaccounted-for staff, and naming an owner for OPFOR/EXCON/HICON.
 
 ---
@@ -55,6 +57,10 @@ Conceptual work on how [[PGIC Concept]] (Innovation Command) will function, and 
 **Status:** Deep-dive complete, 2026-08-08. Full analysis at [[PG Innovation Governance Framework (Deep Dive)]] — owner-agnostic framework, three-way reframe of "who leads" (portfolio/execution/sponsorship), red team, and governance-chair COA options for CDD, J3, or a new entity. New entity page: [[CDD (Capability Development Department)]] (J8, previously unnamed in any PG 2030 document). One-page takeaway report built for the meeting: `exports/pg-innovation-governance-framework.html`.
 
 **Downstream dependency, confirmed 2026-08-08:** Monday's outcome directly determines SBTDWS's own Innovation/CAPDEV cell manning — see Workstream 1 Case 4 below.
+
+**Deliverable produced:** revised to v2 after Frank's review — `exports/pg-innovation-governance-framework-v2.html` (v1 retained, unchanged).
+
+**Update 2026-08-14:** the original meeting didn't reach quorum and rescheduled to **Tuesday 2026-08-18, 08:00**. Ahead of the reschedule, J3 resolved the "who leads" question (COA A — CDD/J8 leads) and confirmed MAKHLAB 1/Falcons Brigade sits in the same WG as the Innovation Command work, as a separate project. See [[CDD (Capability Development Department)]] and [[Programme MAKHLAB]] for the resolution detail.
 
 ---
 

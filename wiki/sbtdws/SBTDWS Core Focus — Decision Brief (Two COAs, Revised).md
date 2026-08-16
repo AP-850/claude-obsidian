@@ -88,6 +88,9 @@ Other risks considered and deliberately **not** carried into the brief (answers 
 
 ---
 
+> [!key-insight] Clarified by the user, 2026-08-08: desert warfare identity is not what's actually at stake under either COA
+> The original three-COA brief stated plainly, under its own "Not Part of This Decision": "Desert warfare remains a permanent core competency of the institution. It is not removed under any option." This revised brief's language below — "how the desert warfare role ends or endures" — reads, on its own, as if COA 1 could end desert warfare as an institutional identity. **It does not.** Per the user directly: regardless of COA 1 or COA 2, SBTDWS will still be the PG's centre of excellence for desert warfare — the same training area, the same accumulated expertise, the same people. What the two COAs actually vary is the **delivery mechanism**: whether that expertise continues as a dedicated course wing and standalone programme (closer to COA 2), or is embedded within the MDTC construct in some other form once the formal course catalogue winds down (COA 1) — not whether the organisation stops being desert warfare specialists. "Role ends or endures" in this brief's own wording refers to the formal school/training-delivery function, not the institution's underlying identity. This nuance did not carry through earlier analysis on this wiki cleanly and needed explicit correction — see [[Workstream 4 — Task 1 Deep Dive (COA Overlays)]] for where it was previously stated too starkly.
+
 ## Not Part of This Decision (revised)
 
 - Whether SBTDWS transitions to the MDTC — both COAs transition. The decision is how the desert warfare role ends or endures.
@@ -121,3 +124,5 @@ This session used **MDTC (Multi Domain Training Centre)** throughout, per direct
 ## Source
 
 Ingested from: [[sources/pg-2030-decision-brief-two-coas-workstreams]] | `.raw/PG 2030 New/2026-08-08 Decision Brief - Two COAs and Workstreams.md`
+
+Clarification added 2026-08-08 (later same day): desert warfare identity/expertise persists under either COA — see key-insight callout above.

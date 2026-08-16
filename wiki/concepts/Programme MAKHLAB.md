@@ -21,7 +21,9 @@ related:
   - "[[Presidential Special Guard (PSG)]]"
   - "[[Specialist Reserve Brigade (SRB)]]"
   - "[[PG 2030 Working Groups]]"
+  - "[[PG 2030 Working Groups (12, FDC-Aligned)]]"
   - "[[PG 2030 Mission Response Categories (MRC)]]"
+  - "[[CDD (Capability Development Department)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -63,6 +65,11 @@ Navigation: [[sbtdws/_index]] | [[Makhlab 1 Project]] | [[PG 2030 Force Design C
 
 > [!key-insight] Clarifies the MAKHLAB 1 tasking pattern
 > This coordination-lead role plausibly explains why Falcons Brigade appears tasked so broadly and directly around MAKHLAB elsewhere in the task register (see [[Makhlab 1 Project]]): it is doing double duty as both a MAKHLAB 1 line unit and the cross-programme coordinating authority. This doesn't by itself resolve whether SBTDWS/J3 WDC or Falcons Brigade governs FDC 5 experimentation, but it does explain the breadth of Falcons Brigade's MAKHLAB-related tasking without needing to assume an ownership transfer.
+
+## MAKHLAB 1 and Innovation Command — same WG, separate projects (2026-08-14)
+
+> [!key-insight] Confirmed by the user, ahead of the 2026-08-18 Innovation Command WG
+> J3 has agreed MAKHLAB 1 (Falcons Brigade) and the Innovation Command work will sit inside the **same Working Group** (WG4 on [[PG 2030 Working Groups (12, FDC-Aligned)]], led by CDD/J8 — see [[CDD (Capability Development Department)]] for the leadership resolution). They remain **separate projects** deliberately: other units still have to build their own MAKHLAB serials (2/3/4/8 above) as this programme develops, and Falcons Brigade's role is to be the framework/best-practice reference for that build-out, not the owner of every serial. Lessons learned running the MAKHLAB 1 / innovation piece are expected to feed into — and potentially form part of the foundation of — the wider innovation pipeline/Innovation Command itself, not stay siloed to Falcons Brigade's own serial.
 
 ## Relationship to SBTDWS / Innovation Command
 

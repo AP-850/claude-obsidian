@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-05-26
+updated: 2026-08-14
 tags:
   - meta
   - index
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-23 | Total pages: 94 | Sources ingested: 10
+Last updated: 2026-08-14 | Total pages: 97 | Sources ingested: 21
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -187,7 +187,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[sources/updated-pg-2030-tasks-aug-2026]] — PG-HQ-wide task register: J1–J7, SBTDWS, Innovation Cmd, NCTJC, PGI, all manoeuvre/special units; reveals numbered MAKHLAB family, third naming candidate, formal PGIC handoff task (status: ingested)
 - [[Programme MAKHLAB]] — numbered UxS/AI serials (MAKHLAB 1/2/3/4/8) mapped across Falcons Bde, Al Forsan, HBE, SOC, PSG, SRB, J4; SBTDWS retains FDC 5, Innovation Cmd support model pending decision week of 2026-08-11 (status: active)
 - [[SBTDWS Core Focus — COA Decision]] — J3/J7 combined meeting follow-up; original 3-COA course-portfolio brief; confirms MDTC spelling; superseded 2026-08-08 by [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]] (status: superseded)
-- [[PG 2030 Working Groups]] — 8 formal WGs (task/endstate/members); Falcons Bde leads cross-unit MAKHLAB coordination; J7-led Warfare Development Center WG raises a build-vs-run question against J3 WDC (status: draft-suggested)
+- [[PG 2030 Working Groups]] — 8 formal WGs (task/endstate/members); Falcons Bde leads cross-unit MAKHLAB coordination; J7-led Warfare Development Center WG raises a build-vs-run question against J3 WDC (status: superseded)
+- [[PG 2030 Working Groups (12, FDC-Aligned)]] — formal 12-WG structure, one WG per Force Design Concept; WG5 "Multi-Domain Battle Center" (J7 lead) is SBTDWS's ADWC/MDTC transformation, now chartered as PG governance (status: active)
 - [[J7 Readiness Flow and Deliverables Register]] — endorsed 2026-08-05; Readiness Flow (8 stages, 8 gaps) + ~60-item J7 Deliverables Register; SBT's role made explicit; D-05 flagged "largest single risk" (status: endorsed)
 - [[PG 2030 Warfighting Capability Pillars]] — PG-wide logic chain: 12 FDCs → 6 Warfighting Capability Pillars → 21 SAG Mission Sets → MRC readiness benchmark → End State; resolves the FDC 5 gap (status: active)
 - [[PG 2030 Mission Response Categories (MRC)]] — MRC 1-4 defined for the first time (Counter Terrorism, Support to Civil Authorities in Crisis, External Operations, Homeland Defense) (status: active)
@@ -226,6 +227,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[sources/pg-2030-comd-briefing-pack]] — 2026-08-08 | 3-page PG-wide Comd briefing pack (Vision/Logic/Timeline) | 3 wiki pages created, 8 updated
 - [[sources/pg-2030-decision-brief-two-coas-workstreams]] — 2026-08-08 | J3/J7 follow-up session note: revised 2-COA decision brief + 4 workstreams | 3 wiki pages created, 6 updated
 - [[sources/pg2030-product-3a-integrated-development-plan]] — 2026-08-09 | Frank's PG-wide IDP planning standard (docx) | 2 wiki pages created, 4 updated
+- [[sources/pg2030-working-groups-12-fdc-aligned]] — 2026-08-14 | formal 12-WG structure, one WG per Force Design Concept (pdf) | 2 wiki pages created, 4 updated
 
 ## TACTIX — Exercise Control Application
 

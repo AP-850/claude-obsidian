@@ -1,0 +1,193 @@
+<title>How We Turn Ideas Into New Capabilities</title>
+<style>
+  @page { size: A4 portrait; margin: 14mm; }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    background: #ffffff;
+    color: #000000;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+  }
+
+  .sheet { width: 182mm; margin: 0 auto; }
+
+  h1, h2 {
+    font-weight: 800;
+    margin: 0;
+    color: #000000;
+  }
+
+  header {
+    border-bottom: 3px solid #000000;
+    padding-bottom: 10px;
+    margin-bottom: 18px;
+  }
+  header h1 { font-size: 24px; letter-spacing: 0.01em; }
+  header .sub { font-size: 12px; color: #333333; margin-top: 4px; }
+
+  section { margin-bottom: 20px; }
+
+  .section-title {
+    font-size: 13px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border-bottom: 1.5px solid #000000;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
+
+  /* ---- Flow diagram ---- */
+  .flow {
+    display: flex;
+    align-items: stretch;
+    gap: 6px;
+  }
+  .flow-step {
+    flex: 1;
+    border: 1.5px solid #000000;
+    border-radius: 4px;
+    padding: 8px 6px;
+    text-align: center;
+  }
+  .flow-step .step-num {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+    border: 1.5px solid #000000;
+    font-weight: 800;
+    font-size: 11px;
+    margin-bottom: 6px;
+  }
+  .flow-step .step-name {
+    display: block;
+    font-weight: 800;
+    font-size: 11px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .flow-step .step-note {
+    display: block;
+    font-size: 9.5px;
+    color: #333333;
+  }
+  .flow-step.highlight { background: #eeeeee; }
+  .flow-arrow {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 800;
+    padding: 0 1px;
+  }
+
+  .flow-caption {
+    font-size: 11px;
+    color: #222222;
+    margin-top: 10px;
+    padding: 8px 10px;
+    border-left: 3px solid #000000;
+    background: #f6f6f6;
+  }
+
+  /* ---- Roles ---- */
+  .roles { display: flex; flex-direction: column; gap: 8px; }
+  .role-row {
+    display: grid;
+    grid-template-columns: 3.6cm 1fr;
+    gap: 10px;
+    border: 1.5px solid #000000;
+    border-radius: 4px;
+    padding: 9px 12px;
+    align-items: center;
+  }
+  .role-row .role-name {
+    font-weight: 800;
+    font-size: 13px;
+    text-transform: uppercase;
+  }
+  .role-row .role-desc { font-size: 11px; }
+
+  /* ---- Offer list ---- */
+  .offer-list { display: flex; flex-direction: column; gap: 10px; }
+  .offer-item {
+    display: grid;
+    grid-template-columns: 26px 1fr;
+    gap: 10px;
+    align-items: start;
+  }
+  .offer-item .bullet {
+    width: 22px; height: 22px; line-height: 20px;
+    border: 1.5px solid #000000; border-radius: 50%;
+    text-align: center; font-weight: 800; font-size: 12px;
+  }
+  .offer-item .offer-text { font-size: 12px; }
+  .offer-item .offer-text strong { display: block; font-size: 12.5px; margin-bottom: 2px; }
+
+  footer {
+    margin-top: 14px;
+    padding-top: 8px;
+    border-top: 1px solid #000000;
+    font-size: 9px;
+    color: #333333;
+    text-align: center;
+  }
+</style>
+
+<div class="sheet">
+
+  <header>
+    <h1>How We Turn Ideas Into New Capabilities</h1>
+    <div class="sub">PG Innovation &amp; Experimentation — Simple Overview</div>
+  </header>
+
+  <section>
+    <div class="section-title">The Process, Step by Step</div>
+    <div class="flow">
+      <div class="flow-step"><span class="step-num">1</span><span class="step-name">Idea</span><span class="step-note">Any unit spots a problem or a new idea</span></div>
+      <div class="flow-arrow">&#8594;</div>
+      <div class="flow-step highlight"><span class="step-num">2</span><span class="step-name">Test It</span><span class="step-note">SBTDWS runs a safe, small, timed trial</span></div>
+      <div class="flow-arrow">&#8594;</div>
+      <div class="flow-step highlight"><span class="step-num">3</span><span class="step-name">Decide</span><span class="step-note">CDD decides if it's worth scaling up</span></div>
+      <div class="flow-arrow">&#8594;</div>
+      <div class="flow-step"><span class="step-num">4</span><span class="step-name">Roll Out</span><span class="step-note">Built, funded, and issued to units</span></div>
+      <div class="flow-arrow">&#8594;</div>
+      <div class="flow-step"><span class="step-num">5</span><span class="step-name">Standard</span><span class="step-note">Becomes normal practice / training</span></div>
+    </div>
+    <div class="flow-caption">
+      <strong>Where SBTDWS fits in: Step 2.</strong> We already run this step today — testing ideas quickly and safely before anyone spends real money on them. Step 3 (the decision) now sits with CDD.
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">Who Does What</div>
+    <div class="roles">
+      <div class="role-row"><span class="role-name">CDD</span><span class="role-desc">Leads this working group. Decides which tested ideas get funded and rolled out.</span></div>
+      <div class="role-row"><span class="role-name">SBTDWS</span><span class="role-desc">Runs the tests (Step 2). Reports back clearly on what worked and what didn't.</span></div>
+      <div class="role-row"><span class="role-name">Falcons Brigade</span><span class="role-desc">Working on their own project (MAKHLAB 1). Sharing what they learn so other units don't start from zero.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">What SBTDWS Is Offering</div>
+    <div class="offer-list">
+      <div class="offer-item">
+        <span class="bullet">1</span>
+        <span class="offer-text"><strong>A testing process that already works.</strong> We don't need to build this from scratch — SBTDWS already runs Step 2 today, with clear rules for what counts as a fair test.</span>
+      </div>
+      <div class="offer-item">
+        <span class="bullet">2</span>
+        <span class="offer-text"><strong>A home for this work.</strong> As the new Multi-Domain Training Center is built at Hameem, this testing work can be based there — one place for training, trials, and new ideas, instead of building something separate.</span>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Simple overview — prepared for internal discussion ahead of the Innovation Command Working Group
+  </footer>
+
+</div>

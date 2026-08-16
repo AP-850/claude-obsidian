@@ -2,7 +2,7 @@
 type: reference
 title: "Commander Decisions Register"
 created: 2026-06-02
-updated: 2026-08-08
+updated: 2026-08-09
 tags:
   - sbtdws
   - adwc
@@ -26,6 +26,7 @@ related:
   - "[[J7 Readiness Flow and Deliverables Register]]"
   - "[[sources/pg-2030-comd-briefing-pack]]"
   - "[[PG 2030 Workstreams (2026-08-08)]]"
+  - "[[PG 2030 Integrated Development Plan Standard (Product 3A)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -364,6 +365,9 @@ Authority is sought to transition SBTDWS to the MDTC. The decision required is t
 - **COA 1 — Full Transition:** MDTC becomes the sole output; the desert warfare school role is run down on a planned schedule and **ceases by FOC Q4 30**. No core retained. Smallest manpower uplift of the two, but total loss of the desert warfare role.
 - **COA 2 — Phased Transition with a Protected Core:** MDTC becomes the main output over the plan period; a defined desert warfare core is agreed once and **kept permanently**; everything outside that core is reduced, stopped, or handed off in steps at the gates (MLOC Q4 27 / IOC Q4 28 / FOC Q4 30). Smaller, phased manpower uplift.
 
+> [!contradiction] FOC date conflict with a PG-level source (2026-08-09)
+> [[PG 2030 Integrated Development Plan Standard (Product 3A)]] — a PG-wide planning standard authored by [[Frank]] — gives FOC as tentatively **31 Dec 2029**, a full year earlier than the Q4 30 used in both COAs above and throughout [[SBTDWS 2030 Timeline]]. Not yet reconciled; flagged for resolution since it affects this decision's own gate calendar as well as D-08's Hameem capital planning, both keyed to FOC.
+
 **What it gates:**
 - Whether the Phase 1 structural reorganisation plan (D-01) is designed around a full run-down (COA 1) or a protected-core phased handover (COA 2)
 - The manpower and budget bid SBTDWS submits for Q4 26
@@ -432,6 +436,7 @@ Everything else requires PG HQ or Higher HQ, and SBTDWS must surface these throu
 | v1.2 | 2026-08-05 | D-02/D-05/D-06/D-08 given concrete instrument references, approval chains, and target dates from the J3-endorsed [[J7 Readiness Flow and Deliverables Register]]; D-05 target date discrepancy (Q4-26 vs Q4-27) flagged, not yet reconciled |
 | v1.3 | 2026-08-08 | D-10 note added: [[sources/pg-2030-comd-briefing-pack]] ingested — confirmed not the naming-decision brief, but adds a PG-wide MDTC corroboration data point |
 | v1.4 | 2026-08-08 | D-12 revised: three-COA original ([[SBTDWS Core Focus — COA Decision]]) superseded by a two-COA version ([[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]) with a materially different decision framing; COA numbering reused with inverted meaning, flagged inline |
+| v1.5 | 2026-08-09 | D-12 flagged with a FOC date conflict against [[PG 2030 Integrated Development Plan Standard (Product 3A)]] (31 Dec 2029 vs. Q4 30 carried throughout this register) — not reconciled, flagged for resolution |
 
 ---
 

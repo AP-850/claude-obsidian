@@ -45,8 +45,10 @@ SHARED BASE LAYER ──┤  (identical under both COAs)                        
 (Task 1 delivery)   └─ Case 2: E&E Wing core → OT cadre, FST → units ──────────┘
                               (identical under both COAs — J7's call, not COA-linked)
 
-FORKS BY COA ─────── Case 3: Individual Skills Wing / legacy desert-warfare courses
-                              COA 1 → handed off or stopped, role ends by FOC Q4 30
+FORKS BY COA ─────── Case 3: Individual Skills Wing as a dedicated course wing
+                              (desert warfare identity/expertise persists under BOTH — only
+                               the delivery mechanism forks, not the underlying identity)
+                              COA 1 → dedicated wing winds down, expertise embeds into MDTC
                               COA 2 → tentatively the protected-core runner (not settled)
 ```
 
@@ -56,12 +58,15 @@ This means [[Workstream 1 — OOB and Staffing Transition Framework]]'s Cases 1 
 
 ## COA 1 Overlay — Full Transition
 
-What changes if the desert warfare role ends by FOC Q4 30, all remaining courses are handed off or stopped, and MDTC becomes the sole output:
+> [!key-insight] Clarified by the user, 2026-08-08: this is not "SBTDWS stops being desert warfare experts"
+> What follows describes the formal course wing and school-delivery function winding down under COA 1 — not the organisation's underlying identity. Per the user directly: regardless of COA 1 or COA 2, SBTDWS remains the PG's centre of excellence for desert warfare — same training area, same accumulated expertise, same people. What genuinely varies between the two COAs is the **delivery mechanism**, not whether desert warfare identity survives. See the same clarification on [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]].
 
-- **Individual Skills Wing has no permanent role.** Its courses are either handed off to a named recipient organisation, stopped outright, or — where genuinely useful — absorbed as foundational inputs into MDTC training (e.g., desert navigation/survival as a baseline skill feeding collective training) rather than surviving as a standalone wing.
+What changes if the formal desert warfare course programme winds down by FOC Q4 30, remaining courses are handed off or stopped, and MDTC becomes the sole formal output — while the organisation's desert warfare identity and expertise persist regardless:
+
+- **Individual Skills Wing has no permanent role as a dedicated course-delivery wing.** Its courses are either handed off to a named recipient organisation, stopped outright, or — where genuinely useful — absorbed as foundational inputs into MDTC training (e.g., desert navigation/survival as a baseline skill feeding collective training), embedded within the MDTC construct rather than surviving as a standalone wing. The desert warfare expertise itself doesn't disappear — it's delivered differently, likely as the environmental/contextual backbone of MDTC training rather than a discrete course catalogue.
 - **Net steady-state staffing is smaller, not larger.** COA 1's own text already states this: "smallest manpower uplift of the two options — no dual output to sustain." No protected core means no permanent Individual Skills Wing establishment to staff.
 - **But there's a near-term staffing cost COA 2 doesn't have: transition management.** Winding down a wing, transferring courses to a named recipient, and managing the handover schedule is itself a temporary workload — orderly deactivation isn't free, even though it doesn't produce a permanent billet.
-- **Retention risk during wind-down, not present under COA 2.** Staff in a wing whose role is explicitly ending by Q4 30 have a real incentive to leave for units with a future, rather than stay through a wind-down. This is a staffing risk COA 2 doesn't carry, since COA 2's Individual Skills Wing (if it becomes the protected-core runner) offers people a role that continues to exist.
+- **Retention risk during wind-down, not present under COA 2.** Staff in a wing whose *formal course-delivery role* is ending by Q4 30 have a real incentive to leave for units with a more obviously continuing role, even though the organisation itself and its desert warfare identity persist — the risk is about perceived career continuity within a changing structure, not about the institution's survival. This is a staffing risk COA 2 doesn't carry to the same degree, since COA 2's Individual Skills Wing (if it becomes the protected-core runner) offers people a more visibly continuous role.
 - **A named recipient organisation is a precondition, not a detail.** COA 1's own text requires "a named organisation to assume the desert warfare role, or PG HQ acceptance that it lapses" — until that's answered, the Individual Skills Wing transition can't actually be planned, only anticipated.
 
 ---
@@ -72,7 +77,8 @@ What changes if the desert warfare role ends by FOC Q4 30, all remaining courses
 |---|---|---|
 | Collective Training Wing | → CTVMR/MDTC framework (shared) | → CTVMR/MDTC framework (shared) |
 | E&E Wing / FST | → OT cadre, FST to units (shared) | → OT cadre, FST to units (shared) |
-| Individual Skills Wing | Handed off, stopped, or partially absorbed as inputs | Tentative protected-core runner (not settled) |
+| Individual Skills Wing (as a dedicated course wing) | Handed off, stopped, or partially absorbed as inputs into MDTC | Tentative protected-core runner (not settled) |
+| Desert warfare identity / expertise | **Persists regardless — same training area, same expertise, delivered differently** | **Persists regardless — same training area, same expertise, delivered as a dedicated programme** |
 | Steady-state manpower | Smaller — single output | Larger — dual output sustained |
 | Near-term staffing cost | Transition/wind-down management | Course consolidation, same mechanism, ongoing not terminal |
 | Retention risk | Real, tied to role ending | Lower — role continues |
@@ -93,3 +99,5 @@ Task 1 is train/validate for All Domain operations — [[PG 2030 Directive]] Tas
 ## Source
 
 Built 2026-08-08 from [[Workstream 1 — OOB and Staffing Transition Framework]] and [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]]. Not a document ingest — first-pass analytical draft.
+
+Clarified 2026-08-08 (later same day): desert warfare identity/expertise persists under either COA — earlier language in this page read as if COA 1 ended it; corrected to distinguish the formal course-delivery role (which does wind down under COA 1) from the organisation's underlying identity (which does not).

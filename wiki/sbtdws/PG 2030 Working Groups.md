@@ -3,14 +3,14 @@ type: reference
 title: "PG 2030 Working Groups"
 address: c-000033
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-14
 tags:
   - sbtdws
   - pg2030
   - working-groups
   - governance
   - primary-source
-status: draft-suggested
+status: superseded
 related:
   - "[[PG 2030 Directive]]"
   - "[[Commander Decisions Register]]"
@@ -19,6 +19,7 @@ related:
   - "[[J3 WDC]]"
   - "[[NCTJC]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
+  - "[[PG 2030 Working Groups (12, FDC-Aligned)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -26,7 +27,10 @@ related:
 
 A bilingual (EN/AR, CamScanner-scanned) 4-page proposal, "suggested from J3 advisor," establishing a formal Working Group (WG) governance structure for PG 2030 — 8 WGs, each with a Task Lead, an Endstate, and a defined membership list drawn from PG staff branches and units.
 
-Navigation: [[sbtdws/_index]] | [[Commander Decisions Register]] | [[PG 2030 Directive]]
+> [!gap] Superseded 2026-08-14
+> Replaced by the formal, FDC-aligned 12-WG structure at [[PG 2030 Working Groups (12, FDC-Aligned)]], which maps one Working Group to each of the 12 confirmed [[PG 2030 Force Design Concepts]]. Kept here for continuity and cross-referencing — several Leads and roles below (Falcons Bde/MAKHLAB, J6/Digital Spine, J7/Warfare Development Center) are corroborated, not contradicted, by the new structure. See the Cross-Cutting Observations section on the new page for the WG-to-WG mapping.
+
+Navigation: [[sbtdws/_index]] | [[Commander Decisions Register]] | [[PG 2030 Directive]] | [[PG 2030 Working Groups (12, FDC-Aligned)]]
 
 > [!gap] Scan/OCR quality
 > This source is a heavily scanned/rotated document; several Endstate paragraphs contain duplicated or garbled text (apparent double-exposure of overlapping OCR passes). Task titles, Task Leads, and Member lists are transcribed with high confidence. Endstate text below is paraphrased for readability where the raw scan was unclear — treat as directionally accurate, not a verbatim quote, unless otherwise noted.

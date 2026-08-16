@@ -1,0 +1,552 @@
+<title>PG Innovation Governance — Discussion Framework</title>
+<style>
+  :root {
+    --paper: #eae3d3;
+    --paper-raised: #f2ede1;
+    --ink: #20241f;
+    --ink-soft: #4b4f43;
+    --rule: #c7bc9f;
+    --rule-strong: #a89d7c;
+    --navy: #1d3a4a;
+    --navy-soft: #3a5567;
+    --ochre: #8f611f;
+    --slate-green: #45573f;
+    --rust: #7e372b;
+    --card-bg: #f5f1e6;
+    --shadow: rgba(32, 36, 31, 0.08);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #1b1e1a;
+      --paper-raised: #23271f;
+      --ink: #e9e4d4;
+      --ink-soft: #b3ab93;
+      --rule: #43482f;
+      --rule-strong: #5c6340;
+      --navy: #7fa6bd;
+      --navy-soft: #5f8aa3;
+      --ochre: #d3a35a;
+      --slate-green: #8fac82;
+      --rust: #c47a68;
+      --card-bg: #23271e;
+      --shadow: rgba(0, 0, 0, 0.35);
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --paper: #1b1e1a;
+    --paper-raised: #23271f;
+    --ink: #e9e4d4;
+    --ink-soft: #b3ab93;
+    --rule: #43482f;
+    --rule-strong: #5c6340;
+    --navy: #7fa6bd;
+    --navy-soft: #5f8aa3;
+    --ochre: #d3a35a;
+    --slate-green: #8fac82;
+    --rust: #c47a68;
+    --card-bg: #23271e;
+    --shadow: rgba(0, 0, 0, 0.35);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+  }
+
+  h1, h2, h3 {
+    font-family: "Arial Narrow", "Roboto Condensed", "Helvetica Neue", sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    text-wrap: balance;
+    color: var(--ink);
+    margin: 0;
+  }
+
+  .label {
+    font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+
+  /* ---- Header block ---- */
+
+  .letterhead {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+    padding-bottom: 1.6rem;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: 2.2rem;
+  }
+
+  .letterhead-meta {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.5rem;
+  }
+
+  .letterhead h1 {
+    font-size: clamp(1.7rem, 4.4vw, 2.35rem);
+    line-height: 1.08;
+  }
+
+  .letterhead .subtitle {
+    font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+    font-size: 0.95rem;
+    color: var(--navy-soft);
+    font-weight: 600;
+  }
+
+  .status-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ochre);
+    border: 1px solid var(--ochre);
+    padding: 0.28em 0.7em;
+    border-radius: 3px;
+    align-self: flex-start;
+  }
+
+  /* ---- Section rhythm ---- */
+
+  section { margin-bottom: 2.6rem; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.7em;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .section-head h2 { font-size: 1.05rem; }
+
+  .section-head .label { flex: 1; text-align: right; }
+
+  p { margin: 0 0 0.9em; color: var(--ink); }
+  p.lede { color: var(--ink-soft); font-size: 1.02rem; }
+
+  /* ---- Flow diagram ---- */
+
+  .flow-wrap { overflow-x: auto; padding-bottom: 0.4rem; }
+
+  .flow {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    min-width: 720px;
+  }
+
+  .flow-stage {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    background: var(--card-bg);
+    border: 1px solid var(--rule-strong);
+    border-radius: 2px;
+    padding: 0.85rem 0.9rem;
+    position: relative;
+  }
+
+  .flow-stage .num {
+    font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+    font-size: 0.7rem;
+    color: var(--navy-soft);
+    font-weight: 700;
+  }
+
+  .flow-stage .name {
+    font-family: "Arial Narrow", "Roboto Condensed", "Helvetica Neue", sans-serif;
+    font-weight: 800;
+    font-size: 0.86rem;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    line-height: 1.15;
+  }
+
+  .flow-stage .note {
+    font-size: 0.76rem;
+    color: var(--ink-soft);
+    line-height: 1.3;
+  }
+
+  .flow-stage.gap {
+    border: 1px dashed var(--ochre);
+    background: transparent;
+  }
+  .flow-stage.gap .name { color: var(--ochre); }
+
+  .flow-arrow {
+    flex: 0 0 auto;
+    width: 1.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--rule-strong);
+    font-family: ui-monospace, monospace;
+    font-size: 1.1rem;
+  }
+
+  .flow-gate {
+    flex: 0 0 auto;
+    width: 2.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .flow-gate .diamond {
+    width: 1.15rem;
+    height: 1.15rem;
+    background: var(--navy);
+    transform: rotate(45deg);
+  }
+
+  .flow-callout {
+    margin-top: 0.9rem;
+    font-size: 0.86rem;
+    color: var(--ink-soft);
+  }
+  .flow-callout strong { color: var(--ink); }
+
+  /* ---- Reframe panel ---- */
+
+  .reframe {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+  }
+
+  .reframe-item {
+    background: var(--card-bg);
+    padding: 1.1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .reframe-item .q-num {
+    font-family: ui-monospace, monospace;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1;
+  }
+
+  .reframe-item h3 { font-size: 0.92rem; }
+  .reframe-item p { font-size: 0.83rem; color: var(--ink-soft); margin: 0; }
+
+  @media (max-width: 620px) {
+    .reframe { grid-template-columns: 1fr; }
+  }
+
+  /* ---- Tagged list ---- */
+
+  .tagged-list { display: flex; flex-direction: column; gap: 0.7rem; }
+
+  .tagged-item {
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    gap: 0.9rem;
+    align-items: baseline;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .tagged-item:last-child { border-bottom: none; }
+
+  .tag {
+    font-family: ui-monospace, monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+    padding: 0.22em 0.5em;
+    border-radius: 2px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .tag.act { background: color-mix(in srgb, var(--rust) 16%, transparent); color: var(--rust); }
+  .tag.shape { background: color-mix(in srgb, var(--slate-green) 16%, transparent); color: var(--slate-green); }
+  .tag.escalate { background: color-mix(in srgb, var(--ochre) 16%, transparent); color: var(--ochre); }
+
+  .tagged-item p { margin: 0; font-size: 0.92rem; }
+
+  /* ---- COA cards ---- */
+
+  .coa-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.9rem;
+  }
+  @media (max-width: 620px) { .coa-grid { grid-template-columns: 1fr; } }
+
+  .coa-card {
+    background: var(--card-bg);
+    border: 1px solid var(--rule-strong);
+    border-top: 3px solid var(--navy);
+    padding: 1rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .coa-card.synthesis { border-top-color: var(--slate-green); grid-column: 1 / -1; }
+
+  .coa-card .coa-label {
+    font-family: ui-monospace, monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    color: var(--navy-soft);
+    text-transform: uppercase;
+  }
+  .coa-card.synthesis .coa-label { color: var(--slate-green); }
+
+  .coa-card h3 { font-size: 1rem; margin-bottom: 0.1rem; }
+
+  .coa-card .field { font-size: 0.85rem; }
+  .coa-card .field .fk {
+    font-family: ui-monospace, monospace;
+    font-size: 0.66rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    display: block;
+    margin-bottom: 0.15em;
+  }
+
+  /* ---- Offer box ---- */
+
+  .offer-box {
+    background: var(--paper-raised);
+    border-left: 3px solid var(--navy);
+    padding: 1rem 1.2rem;
+  }
+  .offer-box ul { margin: 0.5em 0 0; padding-left: 1.2em; }
+  .offer-box li { margin-bottom: 0.4em; font-size: 0.92rem; }
+
+  /* ---- Footer ---- */
+
+  footer {
+    margin-top: 3rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-family: ui-monospace, monospace;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    letter-spacing: 0.03em;
+  }
+
+  @media print {
+    body { background: #fff; }
+    .sheet { max-width: none; padding: 0.5in; }
+  }
+</style>
+
+<div class="sheet">
+
+  <div class="letterhead">
+    <div class="letterhead-meta">
+      <span class="label">SBTDWS · Workstream 2 · Prepared for Discussion</span>
+      <span class="status-chip">Draft — not a decision</span>
+    </div>
+    <h1>PG Innovation Governance</h1>
+    <div class="subtitle">A framework for where innovation lives — owner and participant agnostic</div>
+  </div>
+
+  <section>
+    <p class="lede">This is a starting framework, not a proposal to hand any single organisation the answer. It maps how an idea should move from an individual or unit through to a fielded, institutionalised capability, and separates "who leads innovation" into the questions it actually contains.</p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>The Flow — Idea to Capability</h2>
+      <span class="label">7 stages</span>
+    </div>
+    <div class="flow-wrap">
+      <div class="flow">
+        <div class="flow-stage">
+          <span class="num">01</span>
+          <span class="name">Idea Source</span>
+          <span class="note">Any operator, any unit — not one pilot brigade</span>
+        </div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-stage gap">
+          <span class="num">02</span>
+          <span class="name">Intake &amp; Sponsorship</span>
+          <span class="note">No mechanism exists today, for anyone</span>
+        </div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-stage">
+          <span class="num">03</span>
+          <span class="name">Tier 1 Experiment</span>
+          <span class="note">Bounded, existing resources, 30–90 days</span>
+        </div>
+        <div class="flow-gate"><span class="diamond"></span></div>
+        <div class="flow-stage">
+          <span class="num">04</span>
+          <span class="name">Tier 2 Gate</span>
+          <span class="note">Capital / scale decision — governance matters here</span>
+        </div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-stage">
+          <span class="num">05</span>
+          <span class="name">Scale &amp; Field</span>
+          <span class="note">Fielding dossier, small-run production, handover</span>
+        </div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-stage">
+          <span class="num">06</span>
+          <span class="name">Standardise</span>
+          <span class="note">Cross-unit, once more than one runs it</span>
+        </div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-stage">
+          <span class="num">07</span>
+          <span class="name">Institutionalise</span>
+          <span class="note">Doctrine, training pipeline, force design review</span>
+        </div>
+      </div>
+    </div>
+    <p class="flow-callout"><strong>The gap that matters most is Stage 2, not Stage 4.</strong> The room will likely default to arguing about who chairs the Tier 2 gate — but nobody currently owns getting an idea from an individual to a governed experiment in the first place, regardless of who wins that argument.</p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>"Who Leads" Is Three Questions</h2>
+      <span class="label">not one</span>
+    </div>
+    <div class="reframe">
+      <div class="reframe-item">
+        <span class="q-num">1</span>
+        <h3>Portfolio Governance</h3>
+        <p>Priorities, resourcing, the Tier 2 kill/continue call, cross-unit deconfliction. This is the actual "who leads" question.</p>
+      </div>
+      <div class="reframe-item">
+        <span class="q-num">2</span>
+        <h3>Execution</h3>
+        <p>Running the sprints. Stays distributed at unit/school level — doesn't need a single owner.</p>
+      </div>
+      <div class="reframe-item">
+        <span class="q-num">3</span>
+        <h3>Sponsorship</h3>
+        <p>Naming problems, providing operators, validating outputs. Inherently unit-level, not a headquarters function.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Key Items to Address</h2>
+      <span class="label">act · shape · escalate</span>
+    </div>
+    <div class="tagged-list">
+      <div class="tagged-item">
+        <span class="tag act">ACT</span>
+        <p>Stage 2 (intake) has no owner or mechanism today, regardless of who wins the governance question — someone needs to build this from nothing.</p>
+      </div>
+      <div class="tagged-item">
+        <span class="tag act">ACT</span>
+        <p>Whoever chairs this meeting risks becoming the default portfolio owner by accident, not by design. Worth naming out loud.</p>
+      </div>
+      <div class="tagged-item">
+        <span class="tag act">ACT</span>
+        <p>Land this explicitly: whatever owns innovation must stay functionally and culturally separate from day-to-day CAPDEV — purchasing equipment, fielding it. Same skill set, different function.</p>
+      </div>
+      <div class="tagged-item">
+        <span class="tag shape">SHAPE</span>
+        <p>A department already running capability development well today is not automatically suited to running an innovation function — different culture, different battle rhythm.</p>
+      </div>
+      <div class="tagged-item">
+        <span class="tag shape">SHAPE</span>
+        <p>No budget or bridge-funding mechanism exists anywhere yet for the gap between a proven experiment and a resourced program.</p>
+      </div>
+      <div class="tagged-item">
+        <span class="tag escalate">ESCALATE</span>
+        <p>Is this meeting deciding "who leads" fresh, or implementing a direction already assumed elsewhere on paper but never stood up? Worth asking directly — it changes what today is for.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Governance-Chair Options</h2>
+      <span class="label">for stage 4 only</span>
+    </div>
+    <div class="coa-grid">
+      <div class="coa-card">
+        <span class="coa-label">Option A</span>
+        <h3>Existing Capability-Development Function Leads</h3>
+        <div class="field"><span class="fk">Strength</span>Already does this work today. No new stand-up.</div>
+        <div class="field"><span class="fk">Risk</span>Inherits a process-first, compliance culture — the documented cause of capability death in the gap between prototype and program.</div>
+        <div class="field"><span class="fk">Mitigation</span>Ring-fence a small, flat cell with delegated authority, explicitly separate from the procurement chain.</div>
+      </div>
+      <div class="coa-card">
+        <span class="coa-label">Option B</span>
+        <h3>Warfighting Staff (J3) Leads</h3>
+        <div class="field"><span class="fk">Strength</span>Already the de facto owner on paper. Fewest new coordination seams.</div>
+        <div class="field"><span class="fk">Risk</span>Concentration — already carries readiness, targeting, C2. Scouting is a different discipline from staff planning.</div>
+        <div class="field"><span class="fk">Mitigation</span>Keep mandate-setting authority; delegate day-to-day portfolio management to a distinct small cell.</div>
+      </div>
+      <div class="coa-card">
+        <span class="coa-label">Option C</span>
+        <h3>New Entity Leads</h3>
+        <div class="field"><span class="fk">Strength</span>Matches the pattern other institutions use — a distinct engine, not bolted onto an existing function.</div>
+        <div class="field"><span class="fk">Risk</span>Slowest to stand up — charter, staffing, facility, competing for the same institutional bandwidth as other pending decisions.</div>
+        <div class="field"><span class="fk">Mitigation</span>Stand up an interim governance board now; let the formal charter run in parallel, not gate everything until it lands.</div>
+      </div>
+      <div class="coa-card synthesis">
+        <span class="coa-label">Synthesis</span>
+        <h3>Standing Board, Not a Single Department</h3>
+        <p style="font-size:0.88rem; color:var(--ink-soft); margin:0;">A chair for mandate-setting, a scouting/capability-development function held distinct from procurement, and rotating unit representation for demand signal and execution — rather than one department owning all three questions above. Best supported by outside comparative practice; not a foregone conclusion.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>What SBTDWS Can Offer</h2>
+      <span class="label">calibrated, not a claim on governance</span>
+    </div>
+    <div class="offer-box">
+      <ul>
+        <li>A working Tier 1 experiment template — hypothesis, measure of effectiveness, bounded entry criteria — already drafted and usable as the pattern for Stage 3, PG-wide.</li>
+        <li>A manufacturing/prototyping idea worth raising as exactly that — an idea, not existing capability — for possible incorporation into the school's own experimentation function.</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <span>Prepared 2026-08-08 · For discussion, not decision</span>
+    <span>Owner and participant agnostic by design</span>
+  </footer>
+
+</div>

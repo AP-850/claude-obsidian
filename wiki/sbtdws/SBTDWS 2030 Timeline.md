@@ -1,7 +1,7 @@
 ---
 type: reference
 title: "SBTDWS 2030 Timeline"
-updated: 2026-08-08
+updated: 2026-08-09
 tags:
   - sbtdws
   - adwc
@@ -18,6 +18,7 @@ related:
   - "[[ADWC Implementation Plan (5-LOE Slide)]]"
   - "[[SBTDWS Core Focus — COA Decision]]"
   - "[[sources/pg-2030-comd-briefing-pack]]"
+  - "[[PG 2030 Integrated Development Plan Standard (Product 3A)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -146,6 +147,9 @@ The [[SBTDWS PM Framework]] tracks all milestones across 6 Lines of Effort (LOEs
 ---
 
 ---
+
+> [!contradiction] FOC date conflict — Product 3A gives 31 Dec 2029, a full year earlier (2026-08-09)
+> [[PG 2030 Integrated Development Plan Standard (Product 3A)]] — a PG-wide planning standard authored by [[Frank]] — gives **FOC as tentatively 31 Dec 2029** and **IOC as tentatively 30 Jun 2028**. Every FOC Q4 30 / IOC Q4 28 date on this page (and on [[SBTDWS Core Focus — Decision Brief (Two COAs, Revised)]], [[Commander Decisions Register]] D-12) is a full year later on FOC, roughly two quarters later on IOC. Not reconciled here — flagged as a genuine, unresolved conflict between a PG-level source and everything SBTDWS-side has been tracking since 2026-08-05. Also new: Product 3A gives the first specific date for Paper 2 issuance — **12 Feb 2026**.
 
 ## PG-wide Framework Timeline (2026-08-08)
 

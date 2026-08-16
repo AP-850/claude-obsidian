@@ -3,7 +3,7 @@ type: concept
 title: "PG 2030 Force Design Concepts"
 address: c-000004
 created: 2026-06-23
-updated: 2026-08-08
+updated: 2026-08-14
 tags:
   - sbtdws
   - pg-2030
@@ -20,6 +20,7 @@ related:
   - "[[Falcons Brigade]]"
   - "[[PG 2030 Warfighting Capability Pillars]]"
   - "[[sources/pg-2030-comd-briefing-pack]]"
+  - "[[PG 2030 Working Groups (12, FDC-Aligned)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -51,6 +52,9 @@ Navigation: [[sbtdws/_index]] | [[ADWC FIC Analysis]] | [[Foxglove]]
 > | 12 | PG Personnel | Joint/Integration |
 >
 > Matches the partial list below 1:1 on every concept both sources share (1–4, 6–12); the only addition is FDC 5. Source: [[sources/pg-2030-comd-briefing-pack]] page 2.
+
+> [!key-insight] Every FDC now has a named Working Group (2026-08-14)
+> [[PG 2030 Working Groups (12, FDC-Aligned)]] closes the governance gap: each FDC 1–12 above now maps to exactly one Working Group, Lead, and Desired End State. Notably **FDC 5 (Tactical Experimentation) = WG5 "Multi-Domain Battle Center,"** led by J7 Training Department — this is SBTDWS's own ADWC/MDTC transformation, now formally chartered as PG-level Working Group governance.
 
 ---
 

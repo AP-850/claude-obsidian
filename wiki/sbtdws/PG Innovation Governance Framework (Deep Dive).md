@@ -27,6 +27,7 @@ related:
   - "[[Three-Horizon Innovation Model]]"
   - "[[Workstream 1 — OOB and Staffing Transition Framework]]"
   - "[[Frank]]"
+  - "[[PG 2030 Working Groups (12, FDC-Aligned)]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -35,6 +36,9 @@ related:
 Deep-dive analysis prepared ahead of a Monday meeting (week of 2026-08-11) on PG innovation governance — chaired by J3, with CDD (J8), an AI-lead Colonel, Falcons Brigade (MAKHLAB 1), and the former S&T Center (now absorbed into CDD). This is [[PG 2030 Workstreams (2026-08-08)]] Workstream 2. Not a document ingest — built from existing wiki synthesis plus user-provided corrections during the session.
 
 Navigation: [[sbtdws/_index]] | [[PG 2030 Workstreams (2026-08-08)]] | [[CDD (Capability Development Department)]]
+
+> [!key-insight] RESOLVED 2026-08-14 — COA A (CDD leads), and MAKHLAB 1 stays a separate project inside the same WG
+> The original Monday meeting didn't reach quorum and was rescheduled to **Tuesday 2026-08-18, 08:00**. Ahead of that reschedule, per the user: **J3 decided CDD (J8) leads this Working Group**, with all relevant parties providing input — COA A below, decided. Independently corroborated by [[PG 2030 Working Groups (12, FDC-Aligned)]] WG4, which lists J8 Capabilities Development Directorate as Lead for the same FDC 4 territory. Separately, **MAKHLAB 1 (Falcons Brigade) and the Innovation Command work are now agreed to sit inside the same Working Group** — but as two projects that remain organisationally separate, not merged. Rationale: other units will develop their own MAKHLAB serials (2/3/4/8, see [[Programme MAKHLAB]]) and Falcons Brigade will function as the framework/best-practice reference for that, not as the owner of every unit's MAKHLAB project. The traffic runs the other direction too: lessons learned running the innovation piece (whatever CDD stands up) are expected to feed into, and potentially form part of the foundation of, the wider innovation pipeline/Innovation Command itself. The central caveat (CDD must stay culturally separate from its own CAPDEV/procurement business) and Frank's "CDD may be institutionally weak" read are both still open — winning the chair doesn't resolve either.
 
 > [!key-insight] User instruction: build the framework owner-agnostic
 > Deliberately does not designate a winning department. The goal is a framework the room can react to, plus a small number of governance-chair options with honest tradeoffs — not a recommendation to hand to one organisation.
@@ -197,6 +201,8 @@ Confirmed by the user, 2026-08-08: Monday's outcome directly determines the mann
 | v1.3 | 2026-08-08 | Linked downstream to [[Workstream 1 — OOB and Staffing Transition Framework]] Case 4 — Monday's outcome directly gates SBTDWS's own CAPDEV/Innovation cell manning |
 | v1.4 | 2026-08-08 | Incorporated Frank's reviewer feedback: "own the idea, not the work" stovepipe risk elevated to top ACT item; role confusion evidenced by a senior reviewer (CDD, STC, Col Saood — named for the first time, Falcons Bde); CDD's institutional weakness flagged as a distinct COA A risk; manufacturing-vs-industry disagreement added to the ATI-Hub manufacturing-idea caveat; WG-governance-first sequencing question and WG5 cross-coordination question added to ESCALATE |
 | v1.5 | 2026-08-08 | Identity resolved: Frank is the lead advisor to J3, coordinating all PG 2030 working groups — see [[Frank]] (new entity). Resolves his own cross-WG coordination question from the review. |
+| v1.6 | 2026-08-08 | Report revised to v2, incorporating the sharpest amendments from Frank's feedback: `exports/pg-innovation-governance-framework-v2.html` — original v1 retained unchanged at `exports/pg-innovation-governance-framework.html` |
+| v1.7 | 2026-08-14 | "Who leads" question resolved: J3 decided CDD (J8) chairs, corroborated independently by [[PG 2030 Working Groups (12, FDC-Aligned)]] WG4. MAKHLAB 1/Falcons Brigade and Innovation Command confirmed to sit in the same WG as two separate projects — Falcons Bde as framework/best-practice reference for other units' MAKHLAB serials, lessons from the innovation piece feeding into the innovation pipeline's foundation. Rescheduled meeting confirmed for Tuesday 2026-08-18, 08:00. |
 
 ## Source
 

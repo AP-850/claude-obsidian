@@ -3,6 +3,22 @@
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
   "sources": {
+    ".raw/PG 2030 New/New PG 2030 WGs_14 Aug 26.pdf": {
+      "hash": "8c5f552ca1e03048c4e7a46bd9ffd152d242a0aea00eaab02fbf3051269bb10",
+      "ingested_at": "2026-08-14",
+      "pages_created": [
+        "wiki/sources/pg2030-working-groups-12-fdc-aligned.md",
+        "wiki/sbtdws/PG 2030 Working Groups (12, FDC-Aligned).md"
+      ],
+      "pages_updated": [
+        "wiki/sbtdws/PG 2030 Working Groups.md",
+        "wiki/sbtdws/PG 2030 Force Design Concepts.md",
+        "wiki/sbtdws/_index.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
     ".raw/ChatGPT-SBTDWS 2030 Transformation.md": {
       "hash": "edff987155d1ea2ecd918ef103f990f5",
       "ingested_at": "2026-06-02",

@@ -7,7 +7,7 @@ aliases:
   - J8
   - Capability Development Department
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-14
 tags:
   - entity
   - pg-staff-branch
@@ -22,6 +22,8 @@ related:
   - "[[Makhlab 1 Project]]"
   - "[[Falcons Brigade]]"
   - "[[PG 2030 Workstreams (2026-08-08)]]"
+  - "[[PG 2030 Working Groups (12, FDC-Aligned)]]"
+  - "[[Programme MAKHLAB]]"
   - "[[sbtdws/_index]]"
 ---
 
@@ -49,10 +51,13 @@ The PG Science and Technology Center — previously an independent entity perfor
 > [!key-insight] Reframes S&T Center's presence at Monday's meeting
 > [[PG Innovation Governance Framework (Deep Dive)]] originally treated "S&T Center" as an independent third stakeholder alongside CDD, J3, and Falcons Brigade at the Monday meeting. It is not — S&T Center attendees are CDD personnel. This also means CDD's candidate portfolio already includes long-horizon technology scouting (the closest PG analog to Army PIT's FUZE function), not just downstream CAPDEV/procurement execution — a specific, sharper basis for recommending CDD's former-S&T function as the nucleus of an innovation board, distinct from CDD's core CAPDEV/procurement business. Workload capacity for this is unconfirmed.
 
-## Candidacy for Innovation Governance — the Central Caveat
+## Candidacy for Innovation Governance — RESOLVED 2026-08-14: CDD Leads
 
-Per the user directly: **whatever the innovation function becomes, it must be functionally and culturally separate from CDD's current day-to-day CAPDEV business** — purchasing equipment, fielding it across the organisation. CDD doing capability development/procurement well today is not the same skill or culture as running an innovation function, even if CDD (via the absorbed S&T mission) ends up hosting or chairing it. This distinction needs to be made explicit to CDD and the room at Monday's meeting, not assumed as understood. See [[PG Innovation Governance Framework (Deep Dive)]] COA A for the full risk/mitigation analysis.
+> [!key-insight] COA A decided — CDD/J8 is the Working Group lead
+> Per the user, confirmed 2026-08-14: J3 decided the week of 2026-08-11 that **CDD (J8) leads the Innovation Command Working Group**, with all relevant parties (including Falcons Brigade/MAKHLAB 1) providing input. This resolves the open "who leads" governance question from [[PG Innovation Governance Framework (Deep Dive)]] in favour of **COA A**. Independently corroborated by [[PG 2030 Working Groups (12, FDC-Aligned)]] WG4 ("Research and Development / Manufacturing and Innovation Center Concept," FDC 4), which separately lists **J8 Capabilities Development Directorate** as Lead — two independent signals converging on the same answer. The original Monday meeting (week of 2026-08-11) that would have made this decision was rescheduled to **Tuesday 2026-08-18, 08:00** because not everyone was present — this is the reschedule, not a new meeting.
+>
+> The central caveat from the original framework still applies and has not been separately confirmed as resolved: **whatever the innovation function becomes, it must be functionally and culturally separate from CDD's current day-to-day CAPDEV business** (purchasing equipment, fielding it across the organisation). CDD doing capability development/procurement well today is not the same skill or culture as running an innovation function, even now that CDD is the confirmed chair. Frank's independent "pretty weak" institutional-authority assessment (see [[PG Innovation Governance Framework (Deep Dive)]]) is also unresolved by this decision — CDD winning the chair doesn't by itself answer whether CDD has the standing to make the separation stick.
 
 ## Source
 
-User-provided context, 2026-08-08, ahead of the Innovation Command / FDC 5 Monday meeting (see [[PG 2030 Workstreams (2026-08-08)]] Workstream 2). Not from a document ingest.
+User-provided context, 2026-08-08, ahead of the Innovation Command / FDC 5 Monday meeting (see [[PG 2030 Workstreams (2026-08-08)]] Workstream 2). Lead decision confirmed by the user 2026-08-14, ahead of the rescheduled meeting (Tuesday 2026-08-18). Not from a document ingest.
